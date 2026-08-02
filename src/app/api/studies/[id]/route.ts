@@ -2,7 +2,7 @@ import { NextRequest } from "next/server";
 import { eq } from "drizzle-orm";
 import { db } from "@/db";
 import { studies } from "@/db/schema";
-import { requireUser, canWrite, apiError, ApiError } from "@/lib/auth";
+import { requireUser, requireWriter, apiError, ApiError, requireUuid, readJson } from "@/lib/auth";
 import { studyUpdateSchema } from "@/lib/validation";
 import { removeStudyDir } from "@/lib/storage";
 
@@ -11,16 +11,16 @@ type Ctx = { params: Promise<{ id: string }> };
 export async function GET(_req: NextRequest, ctx: Ctx) {
   try {
     await requireUser();
-    const { id } = await ctx.params;
-    const rows = await db.query.studies.findFirst({
+    const id = requireUuid((await ctx.params).id, "study id");
+    const study = await db.query.studies.findFirst({
       where: eq(studies.id, id),
       with: {
         legs: { orderBy: (l, { asc }) => [asc(l.sequence)] },
         createdBy: { columns: { id: true, name: true, email: true } },
       },
     });
-    if (!rows) throw new ApiError(404, "Study not found");
-    return Response.json({ study: rows });
+    if (!study) throw new ApiError(404, "Study not found");
+    return Response.json({ study });
   } catch (e) {
     return apiError(e);
   }
@@ -28,13 +28,16 @@ export async function GET(_req: NextRequest, ctx: Ctx) {
 
 export async function PATCH(req: NextRequest, ctx: Ctx) {
   try {
-    const me = await requireUser();
-    if (!canWrite(me.role)) throw new ApiError(403, "Forbidden");
-    const { id } = await ctx.params;
-    const body = studyUpdateSchema.parse(await req.json());
-    const values: Partial<typeof studies.$inferInsert> = { ...body, updatedAt: new Date() };
-    if (body.startDate !== undefined) values.startDate = body.startDate ? new Date(body.startDate) : null;
-    if (body.endDate !== undefined) values.endDate = body.endDate ? new Date(body.endDate) : null;
+    await requireWriter();
+    const id = requireUuid((await ctx.params).id, "study id");
+    const body = studyUpdateSchema.parse(await readJson(req));
+
+    // Dates arrive as ISO strings; strip them out before spreading into the row.
+    const { startDate, endDate, ...rest } = body;
+    const values: Partial<typeof studies.$inferInsert> = { ...rest, updatedAt: new Date() };
+    if (startDate !== undefined) values.startDate = startDate ? new Date(startDate) : null;
+    if (endDate !== undefined) values.endDate = endDate ? new Date(endDate) : null;
+
     const [updated] = await db.update(studies).set(values).where(eq(studies.id, id)).returning();
     if (!updated) throw new ApiError(404, "Study not found");
     return Response.json({ study: updated });
@@ -43,11 +46,11 @@ export async function PATCH(req: NextRequest, ctx: Ctx) {
   }
 }
 
+/** Deletes the study, its cascaded rows, and its uploaded files on disk. */
 export async function DELETE(_req: NextRequest, ctx: Ctx) {
   try {
-    const me = await requireUser();
-    if (!canWrite(me.role)) throw new ApiError(403, "Forbidden");
-    const { id } = await ctx.params;
+    await requireWriter();
+    const id = requireUuid((await ctx.params).id, "study id");
     const [deleted] = await db.delete(studies).where(eq(studies.id, id)).returning({ id: studies.id });
     if (!deleted) throw new ApiError(404, "Study not found");
     await removeStudyDir(id);

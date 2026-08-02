@@ -7,3 +7,4 @@ dist-worker
 uploads
 .DS_Store
 coverage
+tsconfig.tsbuildinfo

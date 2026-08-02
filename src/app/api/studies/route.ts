@@ -1,40 +1,44 @@
 import { NextRequest } from "next/server";
-import { desc, sql } from "drizzle-orm";
+import { desc, sql, and, eq, ilike, or, type SQL } from "drizzle-orm";
 import { db } from "@/db";
-import { studies, legs, responses } from "@/db/schema";
-import { requireUser, canWrite, apiError, ApiError } from "@/lib/auth";
+import { studies, legs } from "@/db/schema";
+import { requireUser, requireWriter, apiError, readJson } from "@/lib/auth";
 import { studyCreateSchema } from "@/lib/validation";
 
+const STUDY_STATUSES = ["DRAFT", "COLLECTING", "PROCESSING", "ANALYZED", "ARCHIVED"] as const;
+type StudyStatus = (typeof STUDY_STATUSES)[number];
+
+/** Study list with counts and a sentiment snapshot for the dashboard. */
 export async function GET(req: NextRequest) {
   try {
     await requireUser();
     const q = req.nextUrl.searchParams.get("q")?.trim();
     const status = req.nextUrl.searchParams.get("status")?.trim();
 
+    const filters: SQL[] = [];
+    if (q) {
+      const like = `%${q}%`;
+      const match = or(ilike(studies.name, like), ilike(studies.product, like));
+      if (match) filters.push(match);
+    }
+    if (status && STUDY_STATUSES.includes(status as StudyStatus)) {
+      filters.push(eq(studies.status, status as StudyStatus));
+    }
+
     const rows = await db
       .select({
         study: studies,
-        legCount: sql<number>`(SELECT count(*) FROM legs WHERE legs.study_id = ${studies.id})`,
-        responseCount: sql<number>`(SELECT count(*) FROM responses WHERE responses.study_id = ${studies.id})`,
-        likeCount: sql<number>`(SELECT count(*) FROM responses WHERE responses.study_id = ${studies.id} AND responses.sentiment = 'LIKE')`,
-        dislikeCount: sql<number>`(SELECT count(*) FROM responses WHERE responses.study_id = ${studies.id} AND responses.sentiment = 'DISLIKE')`,
-        indifferentCount: sql<number>`(SELECT count(*) FROM responses WHERE responses.study_id = ${studies.id} AND responses.sentiment = 'INDIFFERENT')`,
+        legCount: sql<number>`(SELECT count(*)::int FROM legs WHERE legs.study_id = ${studies.id})`,
+        responseCount: sql<number>`(SELECT count(*)::int FROM responses WHERE responses.study_id = ${studies.id})`,
+        likeCount: sql<number>`(SELECT count(*)::int FROM responses WHERE responses.study_id = ${studies.id} AND responses.sentiment = 'LIKE')`,
+        dislikeCount: sql<number>`(SELECT count(*)::int FROM responses WHERE responses.study_id = ${studies.id} AND responses.sentiment = 'DISLIKE')`,
+        indifferentCount: sql<number>`(SELECT count(*)::int FROM responses WHERE responses.study_id = ${studies.id} AND responses.sentiment = 'INDIFFERENT')`,
       })
       .from(studies)
+      .where(filters.length > 0 ? and(...filters) : undefined)
       .orderBy(desc(studies.createdAt));
 
-    let out = rows;
-    if (q) {
-      const needle = q.toLowerCase();
-      out = out.filter(
-        (r) =>
-          r.study.name.toLowerCase().includes(needle) ||
-          r.study.product.toLowerCase().includes(needle)
-      );
-    }
-    if (status) out = out.filter((r) => r.study.status === status);
-
-    return Response.json({ studies: out });
+    return Response.json({ studies: rows });
   } catch (e) {
     return apiError(e);
   }
@@ -42,9 +46,9 @@ export async function GET(req: NextRequest) {
 
 export async function POST(req: NextRequest) {
   try {
-    const me = await requireUser();
-    if (!canWrite(me.role)) throw new ApiError(403, "Viewers cannot create studies");
-    const body = studyCreateSchema.parse(await req.json());
+    const me = await requireWriter();
+    const body = studyCreateSchema.parse(await readJson(req));
+
     const [created] = await db
       .insert(studies)
       .values({
@@ -54,8 +58,10 @@ export async function POST(req: NextRequest) {
         createdById: me.id,
       })
       .returning();
-    // Auto-create a first leg so uploads have a target
+
+    // Every study needs at least one leg before data can be uploaded.
     await db.insert(legs).values({ studyId: created.id, name: "Leg 1", sequence: 1 });
+
     return Response.json({ study: created }, { status: 201 });
   } catch (e) {
     return apiError(e);

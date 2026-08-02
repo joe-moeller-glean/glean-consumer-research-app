@@ -1,43 +1,53 @@
 import { NextRequest } from "next/server";
-import { eq, desc, and, ilike, type SQL } from "drizzle-orm";
+import { eq, desc, and, ilike, count, type SQL } from "drizzle-orm";
 import { db } from "@/db";
-import { responses, legs } from "@/db/schema";
-import { requireUser, apiError } from "@/lib/auth";
+import { responses, legs, panelists } from "@/db/schema";
+import { requireUser, apiError, requireUuid } from "@/lib/auth";
 
 type Ctx = { params: Promise<{ id: string }> };
 
-// GET responses for a study with filters: ?legId=&sentiment=&q=&limit=&offset=
+const SENTIMENTS = ["LIKE", "DISLIKE", "INDIFFERENT"] as const;
+type Sentiment = (typeof SENTIMENTS)[number];
+
+/** Paginated response browser: ?legId=&sentiment=&q=&limit=&offset= */
 export async function GET(req: NextRequest, ctx: Ctx) {
   try {
     await requireUser();
-    const { id: studyId } = await ctx.params;
+    const studyId = requireUuid((await ctx.params).id, "study id");
     const sp = req.nextUrl.searchParams;
-    const conditions: SQL[] = [eq(responses.studyId, studyId)];
+
+    const filters: SQL[] = [eq(responses.studyId, studyId)];
     const legId = sp.get("legId");
+    if (legId) filters.push(eq(responses.legId, requireUuid(legId, "leg id")));
     const sentiment = sp.get("sentiment");
-    const q = sp.get("q");
-    if (legId) conditions.push(eq(responses.legId, legId));
-    if (sentiment === "LIKE" || sentiment === "DISLIKE" || sentiment === "INDIFFERENT") {
-      conditions.push(eq(responses.sentiment, sentiment));
+    if (sentiment && SENTIMENTS.includes(sentiment as Sentiment)) {
+      filters.push(eq(responses.sentiment, sentiment as Sentiment));
     }
-    if (q) conditions.push(ilike(responses.feedbackText, `%${q}%`));
+    const q = sp.get("q")?.trim();
+    if (q) filters.push(ilike(responses.feedbackText, `%${q}%`));
 
-    const limit = Math.min(parseInt(sp.get("limit") ?? "100", 10) || 100, 500);
-    const offset = parseInt(sp.get("offset") ?? "0", 10) || 0;
+    const where = and(...filters);
+    const limit = Math.min(Math.max(parseInt(sp.get("limit") ?? "50", 10) || 50, 1), 200);
+    const offset = Math.max(parseInt(sp.get("offset") ?? "0", 10) || 0, 0);
 
-    const rows = await db
-      .select({
-        response: responses,
-        legName: legs.name,
-      })
-      .from(responses)
-      .leftJoin(legs, eq(responses.legId, legs.id))
-      .where(and(...conditions))
-      .orderBy(desc(responses.createdAt))
-      .limit(limit)
-      .offset(offset);
+    const [rows, [{ value: total }]] = await Promise.all([
+      db
+        .select({
+          response: responses,
+          legName: legs.name,
+          panelistExternal: panelists.panelistId,
+        })
+        .from(responses)
+        .leftJoin(legs, eq(responses.legId, legs.id))
+        .leftJoin(panelists, eq(responses.panelistId, panelists.id))
+        .where(where)
+        .orderBy(desc(responses.createdAt))
+        .limit(limit)
+        .offset(offset),
+      db.select({ value: count() }).from(responses).where(where),
+    ]);
 
-    return Response.json({ responses: rows, limit, offset });
+    return Response.json({ responses: rows, total: Number(total), limit, offset });
   } catch (e) {
     return apiError(e);
   }

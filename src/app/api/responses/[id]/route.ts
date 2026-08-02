@@ -2,18 +2,20 @@ import { NextRequest } from "next/server";
 import { eq } from "drizzle-orm";
 import { db } from "@/db";
 import { responses } from "@/db/schema";
-import { requireUser, canWrite, apiError, ApiError } from "@/lib/auth";
+import { requireWriter, apiError, ApiError, requireUuid, readJson } from "@/lib/auth";
 import { responseUpdateSchema } from "@/lib/validation";
 
 type Ctx = { params: Promise<{ id: string }> };
 
-// Manual sentiment override
+/**
+ * Manual sentiment override. Sets sentimentOverridden so a later batch ingest
+ * never overwrites a human decision.
+ */
 export async function PATCH(req: NextRequest, ctx: Ctx) {
   try {
-    const me = await requireUser();
-    if (!canWrite(me.role)) throw new ApiError(403, "Forbidden");
-    const { id } = await ctx.params;
-    const body = responseUpdateSchema.parse(await req.json());
+    await requireWriter();
+    const id = requireUuid((await ctx.params).id, "response id");
+    const body = responseUpdateSchema.parse(await readJson(req));
     const [updated] = await db
       .update(responses)
       .set({

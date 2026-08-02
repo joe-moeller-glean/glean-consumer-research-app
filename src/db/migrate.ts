@@ -1,5 +1,4 @@
 import { migrate } from "drizzle-orm/node-postgres/migrator";
-import { eq } from "drizzle-orm";
 import bcrypt from "bcryptjs";
 import path from "path";
 import { db, pool } from "./index";

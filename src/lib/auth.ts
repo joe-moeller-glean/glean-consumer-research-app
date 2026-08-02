@@ -5,6 +5,10 @@ import { eq } from "drizzle-orm";
 import { db } from "@/db";
 import { users } from "@/db/schema";
 import { env } from "@/lib/env";
+import { ApiError } from "@/lib/http";
+
+// Re-exported so route handlers have a single import site for auth + errors.
+export { ApiError, apiError, requireUuid, readJson } from "@/lib/http";
 
 declare module "next-auth" {
   interface Session {
@@ -82,20 +86,9 @@ export async function requireRole(...roles: Array<"ADMIN" | "RESEARCHER" | "VIEW
 
 export const canWrite = (role: string) => role === "ADMIN" || role === "RESEARCHER";
 
-export class ApiError extends Error {
-  constructor(
-    public status: number,
-    message: string
-  ) {
-    super(message);
-    this.name = "ApiError";
-  }
-}
-
-export function apiError(e: unknown): globalThis.Response {
-  const err = e as { status?: number; message?: string; issues?: unknown };
-  const status = err.status ?? 500;
-  const body: Record<string, unknown> = { error: err.message ?? "Internal server error" };
-  if (err.issues) body.issues = err.issues;
-  return Response.json(body, { status });
+/** Throws 403 for VIEWER accounts. Use on every mutating route handler. */
+export async function requireWriter() {
+  const user = await requireUser();
+  if (!canWrite(user.role)) throw new ApiError(403, "Read-only account");
+  return user;
 }
