@@ -1,288 +1,593 @@
 panelist_id,question,feedback,coded_sentiment,responded_at
-NW-101504,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-07
-NW-101504,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-07
-NW-101504,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-07
-NW-101504,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-07
-NW-101504,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-07
-NW-101511,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-10
-NW-101511,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-10
-NW-101511,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-10
-NW-101511,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-10
-NW-101511,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-10
-NW-101518,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-04
-NW-101518,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-04
-NW-101518,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-04
-NW-101518,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-04
-NW-101518,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-04
-NW-101525,What was your first impression of the sample you just tasted?,First impression was neutral. It is a perfectly acceptable sparkling water and it tastes like most of the other ones I have had.,INDIFFERENT,2026-05-12
-NW-101525,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it.,INDIFFERENT,2026-05-12
-NW-101525,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-12
-NW-101525,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-12
-NW-101532,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-18
-NW-101532,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-18
-NW-101532,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-18
-NW-101532,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-18
-NW-101532,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-18
-NW-101539,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-22
-NW-101539,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-22
-NW-101539,Would you purchase this product at your regular store?,No.,DISLIKE,2026-05-22
-NW-101539,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-22
-NW-101539,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-22
-NW-101546,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-11
-NW-101546,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-11
-NW-101546,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-11
-NW-101546,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-11
-NW-101546,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-11
-NW-101553,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed.",LIKE,2026-05-09
-NW-101553,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-09
-NW-101553,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-09
-NW-101553,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-09
-NW-101560,What was your first impression of the sample you just tasted?,Way too sweet.,DISLIKE,2026-05-02
-NW-101560,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-02
-NW-101560,Would you purchase this product at your regular store?,Hard to say,INDIFFERENT,2026-05-02
-NW-101560,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-02
-NW-101560,Did the product meet the expectations set by the description you were given?,Maybe,INDIFFERENT,2026-05-02
-NW-101567,What was your first impression of the sample you just tasted?,Tastes artificial.,DISLIKE,2026-05-17
-NW-101567,How would you describe the aftertaste?,Lingering artificial sweetener taste.,DISLIKE,2026-05-17
-NW-101567,Would you purchase this product at your regular store?,No thanks,DISLIKE,2026-05-17
-NW-101567,"What, if anything, would you change about this product?",Less carbonation and much less sweetness. Right now it is trying to be a soda and failing at being a sparkling water.,DISLIKE,2026-05-17
-NW-101567,Did the product meet the expectations set by the description you were given?,No thanks,DISLIKE,2026-05-17
-NW-101574,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-12
-NW-101574,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-12
-NW-101574,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-12
-NW-101574,"What, if anything, would you change about this product?",Cut the sweetener entirely.,DISLIKE,2026-05-12
-NW-101574,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-12
-NW-101581,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-03
-NW-101581,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-03
-NW-101581,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-03
-NW-101581,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-03
-NW-101581,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-03
-NW-101588,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-19
-NW-101588,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-19
-NW-101588,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-19
-NW-101588,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-19
-NW-101588,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-19
-NW-101595,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-17
-NW-101595,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-17
-NW-101595,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-17
-NW-101595,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-17
-NW-101602,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-05
-NW-101602,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it.,INDIFFERENT,2026-05-05
-NW-101602,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-05
-NW-101602,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-05
-NW-101602,Did the product meet the expectations set by the description you were given?,It depends on the price,INDIFFERENT,2026-05-05
-NW-101609,What was your first impression of the sample you just tasted?,Tastes like seltzer.,INDIFFERENT,2026-05-23
-NW-101609,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-23
-NW-101609,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-23
-NW-101609,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-23
-NW-101616,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-12
-NW-101616,How would you describe the aftertaste?,Normal for a seltzer.,INDIFFERENT,2026-05-12
-NW-101616,Would you purchase this product at your regular store?,Only if it were on sale,INDIFFERENT,2026-05-12
-NW-101616,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-12
-NW-101616,Did the product meet the expectations set by the description you were given?,Only if it were on sale,INDIFFERENT,2026-05-12
-NW-101623,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-11
-NW-101623,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-11
-NW-101623,Would you purchase this product at your regular store?,Yes - already planning to,LIKE,2026-05-11
-NW-101623,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-11
-NW-101623,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-11
-NW-101630,What was your first impression of the sample you just tasted?,First impression was neutral. It is a perfectly acceptable sparkling water and it tastes like most of the other ones I have had.,INDIFFERENT,2026-05-22
-NW-101630,How would you describe the aftertaste?,Normal for a seltzer.,INDIFFERENT,2026-05-22
-NW-101630,Would you purchase this product at your regular store?,It depends on the price,INDIFFERENT,2026-05-22
-NW-101630,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-22
-NW-101630,Did the product meet the expectations set by the description you were given?,It depends on the price,INDIFFERENT,2026-05-22
-NW-101637,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed.",LIKE,2026-05-12
-NW-101637,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-12
-NW-101637,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-12
-NW-101637,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-12
-NW-101637,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-12
-NW-101644,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-14
-NW-101644,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-14
-NW-101644,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-14
-NW-101644,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-14
-NW-101644,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-14
-NW-101651,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-03
-NW-101651,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-03
-NW-101651,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-03
-NW-101651,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-03
-NW-101658,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-04
-NW-101658,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-04
-NW-101658,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-04
-NW-101658,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-04
-NW-101658,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-04
-NW-101665,What was your first impression of the sample you just tasted?,Tastes artificial.,DISLIKE,2026-05-13
-NW-101665,How would you describe the aftertaste?,"Unpleasant. Slightly soapy, and it made me want to drink actual water to clear it out.",DISLIKE,2026-05-13
-NW-101665,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-13
-NW-101665,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-13
-NW-101672,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-24
-NW-101672,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-24
-NW-101672,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-24
-NW-101672,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-24
-NW-101679,What was your first impression of the sample you just tasted?,"My honest first impression was disappointment. The carbonation was aggressive and sharp, and behind it was a strange saline taste I associate with cheap seltzer. I would not have guessed this was meant to be a premium product.",DISLIKE,2026-05-23
-NW-101679,How would you describe the aftertaste?,The aftertaste is the dealbreaker. It has that sharp fake-sweet note that sits on your tongue for a good twenty minutes afterward.,DISLIKE,2026-05-23
-NW-101679,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-23
-NW-101679,Did the product meet the expectations set by the description you were given?,No thanks,DISLIKE,2026-05-23
-NW-101686,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed.",LIKE,2026-05-14
-NW-101686,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-14
-NW-101686,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-14
-NW-101686,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-14
-NW-101693,What was your first impression of the sample you just tasted?,It was fine.,INDIFFERENT,2026-05-16
-NW-101693,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it.,INDIFFERENT,2026-05-16
-NW-101693,Would you purchase this product at your regular store?,Maybe,INDIFFERENT,2026-05-16
-NW-101693,"What, if anything, would you change about this product?",Nothing comes to mind.,INDIFFERENT,2026-05-16
-NW-101700,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-21
-NW-101700,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-21
-NW-101700,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-21
-NW-101700,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-21
-NW-101707,What was your first impression of the sample you just tasted?,Way too sweet.,DISLIKE,2026-05-01
-NW-101707,How would you describe the aftertaste?,Bitter aftertaste.,DISLIKE,2026-05-01
-NW-101707,Would you purchase this product at your regular store?,No,DISLIKE,2026-05-01
-NW-101707,"What, if anything, would you change about this product?",Cut the sweetener entirely.,DISLIKE,2026-05-01
-NW-101707,Did the product meet the expectations set by the description you were given?,No,DISLIKE,2026-05-01
-NW-101714,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-23
-NW-101714,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-23
-NW-101714,Would you purchase this product at your regular store?,Possibly,INDIFFERENT,2026-05-23
-NW-101714,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-23
-NW-101714,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-23
-NW-101721,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-16
-NW-101721,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-16
-NW-101721,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-16
-NW-101721,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-16
-NW-101721,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-16
-NW-101728,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-10
-NW-101728,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-10
-NW-101728,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-10
-NW-101728,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-10
-NW-101735,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-14
-NW-101735,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-14
-NW-101735,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-14
-NW-101735,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-14
-NW-101742,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-17
-NW-101742,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-17
-NW-101742,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-17
-NW-101742,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-17
-NW-101742,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-17
-NW-101749,What was your first impression of the sample you just tasted?,Nothing stood out.,INDIFFERENT,2026-05-12
-NW-101749,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-12
-NW-101749,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-12
-NW-101749,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-12
-NW-101749,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-12
-NW-101756,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-24
-NW-101756,How would you describe the aftertaste?,Normal for a seltzer.,INDIFFERENT,2026-05-24
-NW-101756,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-24
-NW-101756,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-24
-NW-101756,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-24
-NW-101763,What was your first impression of the sample you just tasted?,Nothing stood out.,INDIFFERENT,2026-05-10
-NW-101763,How would you describe the aftertaste?,Normal for a seltzer.,INDIFFERENT,2026-05-10
-NW-101763,Would you purchase this product at your regular store?,Only if it were on sale,INDIFFERENT,2026-05-10
-NW-101763,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-10
-NW-101770,What was your first impression of the sample you just tasted?,Nothing stood out.,INDIFFERENT,2026-05-23
-NW-101770,How would you describe the aftertaste?,Normal for a seltzer.,INDIFFERENT,2026-05-23
-NW-101770,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-23
-NW-101770,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-23
-NW-101770,Did the product meet the expectations set by the description you were given?,It depends on the price,INDIFFERENT,2026-05-23
-NW-101777,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed.",LIKE,2026-05-12
-NW-101777,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-12
-NW-101777,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-12
-NW-101777,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-12
-NW-101777,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-12
-NW-101784,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-24
-NW-101784,How would you describe the aftertaste?,Not much either way.,INDIFFERENT,2026-05-24
-NW-101784,Would you purchase this product at your regular store?,Yes - already planning to,LIKE,2026-05-24
-NW-101784,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-24
-NW-101784,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-24
-NW-101791,What was your first impression of the sample you just tasted?,Nothing stood out.,INDIFFERENT,2026-05-15
-NW-101791,How would you describe the aftertaste?,Mild aftertaste.,INDIFFERENT,2026-05-15
-NW-101791,Would you purchase this product at your regular store?,No thanks,DISLIKE,2026-05-15
-NW-101791,"What, if anything, would you change about this product?",Nothing comes to mind.,INDIFFERENT,2026-05-15
-NW-101791,Did the product meet the expectations set by the description you were given?,Maybe,INDIFFERENT,2026-05-15
-NW-101798,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-11
-NW-101798,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-11
-NW-101798,Would you purchase this product at your regular store?,Only if it were on sale,INDIFFERENT,2026-05-11
-NW-101798,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-11
-NW-101798,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-11
-NW-101805,What was your first impression of the sample you just tasted?,Tastes like seltzer.,INDIFFERENT,2026-05-03
-NW-101805,How would you describe the aftertaste?,Not much either way.,INDIFFERENT,2026-05-03
-NW-101805,Would you purchase this product at your regular store?,Possibly,INDIFFERENT,2026-05-03
-NW-101805,"What, if anything, would you change about this product?",More citrus maybe.,INDIFFERENT,2026-05-03
-NW-101812,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-08
-NW-101812,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-08
-NW-101812,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-08
-NW-101812,"What, if anything, would you change about this product?",Less carbonation and much less sweetness. Right now it is trying to be a soda and failing at being a sparkling water.,DISLIKE,2026-05-08
-NW-101812,Did the product meet the expectations set by the description you were given?,Definitely not,DISLIKE,2026-05-08
-NW-101819,What was your first impression of the sample you just tasted?,"My honest first impression was disappointment. The carbonation was aggressive and sharp, and behind it was a strange saline taste I associate with cheap seltzer. I would not have guessed this was meant to be a premium product.",DISLIKE,2026-05-23
-NW-101819,How would you describe the aftertaste?,Bitter aftertaste.,DISLIKE,2026-05-23
-NW-101819,Would you purchase this product at your regular store?,Definitely not,DISLIKE,2026-05-23
-NW-101819,"What, if anything, would you change about this product?",Cut the sweetener entirely.,DISLIKE,2026-05-23
-NW-101819,Did the product meet the expectations set by the description you were given?,No,DISLIKE,2026-05-23
-NW-101826,What was your first impression of the sample you just tasted?,It was fine.,INDIFFERENT,2026-05-23
-NW-101826,How would you describe the aftertaste?,Normal for a seltzer.,INDIFFERENT,2026-05-23
-NW-101826,Would you purchase this product at your regular store?,It depends on the price,INDIFFERENT,2026-05-23
-NW-101826,"What, if anything, would you change about this product?",Nothing comes to mind.,INDIFFERENT,2026-05-23
-NW-101826,Did the product meet the expectations set by the description you were given?,Maybe,INDIFFERENT,2026-05-23
-NW-101833,What was your first impression of the sample you just tasted?,"No real reaction either way. There is a faint citrus note, the bubbles are normal, and that is about all I noticed.",INDIFFERENT,2026-05-11
-NW-101833,How would you describe the aftertaste?,Mild aftertaste.,INDIFFERENT,2026-05-11
-NW-101833,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-11
-NW-101833,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-11
-NW-101833,Did the product meet the expectations set by the description you were given?,Only if it were on sale,INDIFFERENT,2026-05-11
-NW-101840,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-02
-NW-101840,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-02
-NW-101840,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-02
-NW-101840,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-02
-NW-101840,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-02
-NW-101847,What was your first impression of the sample you just tasted?,It was fine.,INDIFFERENT,2026-05-24
-NW-101847,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it.,INDIFFERENT,2026-05-24
-NW-101847,"What, if anything, would you change about this product?",More citrus maybe.,INDIFFERENT,2026-05-24
-NW-101847,Did the product meet the expectations set by the description you were given?,Only if it were on sale,INDIFFERENT,2026-05-24
-NW-101854,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-22
-NW-101854,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-22
-NW-101854,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-22
-NW-101854,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-22
-NW-101854,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-22
-NW-101861,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-23
-NW-101861,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-23
-NW-101861,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-23
-NW-101861,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-23
-NW-101861,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-23
-NW-101868,What was your first impression of the sample you just tasted?,It was fine.,INDIFFERENT,2026-05-05
-NW-101868,How would you describe the aftertaste?,Not much either way.,INDIFFERENT,2026-05-05
-NW-101868,Would you purchase this product at your regular store?,It depends on the price,INDIFFERENT,2026-05-05
-NW-101868,"What, if anything, would you change about this product?",More citrus maybe.,INDIFFERENT,2026-05-05
-NW-101868,Did the product meet the expectations set by the description you were given?,Only if it were on sale,INDIFFERENT,2026-05-05
-NW-101875,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-17
-NW-101875,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-17
-NW-101875,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-17
-NW-101875,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-17
-NW-101875,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-17
-NW-101882,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-21
-NW-101882,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-21
-NW-101882,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-21
-NW-101882,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-21
-NW-101882,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-21
-NW-101889,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-20
-NW-101889,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-20
-NW-101889,Would you purchase this product at your regular store?,Only if it were on sale,INDIFFERENT,2026-05-20
-NW-101889,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-20
-NW-101889,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-20
-NW-101896,What was your first impression of the sample you just tasted?,Tastes like seltzer.,INDIFFERENT,2026-05-22
-NW-101896,Would you purchase this product at your regular store?,Only if it were on sale,INDIFFERENT,2026-05-22
-NW-101896,"What, if anything, would you change about this product?",Nothing comes to mind.,INDIFFERENT,2026-05-22
-NW-101896,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-22
-NW-101903,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-15
-NW-101903,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-15
-NW-101903,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-15
-NW-101903,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-15
-NW-101910,What was your first impression of the sample you just tasted?,First impression was neutral. It is a perfectly acceptable sparkling water and it tastes like most of the other ones I have had.,INDIFFERENT,2026-05-15
-NW-101910,How would you describe the aftertaste?,Lingering artificial sweetener taste.,DISLIKE,2026-05-15
-NW-101910,Would you purchase this product at your regular store?,Hard to say,INDIFFERENT,2026-05-15
-NW-101910,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-15
-NW-101910,Did the product meet the expectations set by the description you were given?,Only if it were on sale,INDIFFERENT,2026-05-15
-NW-101917,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed.",LIKE,2026-05-24
-NW-101917,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-24
-NW-101917,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-24
-NW-101917,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-24
-NW-101917,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-24
-NW-101924,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed.",LIKE,2026-05-15
-NW-101924,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-15
-NW-101924,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-15
-NW-101924,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-15
-NW-101924,Did the product meet the expectations set by the description you were given?,"No, I'll stick with my usual",DISLIKE,2026-05-15
+NW-101309,What was your first impression of the sample you just tasted?,First impression was neutral. It is a perfectly acceptable sparkling water and it tastes like most of the other ones I have had.,INDIFFERENT,2026-05-04
+NW-101309,How would you describe the aftertaste?,Normal for a seltzer.,INDIFFERENT,2026-05-04
+NW-101309,Would you purchase this product at your regular store?,It depends on the price,INDIFFERENT,2026-05-04
+NW-101309,"What, if anything, would you change about this product?",Nothing comes to mind. About what I expected going in.,INDIFFERENT,2026-05-04
+NW-101309,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-04
+NW-101316,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-22
+NW-101316,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-22
+NW-101316,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-22
+NW-101316,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is. My partner agreed with me.,LIKE,2026-05-22
+NW-101316,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-22
+NW-101323,What was your first impression of the sample you just tasted?,"It reminded me of cleaning product, honestly. The citrus is harsh and there is a bitter edge underneath that I could not get past even after a few sips.",DISLIKE,2026-05-06
+NW-101323,How would you describe the aftertaste?,"Unpleasant. Slightly soapy, and it made me want to drink actual water to clear it out. This needs to go back to development.",DISLIKE,2026-05-06
+NW-101323,Would you purchase this product at your regular store?,"No, I would not",DISLIKE,2026-05-06
+NW-101323,Did the product meet the expectations set by the description you were given?,No.,DISLIKE,2026-05-06
+NW-101330,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed. I would happily pay a little more for this.",LIKE,2026-05-12
+NW-101330,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-12
+NW-101330,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-12
+NW-101330,"What, if anything, would you change about this product?","Nothing, honestly. I would happily pay a little more for this.",LIKE,2026-05-12
+NW-101330,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-12
+NW-101337,What was your first impression of the sample you just tasted?,Tastes artificial.,DISLIKE,2026-05-09
+NW-101337,How would you describe the aftertaste?,"Chemical, stays with you. I gave the rest away.",DISLIKE,2026-05-09
+NW-101337,Would you purchase this product at your regular store?,It depends on the price,INDIFFERENT,2026-05-09
+NW-101337,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. My partner agreed with me.",LIKE,2026-05-09
+NW-101337,Did the product meet the expectations set by the description you were given?,"No, I would not",DISLIKE,2026-05-09
+NW-101344,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing. I have already recommended it to a coworker.",LIKE,2026-05-24
+NW-101344,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate. It held up over the whole test period.",LIKE,2026-05-24
+NW-101344,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-24
+NW-101344,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-24
+NW-101344,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-24
+NW-101351,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat. Better than what I use now.,LIKE,2026-05-22
+NW-101351,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-22
+NW-101351,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-22
+NW-101351,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-22
+NW-101351,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-22
+NW-101358,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-24
+NW-101358,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-24
+NW-101358,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-24
+NW-101358,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-24
+NW-101358,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-24
+NW-101365,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-06
+NW-101365,How would you describe the aftertaste?,Nice and dry at the finish. Good value compared to the name brand.,LIKE,2026-05-06
+NW-101365,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-06
+NW-101365,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-06
+NW-101365,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-06
+NW-101372,What was your first impression of the sample you just tasted?,Loved it right away. I would keep it stocked if it were easy to find.,LIKE,2026-05-03
+NW-101372,How would you describe the aftertaste?,"Clean, no aftertaste. Better than what I use now.",LIKE,2026-05-03
+NW-101372,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-03
+NW-101372,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-03
+NW-101372,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-03
+NW-101379,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-22
+NW-101379,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-22
+NW-101379,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-22
+NW-101379,"What, if anything, would you change about this product?","Nothing, honestly. Good value compared to the name brand.",LIKE,2026-05-22
+NW-101379,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-22
+NW-101386,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. This is the first one of these I have actually finished.",LIKE,2026-05-13
+NW-101386,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-13
+NW-101386,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-13
+NW-101386,"What, if anything, would you change about this product?",Maybe a bigger can size. Better than what I use now.,LIKE,2026-05-13
+NW-101386,Did the product meet the expectations set by the description you were given?,"No, I would not",DISLIKE,2026-05-13
+NW-101393,What was your first impression of the sample you just tasted?,Nothing stood out. I finished it without thinking about it much.,INDIFFERENT,2026-05-10
+NW-101393,How would you describe the aftertaste?,Nice and dry at the finish. This is the first one of these I have actually finished.,LIKE,2026-05-10
+NW-101393,Would you purchase this product at your regular store?,Maybe,INDIFFERENT,2026-05-10
+NW-101393,"What, if anything, would you change about this product?",More citrus maybe.,INDIFFERENT,2026-05-10
+NW-101393,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-10
+NW-101400,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-17
+NW-101400,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate. I have already recommended it to a coworker.",LIKE,2026-05-17
+NW-101400,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-17
+NW-101400,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-17
+NW-101400,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-17
+NW-101407,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed. I would keep it stocked if it were easy to find.",LIKE,2026-05-16
+NW-101407,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate. Better than what I use now.",LIKE,2026-05-16
+NW-101407,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-16
+NW-101407,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-16
+NW-101414,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing. I would buy it again.",LIKE,2026-05-11
+NW-101414,How would you describe the aftertaste?,"Clean, no aftertaste. Worth the price in my opinion.",LIKE,2026-05-11
+NW-101414,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-11
+NW-101414,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is. I finished it without thinking about it much.",INDIFFERENT,2026-05-11
+NW-101414,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-11
+NW-101421,What was your first impression of the sample you just tasted?,"It is fine. I drank the whole sample without complaint but I also could not tell you what distinguished it from the store brand I buy. Pleasant enough, forgettable.",INDIFFERENT,2026-05-17
+NW-101421,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it. I would not go out of my way for it.,INDIFFERENT,2026-05-17
+NW-101421,Would you purchase this product at your regular store?,Maybe,INDIFFERENT,2026-05-17
+NW-101421,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-17
+NW-101421,Did the product meet the expectations set by the description you were given?,Possibly,INDIFFERENT,2026-05-17
+NW-101428,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing. My partner agreed with me.",LIKE,2026-05-17
+NW-101428,How would you describe the aftertaste?,Nice and dry at the finish. It held up over the whole test period.,LIKE,2026-05-17
+NW-101428,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-17
+NW-101428,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. The kids liked it too, which is a high bar.",LIKE,2026-05-17
+NW-101428,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-17
+NW-101435,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-17
+NW-101435,How would you describe the aftertaste?,"Clean, no aftertaste. No complaints from anyone in the house.",LIKE,2026-05-17
+NW-101435,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-17
+NW-101435,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. No complaints from anyone in the house.",LIKE,2026-05-17
+NW-101435,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-17
+NW-101442,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. I would happily pay a little more for this.",LIKE,2026-05-10
+NW-101442,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-10
+NW-101442,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-10
+NW-101442,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. I have already recommended it to a coworker.",LIKE,2026-05-10
+NW-101442,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-10
+NW-101449,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-18
+NW-101449,How would you describe the aftertaste?,"The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do. The kids liked it too, which is a high bar.",LIKE,2026-05-18
+NW-101449,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-18
+NW-101449,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-18
+NW-101449,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-18
+NW-101456,What was your first impression of the sample you just tasted?,"It reminded me of cleaning product, honestly. The citrus is harsh and there is a bitter edge underneath that I could not get past even after a few sips.",DISLIKE,2026-05-05
+NW-101456,How would you describe the aftertaste?,"The aftertaste is the dealbreaker. It has that sharp fake-sweet note that sits on your tongue for a good twenty minutes afterward. It went in the trash, honestly.",DISLIKE,2026-05-05
+NW-101456,Would you purchase this product at your regular store?,Definitely not,DISLIKE,2026-05-05
+NW-101456,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. Better than what I use now.",LIKE,2026-05-05
+NW-101456,Did the product meet the expectations set by the description you were given?,Hard to say,INDIFFERENT,2026-05-05
+NW-101463,What was your first impression of the sample you just tasted?,Loved it right away. No complaints from anyone in the house.,LIKE,2026-05-24
+NW-101463,How would you describe the aftertaste?,Nice and dry at the finish. Worth the price in my opinion.,LIKE,2026-05-24
+NW-101463,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-24
+NW-101463,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. It held up over the whole test period.",LIKE,2026-05-24
+NW-101463,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-24
+NW-101470,What was your first impression of the sample you just tasted?,"No real reaction either way. There is a faint citrus note, the bubbles are normal, and that is about all I noticed.",INDIFFERENT,2026-05-05
+NW-101470,How would you describe the aftertaste?,Not much either way.,INDIFFERENT,2026-05-05
+NW-101470,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-05
+NW-101470,"What, if anything, would you change about this product?",More citrus maybe.,INDIFFERENT,2026-05-05
+NW-101470,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-05
+NW-101477,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-12
+NW-101477,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-12
+NW-101477,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-12
+NW-101477,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. My partner agreed with me.",LIKE,2026-05-12
+NW-101477,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-12
+NW-101484,What was your first impression of the sample you just tasted?,Flat and metallic. Nobody else in the house would touch it.,DISLIKE,2026-05-14
+NW-101484,How would you describe the aftertaste?,The aftertaste is the dealbreaker. It has that sharp fake-sweet note that sits on your tongue for a good twenty minutes afterward.,DISLIKE,2026-05-14
+NW-101484,Would you purchase this product at your regular store?,No.,DISLIKE,2026-05-14
+NW-101484,"What, if anything, would you change about this product?",Start over with the flavor. Second time was no better than the first.,DISLIKE,2026-05-14
+NW-101484,Did the product meet the expectations set by the description you were given?,"No, I'll stick with my usual",DISLIKE,2026-05-14
+NW-101491,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. I would buy it again.",LIKE,2026-05-06
+NW-101491,How would you describe the aftertaste?,Not much either way. Not better or worse than my usual.,INDIFFERENT,2026-05-06
+NW-101491,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-06
+NW-101491,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-06
+NW-101491,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-06
+NW-101498,What was your first impression of the sample you just tasted?,Nothing stood out.,INDIFFERENT,2026-05-21
+NW-101498,How would you describe the aftertaste?,Not much either way. Price would decide it for me.,INDIFFERENT,2026-05-21
+NW-101498,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-21
+NW-101498,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-21
+NW-101498,Did the product meet the expectations set by the description you were given?,Maybe,INDIFFERENT,2026-05-21
+NW-101505,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. I would buy it again.",LIKE,2026-05-03
+NW-101505,How would you describe the aftertaste?,"Clean, no aftertaste. Worth the price in my opinion.",LIKE,2026-05-03
+NW-101505,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-03
+NW-101505,"What, if anything, would you change about this product?","Nothing, honestly. No complaints from anyone in the house.",LIKE,2026-05-03
+NW-101505,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-03
+NW-101512,What was your first impression of the sample you just tasted?,Tastes like seltzer.,INDIFFERENT,2026-05-07
+NW-101512,How would you describe the aftertaste?,Nice and dry at the finish. I would happily pay a little more for this.,LIKE,2026-05-07
+NW-101512,Would you purchase this product at your regular store?,Possibly,INDIFFERENT,2026-05-07
+NW-101512,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-07
+NW-101512,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-07
+NW-101519,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. Worth the price in my opinion.",LIKE,2026-05-18
+NW-101519,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-18
+NW-101519,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-18
+NW-101519,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-18
+NW-101519,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-18
+NW-101526,What was your first impression of the sample you just tasted?,Loved it right away. My partner agreed with me.,LIKE,2026-05-07
+NW-101526,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-07
+NW-101526,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-07
+NW-101526,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-07
+NW-101526,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-07
+NW-101533,What was your first impression of the sample you just tasted?,Loved it right away. I have already recommended it to a coworker.,LIKE,2026-05-15
+NW-101533,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-15
+NW-101533,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-15
+NW-101533,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-15
+NW-101533,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-15
+NW-101540,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-10
+NW-101540,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-10
+NW-101540,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. Better than what I use now.",LIKE,2026-05-10
+NW-101540,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-10
+NW-101547,What was your first impression of the sample you just tasted?,Flat and metallic.,DISLIKE,2026-05-14
+NW-101547,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-14
+NW-101547,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-14
+NW-101547,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-14
+NW-101554,What was your first impression of the sample you just tasted?,First impression was neutral. It is a perfectly acceptable sparkling water and it tastes like most of the other ones I have had. I would use it if it were the only option.,INDIFFERENT,2026-05-03
+NW-101554,How would you describe the aftertaste?,Mild aftertaste.,INDIFFERENT,2026-05-03
+NW-101554,Would you purchase this product at your regular store?,It depends on the price,INDIFFERENT,2026-05-03
+NW-101554,"What, if anything, would you change about this product?",Nothing comes to mind.,INDIFFERENT,2026-05-03
+NW-101554,Did the product meet the expectations set by the description you were given?,It depends on the price,INDIFFERENT,2026-05-03
+NW-101561,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. I would keep it stocked if it were easy to find.",LIKE,2026-05-14
+NW-101561,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-14
+NW-101561,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-14
+NW-101561,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-14
+NW-101561,Did the product meet the expectations set by the description you were given?,It depends on the price,INDIFFERENT,2026-05-14
+NW-101568,What was your first impression of the sample you just tasted?,First impression was neutral. It is a perfectly acceptable sparkling water and it tastes like most of the other ones I have had. No strong feelings in either direction.,INDIFFERENT,2026-05-10
+NW-101568,How would you describe the aftertaste?,Mild aftertaste.,INDIFFERENT,2026-05-10
+NW-101568,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-10
+NW-101568,"What, if anything, would you change about this product?",Nothing comes to mind. No strong feelings in either direction.,INDIFFERENT,2026-05-10
+NW-101568,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-10
+NW-101575,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-14
+NW-101575,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-14
+NW-101575,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-14
+NW-101575,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-14
+NW-101575,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-14
+NW-101582,What was your first impression of the sample you just tasted?,"No real reaction either way. There is a faint citrus note, the bubbles are normal, and that is about all I noticed.",INDIFFERENT,2026-05-11
+NW-101582,How would you describe the aftertaste?,"Not much either way. Fine, but not memorable.",INDIFFERENT,2026-05-11
+NW-101582,Would you purchase this product at your regular store?,Possibly,INDIFFERENT,2026-05-11
+NW-101582,"What, if anything, would you change about this product?",More citrus maybe.,INDIFFERENT,2026-05-11
+NW-101582,Did the product meet the expectations set by the description you were given?,Possibly,INDIFFERENT,2026-05-11
+NW-101589,What was your first impression of the sample you just tasted?,Really crisp and clean. I have already recommended it to a coworker.,LIKE,2026-05-16
+NW-101589,How would you describe the aftertaste?,Nice and dry at the finish. I would keep it stocked if it were easy to find.,LIKE,2026-05-16
+NW-101589,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-16
+NW-101589,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-16
+NW-101589,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-16
+NW-101596,What was your first impression of the sample you just tasted?,Tastes like seltzer.,INDIFFERENT,2026-05-11
+NW-101596,How would you describe the aftertaste?,Mild aftertaste. I finished it without thinking about it much.,INDIFFERENT,2026-05-11
+NW-101596,Would you purchase this product at your regular store?,Maybe,INDIFFERENT,2026-05-11
+NW-101596,Did the product meet the expectations set by the description you were given?,It depends on the price,INDIFFERENT,2026-05-11
+NW-101603,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-06
+NW-101603,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate. Better than what I use now.",LIKE,2026-05-06
+NW-101603,Would you purchase this product at your regular store?,Yes - already planning to,LIKE,2026-05-06
+NW-101603,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-06
+NW-101603,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-06
+NW-101610,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. I would happily pay a little more for this.",LIKE,2026-05-11
+NW-101610,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-11
+NW-101610,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-11
+NW-101610,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-11
+NW-101610,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-11
+NW-101617,What was your first impression of the sample you just tasted?,It was fine.,INDIFFERENT,2026-05-02
+NW-101617,How would you describe the aftertaste?,Mild aftertaste. No strong feelings in either direction.,INDIFFERENT,2026-05-02
+NW-101617,Would you purchase this product at your regular store?,Maybe,INDIFFERENT,2026-05-02
+NW-101617,"What, if anything, would you change about this product?",More citrus maybe. No strong feelings in either direction.,INDIFFERENT,2026-05-02
+NW-101617,Did the product meet the expectations set by the description you were given?,It depends on the price,INDIFFERENT,2026-05-02
+NW-101624,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. Worth the price in my opinion.",LIKE,2026-05-05
+NW-101624,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-05
+NW-101624,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-05
+NW-101624,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-05
+NW-101624,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-05
+NW-101631,What was your first impression of the sample you just tasted?,Nothing stood out.,INDIFFERENT,2026-05-09
+NW-101631,How would you describe the aftertaste?,Not much either way.,INDIFFERENT,2026-05-09
+NW-101631,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-09
+NW-101631,"What, if anything, would you change about this product?",Nothing comes to mind. Not better or worse than my usual.,INDIFFERENT,2026-05-09
+NW-101631,Did the product meet the expectations set by the description you were given?,It depends on the price,INDIFFERENT,2026-05-09
+NW-101638,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-03
+NW-101638,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate. I have already recommended it to a coworker.",LIKE,2026-05-03
+NW-101638,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-03
+NW-101638,"What, if anything, would you change about this product?","Nothing, honestly. I have already recommended it to a coworker.",LIKE,2026-05-03
+NW-101638,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-03
+NW-101645,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-06
+NW-101645,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-06
+NW-101645,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-06
+NW-101645,"What, if anything, would you change about this product?","Nothing, honestly. Better than what I use now.",LIKE,2026-05-06
+NW-101645,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-06
+NW-101652,What was your first impression of the sample you just tasted?,Nothing stood out.,INDIFFERENT,2026-05-04
+NW-101652,How would you describe the aftertaste?,Not much either way. It is hard to have an opinion on this one.,INDIFFERENT,2026-05-04
+NW-101652,Would you purchase this product at your regular store?,Hard to say,INDIFFERENT,2026-05-04
+NW-101652,"What, if anything, would you change about this product?",More citrus maybe. It is hard to have an opinion on this one.,INDIFFERENT,2026-05-04
+NW-101652,Did the product meet the expectations set by the description you were given?,Maybe,INDIFFERENT,2026-05-04
+NW-101659,What was your first impression of the sample you just tasted?,Loved it right away. I would keep it stocked if it were easy to find.,LIKE,2026-05-08
+NW-101659,How would you describe the aftertaste?,Nice and dry at the finish. Good value compared to the name brand.,LIKE,2026-05-08
+NW-101659,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-08
+NW-101659,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-08
+NW-101659,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-08
+NW-101666,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat. I have already recommended it to a coworker.,LIKE,2026-05-01
+NW-101666,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-01
+NW-101666,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-01
+NW-101666,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-01
+NW-101673,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. I have already recommended it to a coworker.",LIKE,2026-05-19
+NW-101673,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-19
+NW-101673,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-19
+NW-101673,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is. I would keep it stocked if it were easy to find.,LIKE,2026-05-19
+NW-101673,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-19
+NW-101680,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. Better than what I use now.",LIKE,2026-05-24
+NW-101680,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-24
+NW-101680,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-24
+NW-101680,"What, if anything, would you change about this product?","Nothing, honestly. Better than what I use now.",LIKE,2026-05-24
+NW-101680,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-24
+NW-101687,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing. I would keep it stocked if it were easy to find.",LIKE,2026-05-21
+NW-101687,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-21
+NW-101687,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is. No complaints from anyone in the house.,LIKE,2026-05-21
+NW-101687,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-21
+NW-101694,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing. It held up over the whole test period.",LIKE,2026-05-06
+NW-101694,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do. I would buy it again.,LIKE,2026-05-06
+NW-101694,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-06
+NW-101694,"What, if anything, would you change about this product?","Nothing, honestly. I have already recommended it to a coworker.",LIKE,2026-05-06
+NW-101694,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-06
+NW-101701,What was your first impression of the sample you just tasted?,Loved it right away. Worth the price in my opinion.,LIKE,2026-05-17
+NW-101701,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-17
+NW-101701,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-17
+NW-101701,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-17
+NW-101701,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-17
+NW-101708,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing. It held up over the whole test period.",LIKE,2026-05-03
+NW-101708,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do. I would happily pay a little more for this.,LIKE,2026-05-03
+NW-101708,Would you purchase this product at your regular store?,Maybe,INDIFFERENT,2026-05-03
+NW-101708,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-03
+NW-101708,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-03
+NW-101715,What was your first impression of the sample you just tasted?,Nothing stood out. Price would decide it for me.,INDIFFERENT,2026-05-12
+NW-101715,How would you describe the aftertaste?,"Nice and dry at the finish. The kids liked it too, which is a high bar.",LIKE,2026-05-12
+NW-101715,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-12
+NW-101715,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is. I would not go out of my way for it.",INDIFFERENT,2026-05-12
+NW-101715,Did the product meet the expectations set by the description you were given?,Maybe,INDIFFERENT,2026-05-12
+NW-101722,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. No complaints from anyone in the house.",LIKE,2026-05-05
+NW-101722,How would you describe the aftertaste?,Lingering artificial sweetener taste. I would warn a friend off it.,DISLIKE,2026-05-05
+NW-101722,Would you purchase this product at your regular store?,Definitely not,DISLIKE,2026-05-05
+NW-101722,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-05
+NW-101722,Did the product meet the expectations set by the description you were given?,"No, I'll stick with my usual",DISLIKE,2026-05-05
+NW-101729,What was your first impression of the sample you just tasted?,"No real reaction either way. There is a faint citrus note, the bubbles are normal, and that is about all I noticed.",INDIFFERENT,2026-05-05
+NW-101729,How would you describe the aftertaste?,"Not much either way. Fine, but not memorable.",INDIFFERENT,2026-05-05
+NW-101729,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-05
+NW-101729,"What, if anything, would you change about this product?",Nothing comes to mind.,INDIFFERENT,2026-05-05
+NW-101729,Did the product meet the expectations set by the description you were given?,Only if it were on sale,INDIFFERENT,2026-05-05
+NW-101736,What was your first impression of the sample you just tasted?,Tastes like seltzer.,INDIFFERENT,2026-05-09
+NW-101736,How would you describe the aftertaste?,"Clean, no aftertaste. This is the first one of these I have actually finished.",LIKE,2026-05-09
+NW-101736,Would you purchase this product at your regular store?,Hard to say,INDIFFERENT,2026-05-09
+NW-101736,"What, if anything, would you change about this product?",Nothing comes to mind.,INDIFFERENT,2026-05-09
+NW-101736,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-09
+NW-101743,What was your first impression of the sample you just tasted?,Loved it right away. I have already recommended it to a coworker.,LIKE,2026-05-19
+NW-101743,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate. My partner agreed with me.",LIKE,2026-05-19
+NW-101743,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-19
+NW-101743,"What, if anything, would you change about this product?",More citrus maybe. It is hard to have an opinion on this one.,INDIFFERENT,2026-05-19
+NW-101743,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-19
+NW-101750,What was your first impression of the sample you just tasted?,Nothing stood out. About what I expected going in.,INDIFFERENT,2026-05-22
+NW-101750,How would you describe the aftertaste?,"Normal for a seltzer. Fine, but not memorable.",INDIFFERENT,2026-05-22
+NW-101750,Would you purchase this product at your regular store?,Maybe,INDIFFERENT,2026-05-22
+NW-101750,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-22
+NW-101750,Did the product meet the expectations set by the description you were given?,Possibly,INDIFFERENT,2026-05-22
+NW-101757,What was your first impression of the sample you just tasted?,"No real reaction either way. There is a faint citrus note, the bubbles are normal, and that is about all I noticed. No strong feelings in either direction.",INDIFFERENT,2026-05-22
+NW-101757,How would you describe the aftertaste?,Not much either way.,INDIFFERENT,2026-05-22
+NW-101757,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-22
+NW-101757,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-22
+NW-101764,What was your first impression of the sample you just tasted?,Nothing stood out.,INDIFFERENT,2026-05-16
+NW-101764,How would you describe the aftertaste?,Normal for a seltzer.,INDIFFERENT,2026-05-16
+NW-101764,Would you purchase this product at your regular store?,It depends on the price,INDIFFERENT,2026-05-16
+NW-101771,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-22
+NW-101771,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-22
+NW-101771,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-22
+NW-101771,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-22
+NW-101778,What was your first impression of the sample you just tasted?,Nothing stood out. Not better or worse than my usual.,INDIFFERENT,2026-05-16
+NW-101778,How would you describe the aftertaste?,"Not much either way. Fine, but not memorable.",INDIFFERENT,2026-05-16
+NW-101778,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-16
+NW-101778,"What, if anything, would you change about this product?",More citrus maybe.,INDIFFERENT,2026-05-16
+NW-101778,Did the product meet the expectations set by the description you were given?,Possibly,INDIFFERENT,2026-05-16
+NW-101785,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. This is the first one of these I have actually finished.",LIKE,2026-05-08
+NW-101785,How would you describe the aftertaste?,"Clean, no aftertaste. It held up over the whole test period.",LIKE,2026-05-08
+NW-101785,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-08
+NW-101785,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-08
+NW-101792,What was your first impression of the sample you just tasted?,"It is fine. I drank the whole sample without complaint but I also could not tell you what distinguished it from the store brand I buy. Pleasant enough, forgettable.",INDIFFERENT,2026-05-08
+NW-101792,How would you describe the aftertaste?,Normal for a seltzer.,INDIFFERENT,2026-05-08
+NW-101792,Would you purchase this product at your regular store?,Only if it were on sale,INDIFFERENT,2026-05-08
+NW-101792,"What, if anything, would you change about this product?",Nothing comes to mind. No strong feelings in either direction.,INDIFFERENT,2026-05-08
+NW-101792,Did the product meet the expectations set by the description you were given?,Hard to say,INDIFFERENT,2026-05-08
+NW-101799,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat. I would keep it stocked if it were easy to find.,LIKE,2026-05-04
+NW-101799,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate. No complaints from anyone in the house.",LIKE,2026-05-04
+NW-101799,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-04
+NW-101799,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-04
+NW-101799,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-04
+NW-101806,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-17
+NW-101806,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-17
+NW-101806,Would you purchase this product at your regular store?,Yes - already planning to,LIKE,2026-05-17
+NW-101806,"What, if anything, would you change about this product?",Maybe a bigger can size. No complaints from anyone in the house.,LIKE,2026-05-17
+NW-101813,What was your first impression of the sample you just tasted?,"No real reaction either way. There is a faint citrus note, the bubbles are normal, and that is about all I noticed. Neither impressed nor annoyed.",INDIFFERENT,2026-05-01
+NW-101813,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate. Good value compared to the name brand.",LIKE,2026-05-01
+NW-101813,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-01
+NW-101813,"What, if anything, would you change about this product?",Maybe a bigger can size. Worth the price in my opinion.,LIKE,2026-05-01
+NW-101813,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-01
+NW-101820,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-23
+NW-101820,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-23
+NW-101820,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-23
+NW-101820,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-23
+NW-101820,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-23
+NW-101827,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-16
+NW-101827,How would you describe the aftertaste?,Mild aftertaste. Not better or worse than my usual.,INDIFFERENT,2026-05-16
+NW-101827,Would you purchase this product at your regular store?,It depends on the price,INDIFFERENT,2026-05-16
+NW-101827,"What, if anything, would you change about this product?",More citrus maybe. It is hard to have an opinion on this one.,INDIFFERENT,2026-05-16
+NW-101827,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-16
+NW-101834,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-06
+NW-101834,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-06
+NW-101834,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-06
+NW-101834,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-06
+NW-101834,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-06
+NW-101841,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-21
+NW-101841,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-21
+NW-101841,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-21
+NW-101841,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-21
+NW-101841,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-21
+NW-101848,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-01
+NW-101848,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-01
+NW-101848,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-01
+NW-101848,"What, if anything, would you change about this product?","Nothing, honestly. Better than what I use now.",LIKE,2026-05-01
+NW-101848,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-01
+NW-101855,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed.",LIKE,2026-05-20
+NW-101855,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do. My partner agreed with me.,LIKE,2026-05-20
+NW-101855,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-20
+NW-101855,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-20
+NW-101862,What was your first impression of the sample you just tasted?,Really crisp and clean. I would keep it stocked if it were easy to find.,LIKE,2026-05-07
+NW-101862,How would you describe the aftertaste?,Lingering artificial sweetener taste.,DISLIKE,2026-05-07
+NW-101862,Would you purchase this product at your regular store?,No thanks,DISLIKE,2026-05-07
+NW-101862,Did the product meet the expectations set by the description you were given?,"No, I'll stick with my usual",DISLIKE,2026-05-07
+NW-101869,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-18
+NW-101869,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-18
+NW-101869,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-18
+NW-101869,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-18
+NW-101876,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed. I would buy it again.",LIKE,2026-05-21
+NW-101876,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-21
+NW-101876,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-21
+NW-101876,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-21
+NW-101876,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-21
+NW-101883,What was your first impression of the sample you just tasted?,"It is fine. I drank the whole sample without complaint but I also could not tell you what distinguished it from the store brand I buy. Pleasant enough, forgettable.",INDIFFERENT,2026-05-17
+NW-101883,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it. I finished it without thinking about it much.,INDIFFERENT,2026-05-17
+NW-101883,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-17
+NW-101883,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is. About what I expected going in.",INDIFFERENT,2026-05-17
+NW-101883,Did the product meet the expectations set by the description you were given?,Hard to say,INDIFFERENT,2026-05-17
+NW-101890,What was your first impression of the sample you just tasted?,Really crisp and clean. This is the first one of these I have actually finished.,LIKE,2026-05-22
+NW-101890,How would you describe the aftertaste?,"Clean, no aftertaste. This is the first one of these I have actually finished.",LIKE,2026-05-22
+NW-101890,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-22
+NW-101890,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is. I would buy it again.,LIKE,2026-05-22
+NW-101890,Did the product meet the expectations set by the description you were given?,Maybe,INDIFFERENT,2026-05-22
+NW-101897,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-22
+NW-101897,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate. Good value compared to the name brand.",LIKE,2026-05-22
+NW-101897,Would you purchase this product at your regular store?,Yes - already planning to,LIKE,2026-05-22
+NW-101897,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-22
+NW-101897,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-22
+NW-101904,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed. It held up over the whole test period.",LIKE,2026-05-01
+NW-101904,How would you describe the aftertaste?,"Clean, no aftertaste. The kids liked it too, which is a high bar.",LIKE,2026-05-01
+NW-101904,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-01
+NW-101904,"What, if anything, would you change about this product?","Nothing, honestly. My partner agreed with me.",LIKE,2026-05-01
+NW-101904,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-01
+NW-101911,What was your first impression of the sample you just tasted?,"No real reaction either way. There is a faint citrus note, the bubbles are normal, and that is about all I noticed.",INDIFFERENT,2026-05-01
+NW-101911,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it.,INDIFFERENT,2026-05-01
+NW-101911,Would you purchase this product at your regular store?,No thanks,DISLIKE,2026-05-01
+NW-101911,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-01
+NW-101911,Did the product meet the expectations set by the description you were given?,Possibly,INDIFFERENT,2026-05-01
+NW-101918,What was your first impression of the sample you just tasted?,"No real reaction either way. There is a faint citrus note, the bubbles are normal, and that is about all I noticed. Fine, but not memorable.",INDIFFERENT,2026-05-15
+NW-101918,How would you describe the aftertaste?,Normal for a seltzer.,INDIFFERENT,2026-05-15
+NW-101918,Would you purchase this product at your regular store?,It depends on the price,INDIFFERENT,2026-05-15
+NW-101918,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is. Fine, but not memorable.",INDIFFERENT,2026-05-15
+NW-101918,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-15
+NW-101925,What was your first impression of the sample you just tasted?,"It reminded me of cleaning product, honestly. The citrus is harsh and there is a bitter edge underneath that I could not get past even after a few sips. Not worth the price.",DISLIKE,2026-05-10
+NW-101925,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-10
+NW-101925,Would you purchase this product at your regular store?,Possibly,INDIFFERENT,2026-05-10
+NW-101925,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is. Better than what I use now.,LIKE,2026-05-10
+NW-101925,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-10
+NW-101932,What was your first impression of the sample you just tasted?,Nothing stood out. I finished it without thinking about it much.,INDIFFERENT,2026-05-16
+NW-101932,How would you describe the aftertaste?,Not much either way. No strong feelings in either direction.,INDIFFERENT,2026-05-16
+NW-101932,Would you purchase this product at your regular store?,Only if it were on sale,INDIFFERENT,2026-05-16
+NW-101932,"What, if anything, would you change about this product?",Nothing comes to mind. It is hard to have an opinion on this one.,INDIFFERENT,2026-05-16
+NW-101932,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-16
+NW-101939,What was your first impression of the sample you just tasted?,"No real reaction either way. There is a faint citrus note, the bubbles are normal, and that is about all I noticed.",INDIFFERENT,2026-05-03
+NW-101939,How would you describe the aftertaste?,Mild aftertaste.,INDIFFERENT,2026-05-03
+NW-101939,Would you purchase this product at your regular store?,Hard to say,INDIFFERENT,2026-05-03
+NW-101939,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is. Not better or worse than my usual.",INDIFFERENT,2026-05-03
+NW-101939,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-03
+NW-101946,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. It held up over the whole test period.",LIKE,2026-05-22
+NW-101946,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-22
+NW-101946,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-22
+NW-101946,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-22
+NW-101946,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-22
+NW-101953,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-07
+NW-101953,How would you describe the aftertaste?,"Clean, no aftertaste. I would happily pay a little more for this.",LIKE,2026-05-07
+NW-101953,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-07
+NW-101953,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is. I have already recommended it to a coworker.,LIKE,2026-05-07
+NW-101953,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-07
+NW-101960,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-13
+NW-101960,How would you describe the aftertaste?,"Clean, no aftertaste. It held up over the whole test period.",LIKE,2026-05-13
+NW-101960,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-13
+NW-101960,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-13
+NW-101960,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-13
+NW-101967,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-10
+NW-101967,How would you describe the aftertaste?,Nice and dry at the finish. My partner agreed with me.,LIKE,2026-05-10
+NW-101967,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-10
+NW-101967,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-10
+NW-101974,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-16
+NW-101974,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do. I have already recommended it to a coworker.,LIKE,2026-05-16
+NW-101974,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-16
+NW-101974,"What, if anything, would you change about this product?",More citrus maybe. No strong feelings in either direction.,INDIFFERENT,2026-05-16
+NW-101974,Did the product meet the expectations set by the description you were given?,No,DISLIKE,2026-05-16
+NW-101981,What was your first impression of the sample you just tasted?,It was fine.,INDIFFERENT,2026-05-08
+NW-101981,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it.,INDIFFERENT,2026-05-08
+NW-101981,Would you purchase this product at your regular store?,Possibly,INDIFFERENT,2026-05-08
+NW-101981,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is. Neither impressed nor annoyed.",INDIFFERENT,2026-05-08
+NW-101981,Did the product meet the expectations set by the description you were given?,It depends on the price,INDIFFERENT,2026-05-08
+NW-101988,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. Worth the price in my opinion.",LIKE,2026-05-09
+NW-101988,How would you describe the aftertaste?,Mild aftertaste.,INDIFFERENT,2026-05-09
+NW-101988,Would you purchase this product at your regular store?,Hard to say,INDIFFERENT,2026-05-09
+NW-101988,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is. Good value compared to the name brand.,LIKE,2026-05-09
+NW-101988,Did the product meet the expectations set by the description you were given?,Hard to say,INDIFFERENT,2026-05-09
+NW-101995,What was your first impression of the sample you just tasted?,Nothing stood out. About what I expected going in.,INDIFFERENT,2026-05-11
+NW-101995,How would you describe the aftertaste?,Not much either way. Price would decide it for me.,INDIFFERENT,2026-05-11
+NW-101995,Would you purchase this product at your regular store?,Possibly,INDIFFERENT,2026-05-11
+NW-101995,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-11
+NW-101995,Did the product meet the expectations set by the description you were given?,Only if it were on sale,INDIFFERENT,2026-05-11
+NW-102002,What was your first impression of the sample you just tasted?,Nothing stood out. I could see some people liking it more than I did.,INDIFFERENT,2026-05-02
+NW-102002,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it.,INDIFFERENT,2026-05-02
+NW-102002,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-02
+NW-102002,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-02
+NW-102002,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-02
+NW-102009,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat. I have already recommended it to a coworker.,LIKE,2026-05-16
+NW-102009,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-16
+NW-102009,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-16
+NW-102009,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is.",INDIFFERENT,2026-05-16
+NW-102009,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-16
+NW-102016,What was your first impression of the sample you just tasted?,"No real reaction either way. There is a faint citrus note, the bubbles are normal, and that is about all I noticed.",INDIFFERENT,2026-05-04
+NW-102016,How would you describe the aftertaste?,Not much either way. About what I expected going in.,INDIFFERENT,2026-05-04
+NW-102016,Would you purchase this product at your regular store?,Only if it were on sale,INDIFFERENT,2026-05-04
+NW-102016,"What, if anything, would you change about this product?",More citrus maybe. I would use it if it were the only option.,INDIFFERENT,2026-05-04
+NW-102023,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed.",LIKE,2026-05-21
+NW-102023,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate. I would keep it stocked if it were easy to find.",LIKE,2026-05-21
+NW-102023,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-21
+NW-102023,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is.,LIKE,2026-05-21
+NW-102023,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-21
+NW-102030,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. I have already recommended it to a coworker.",LIKE,2026-05-02
+NW-102030,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do. Better than what I use now.,LIKE,2026-05-02
+NW-102030,Would you purchase this product at your regular store?,Yes - already planning to,LIKE,2026-05-02
+NW-102030,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough.",LIKE,2026-05-02
+NW-102030,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-02
+NW-102037,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat. Good value compared to the name brand.,LIKE,2026-05-12
+NW-102037,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-12
+NW-102037,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-12
+NW-102037,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. My partner agreed with me.",LIKE,2026-05-12
+NW-102037,Did the product meet the expectations set by the description you were given?,No thanks,DISLIKE,2026-05-12
+NW-102044,What was your first impression of the sample you just tasted?,Really crisp and clean. I would buy it again.,LIKE,2026-05-14
+NW-102044,How would you describe the aftertaste?,"Barely any aftertaste, which I appreciate.",LIKE,2026-05-14
+NW-102044,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-14
+NW-102044,"What, if anything, would you change about this product?",Maybe a bigger can size. Better than what I use now.,LIKE,2026-05-14
+NW-102044,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-14
+NW-102051,What was your first impression of the sample you just tasted?,"Very pleasant. I was expecting something syrupy given the color, and instead it was light and dry, which is exactly what I want in a sparkling water. The bubbles are small and last, and the citrus reads as fresh rather than perfumed. I would buy it again.",LIKE,2026-05-02
+NW-102051,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-02
+NW-102051,Would you purchase this product at your regular store?,Yes - already planning to,LIKE,2026-05-02
+NW-102051,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-02
+NW-102051,Did the product meet the expectations set by the description you were given?,Absolutely,LIKE,2026-05-02
+NW-102058,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing.",LIKE,2026-05-06
+NW-102058,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it. I would use it if it were the only option.,INDIFFERENT,2026-05-06
+NW-102058,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-06
+NW-102058,"What, if anything, would you change about this product?",Maybe a bigger can size. Good value compared to the name brand.,LIKE,2026-05-06
+NW-102058,Did the product meet the expectations set by the description you were given?,"Yes, definitely",LIKE,2026-05-06
+NW-102065,What was your first impression of the sample you just tasted?,"Bright citrus, very refreshing. I would buy it again.",LIKE,2026-05-07
+NW-102065,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-07
+NW-102065,Would you purchase this product at your regular store?,Yes,LIKE,2026-05-07
+NW-102065,"What, if anything, would you change about this product?",Only suggestion is packaging - the can design is forgettable compared to how good the drink is. This is the first one of these I have actually finished.,LIKE,2026-05-07
+NW-102065,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-07
+NW-102072,What was your first impression of the sample you just tasted?,"It is fine. I drank the whole sample without complaint but I also could not tell you what distinguished it from the store brand I buy. Pleasant enough, forgettable.",INDIFFERENT,2026-05-14
+NW-102072,How would you describe the aftertaste?,Normal for a seltzer. I would not go out of my way for it.,INDIFFERENT,2026-05-14
+NW-102072,Would you purchase this product at your regular store?,Hard to say,INDIFFERENT,2026-05-14
+NW-102072,"What, if anything, would you change about this product?","Slightly stronger flavor would help it stand out, but it is fine as is. Neither impressed nor annoyed.",INDIFFERENT,2026-05-14
+NW-102072,Did the product meet the expectations set by the description you were given?,Maybe,INDIFFERENT,2026-05-14
+NW-102079,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat.,LIKE,2026-05-12
+NW-102079,How would you describe the aftertaste?,Nice and dry at the finish. Better than what I use now.,LIKE,2026-05-12
+NW-102079,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-12
+NW-102079,"What, if anything, would you change about this product?",Maybe a bigger can size.,LIKE,2026-05-12
+NW-102079,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-12
+NW-102086,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-16
+NW-102086,How would you describe the aftertaste?,"Clean, no aftertaste. I would happily pay a little more for this.",LIKE,2026-05-16
+NW-102086,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-16
+NW-102086,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-16
+NW-102093,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness.",LIKE,2026-05-08
+NW-102093,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-08
+NW-102093,Would you purchase this product at your regular store?,Yes I would,LIKE,2026-05-08
+NW-102093,"What, if anything, would you change about this product?",Maybe a bigger can size. I have already recommended it to a coworker.,LIKE,2026-05-08
+NW-102093,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-08
+NW-102100,What was your first impression of the sample you just tasted?,"Immediately better than what I usually drink. There is a genuine lime note up front and the finish is clean, no lingering sweetness. I have already recommended it to a coworker.",LIKE,2026-05-14
+NW-102100,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it.,INDIFFERENT,2026-05-14
+NW-102100,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-14
+NW-102100,"What, if anything, would you change about this product?","Nothing, honestly. It held up over the whole test period.",LIKE,2026-05-14
+NW-102100,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-14
+NW-102107,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-01
+NW-102107,How would you describe the aftertaste?,"Clean, no aftertaste.",LIKE,2026-05-01
+NW-102107,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-01
+NW-102107,"What, if anything, would you change about this product?",Maybe a bigger can size. No complaints from anyone in the house.,LIKE,2026-05-01
+NW-102107,Did the product meet the expectations set by the description you were given?,Yes I would,LIKE,2026-05-01
+NW-102114,What was your first impression of the sample you just tasted?,"It is fine. I drank the whole sample without complaint but I also could not tell you what distinguished it from the store brand I buy. Pleasant enough, forgettable.",INDIFFERENT,2026-05-08
+NW-102114,How would you describe the aftertaste?,Normal for a seltzer. No strong feelings in either direction.,INDIFFERENT,2026-05-08
+NW-102114,Would you purchase this product at your regular store?,It depends on the price,INDIFFERENT,2026-05-08
+NW-102114,"What, if anything, would you change about this product?","Nothing comes to mind. Fine, but not memorable.",INDIFFERENT,2026-05-08
+NW-102114,Did the product meet the expectations set by the description you were given?,Possibly,INDIFFERENT,2026-05-08
+NW-102121,What was your first impression of the sample you just tasted?,Loved it right away.,LIKE,2026-05-01
+NW-102121,How would you describe the aftertaste?,"Clean, no aftertaste. Better than what I use now.",LIKE,2026-05-01
+NW-102121,Would you purchase this product at your regular store?,Not sure,INDIFFERENT,2026-05-01
+NW-102121,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. Good value compared to the name brand.",LIKE,2026-05-01
+NW-102121,Did the product meet the expectations set by the description you were given?,Not sure,INDIFFERENT,2026-05-01
+NW-102128,What was your first impression of the sample you just tasted?,Flat and metallic.,DISLIKE,2026-05-08
+NW-102128,How would you describe the aftertaste?,Lingering artificial sweetener taste.,DISLIKE,2026-05-08
+NW-102128,Would you purchase this product at your regular store?,No,DISLIKE,2026-05-08
+NW-102128,"What, if anything, would you change about this product?",Start over with the flavor. Not worth the price.,DISLIKE,2026-05-08
+NW-102128,Did the product meet the expectations set by the description you were given?,Definitely not,DISLIKE,2026-05-08
+NW-102135,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-13
+NW-102135,How would you describe the aftertaste?,"Clean, no aftertaste. My partner agreed with me.",LIKE,2026-05-13
+NW-102135,Would you purchase this product at your regular store?,Yes.,LIKE,2026-05-13
+NW-102135,"What, if anything, would you change about this product?","Nothing, honestly.",LIKE,2026-05-13
+NW-102135,Did the product meet the expectations set by the description you were given?,Yes.,LIKE,2026-05-13
+NW-102142,What was your first impression of the sample you just tasted?,"It reminded me of cleaning product, honestly. The citrus is harsh and there is a bitter edge underneath that I could not get past even after a few sips.",DISLIKE,2026-05-19
+NW-102142,How would you describe the aftertaste?,The finish is the best part. It disappears cleanly instead of leaving a film in your mouth like a lot of flavored waters do.,LIKE,2026-05-19
+NW-102142,"What, if anything, would you change about this product?","I would not change the liquid at all. If anything I'd offer a multipack, because one can is not enough. It held up over the whole test period.",LIKE,2026-05-19
+NW-102142,Did the product meet the expectations set by the description you were given?,Yes - already planning to,LIKE,2026-05-19
+NW-102149,What was your first impression of the sample you just tasted?,My first thought was that it actually tastes like real fruit instead of a candy version of it. The carbonation is fine and it does not burn the back of my throat. This is the first one of these I have actually finished.,LIKE,2026-05-23
+NW-102149,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it.,INDIFFERENT,2026-05-23
+NW-102149,"What, if anything, would you change about this product?",More citrus maybe. I finished it without thinking about it much.,INDIFFERENT,2026-05-23
+NW-102149,Did the product meet the expectations set by the description you were given?,Only if it were on sale,INDIFFERENT,2026-05-23
+NW-102156,What was your first impression of the sample you just tasted?,Tastes like seltzer.,INDIFFERENT,2026-05-07
+NW-102156,How would you describe the aftertaste?,There is a slight aftertaste but nothing offensive. It fades in a minute or so and I did not think much about it.,INDIFFERENT,2026-05-07
+NW-102156,Would you purchase this product at your regular store?,Absolutely,LIKE,2026-05-07
+NW-102156,"What, if anything, would you change about this product?",Maybe a bigger can size. It held up over the whole test period.,LIKE,2026-05-07
+NW-102163,What was your first impression of the sample you just tasted?,Really crisp and clean.,LIKE,2026-05-11
+NW-102163,How would you describe the aftertaste?,Nice and dry at the finish.,LIKE,2026-05-11
+NW-102163,Would you purchase this product at your regular store?,"Yes, definitely",LIKE,2026-05-11
+NW-102163,Did the product meet the expectations set by the description you were given?,Yes,LIKE,2026-05-11

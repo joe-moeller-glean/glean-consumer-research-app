@@ -1,259 +1,516 @@
 panelist_id,question,feedback,coded_sentiment,responded_at
-NW-100477,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-20
-NW-100477,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-20
-NW-100477,Would you buy this flavor in addition to the original?,Yes - already planning to,LIKE,2026-04-20
-NW-100477,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-20
-NW-100484,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-21
-NW-100484,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-21
-NW-100484,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-21
-NW-100484,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-21
-NW-100491,How did this creamer taste in your usual coffee?,Thin and watery.,DISLIKE,2026-04-12
-NW-100491,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-12
-NW-100491,Would you buy this flavor in addition to the original?,"No, I'll stick with my usual",DISLIKE,2026-04-12
-NW-100491,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-12
-NW-100498,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-23
-NW-100498,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-23
-NW-100498,Would you buy this flavor in addition to the original?,"No, I'll stick with my usual",DISLIKE,2026-04-23
-NW-100498,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-23
-NW-100505,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-21
-NW-100505,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-21
-NW-100505,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-21
-NW-100505,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-21
-NW-100512,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-09
-NW-100512,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-09
-NW-100512,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-09
-NW-100512,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-09
-NW-100519,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless.",INDIFFERENT,2026-04-24
-NW-100519,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-24
-NW-100519,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-24
-NW-100519,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-24
-NW-100526,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless.",INDIFFERENT,2026-04-12
-NW-100526,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-12
-NW-100526,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-12
-NW-100526,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-12
-NW-100533,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-14
-NW-100533,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-14
-NW-100533,Would you buy this flavor in addition to the original?,"Yes, definitely",LIKE,2026-04-14
-NW-100533,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-14
-NW-100540,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-24
-NW-100540,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-24
-NW-100540,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-24
-NW-100540,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-24
-NW-100547,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-13
-NW-100547,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-13
-NW-100547,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-13
-NW-100547,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-13
-NW-100554,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-09
-NW-100554,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-09
-NW-100554,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-09
-NW-100554,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-09
-NW-100561,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance.",DISLIKE,2026-04-19
-NW-100561,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-19
-NW-100561,Would you buy this flavor in addition to the original?,Absolutely,LIKE,2026-04-19
-NW-100561,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-19
-NW-100568,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-22
-NW-100568,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-22
-NW-100568,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-22
-NW-100568,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-22
-NW-100575,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-21
-NW-100575,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-21
-NW-100575,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-21
-NW-100575,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-21
-NW-100582,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-09
-NW-100582,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-09
-NW-100582,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-09
-NW-100582,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-09
-NW-100589,How did this creamer taste in your usual coffee?,Overpoweringly sweet.,DISLIKE,2026-04-03
-NW-100589,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-03
-NW-100589,Would you buy this flavor in addition to the original?,"Yes, definitely",LIKE,2026-04-03
-NW-100589,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-03
-NW-100596,How did this creamer taste in your usual coffee?,Overpoweringly sweet.,DISLIKE,2026-04-16
-NW-100596,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-16
-NW-100596,Would you buy this flavor in addition to the original?,No thanks,DISLIKE,2026-04-16
-NW-100603,How did this creamer taste in your usual coffee?,Curdled in my coffee.,DISLIKE,2026-04-11
-NW-100603,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-11
-NW-100603,Would you buy this flavor in addition to the original?,No.,DISLIKE,2026-04-11
-NW-100603,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-11
-NW-100610,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-18
-NW-100610,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-18
-NW-100610,Would you buy this flavor in addition to the original?,Yes I would,LIKE,2026-04-18
-NW-100610,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-18
-NW-100617,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-05
-NW-100617,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-05
-NW-100617,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-05
-NW-100617,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-05
-NW-100624,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-06
-NW-100624,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-06
-NW-100624,Would you buy this flavor in addition to the original?,"Yes, definitely",LIKE,2026-04-06
-NW-100624,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-06
-NW-100631,How did this creamer taste in your usual coffee?,Curdled in my coffee.,DISLIKE,2026-04-21
-NW-100631,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-21
-NW-100631,Would you buy this flavor in addition to the original?,Definitely not,DISLIKE,2026-04-21
-NW-100631,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-21
-NW-100638,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-24
-NW-100638,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-24
-NW-100638,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-24
-NW-100638,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-24
-NW-100645,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-19
-NW-100645,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-19
-NW-100645,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-19
-NW-100645,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-19
-NW-100652,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-21
-NW-100652,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-21
-NW-100652,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-21
-NW-100659,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-05
-NW-100659,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-05
-NW-100659,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-05
-NW-100659,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-05
-NW-100666,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-08
-NW-100666,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-08
-NW-100666,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-08
-NW-100666,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-08
-NW-100673,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-02
-NW-100673,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-02
-NW-100673,Would you buy this flavor in addition to the original?,Absolutely,LIKE,2026-04-02
-NW-100673,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-02
-NW-100680,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-24
-NW-100680,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-24
-NW-100680,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-24
-NW-100680,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-24
-NW-100687,How did this creamer taste in your usual coffee?,Overpoweringly sweet.,DISLIKE,2026-04-23
-NW-100687,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-23
-NW-100687,Would you buy this flavor in addition to the original?,"No, I would not",DISLIKE,2026-04-23
-NW-100687,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-23
-NW-100694,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless.",INDIFFERENT,2026-04-24
-NW-100694,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-24
-NW-100694,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-24
-NW-100694,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-24
-NW-100701,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-05
-NW-100701,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-05
-NW-100701,Would you buy this flavor in addition to the original?,Yes,LIKE,2026-04-05
-NW-100701,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-05
-NW-100708,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-18
-NW-100708,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-18
-NW-100708,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-18
-NW-100708,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-18
-NW-100715,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-16
-NW-100715,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-16
-NW-100715,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-16
-NW-100715,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-16
-NW-100722,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-03
-NW-100722,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-03
-NW-100722,Would you buy this flavor in addition to the original?,Yes I would,LIKE,2026-04-03
-NW-100722,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-03
-NW-100729,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-08
-NW-100729,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-08
-NW-100729,Would you buy this flavor in addition to the original?,"Yes, definitely",LIKE,2026-04-08
-NW-100729,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-08
-NW-100736,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance.",DISLIKE,2026-04-18
-NW-100736,Was the sweetness level right for you?,Far too sweet.,DISLIKE,2026-04-18
-NW-100736,Would you buy this flavor in addition to the original?,No,DISLIKE,2026-04-18
-NW-100736,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-18
-NW-100743,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-02
-NW-100743,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-02
-NW-100743,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-02
-NW-100743,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-02
-NW-100750,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-08
-NW-100750,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-08
-NW-100750,Would you buy this flavor in addition to the original?,Yes,LIKE,2026-04-08
-NW-100750,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-08
-NW-100757,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-12
-NW-100757,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-12
-NW-100757,Would you buy this flavor in addition to the original?,Yes,LIKE,2026-04-12
-NW-100757,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-12
-NW-100764,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance.",DISLIKE,2026-04-08
-NW-100764,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-08
-NW-100764,Would you buy this flavor in addition to the original?,"No, I would not",DISLIKE,2026-04-08
-NW-100771,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless.",INDIFFERENT,2026-04-19
-NW-100771,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-19
-NW-100771,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-19
-NW-100771,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-19
-NW-100778,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance.",DISLIKE,2026-04-11
-NW-100778,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-11
-NW-100778,Would you buy this flavor in addition to the original?,No.,DISLIKE,2026-04-11
-NW-100778,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-11
-NW-100785,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-13
-NW-100785,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-13
-NW-100785,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-13
-NW-100792,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-19
-NW-100792,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-19
-NW-100792,Would you buy this flavor in addition to the original?,Yes - already planning to,LIKE,2026-04-19
-NW-100792,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-19
-NW-100799,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-20
-NW-100799,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-20
-NW-100799,Would you buy this flavor in addition to the original?,"No, I would not",DISLIKE,2026-04-20
-NW-100799,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-20
-NW-100806,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-18
-NW-100806,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-18
-NW-100806,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-18
-NW-100806,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-18
-NW-100813,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-21
-NW-100813,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-21
-NW-100813,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-21
-NW-100813,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-21
-NW-100820,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-14
-NW-100820,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-14
-NW-100820,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-14
-NW-100820,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-14
-NW-100827,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-23
-NW-100827,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-23
-NW-100827,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-23
-NW-100827,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-23
-NW-100834,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-08
-NW-100834,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-08
-NW-100834,Would you buy this flavor in addition to the original?,No thanks,DISLIKE,2026-04-08
-NW-100834,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-08
-NW-100841,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-10
-NW-100841,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-10
-NW-100841,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-10
-NW-100841,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-10
-NW-100848,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-16
-NW-100848,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-16
-NW-100848,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-16
-NW-100848,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-16
-NW-100855,How did this creamer taste in your usual coffee?,Thin and watery.,DISLIKE,2026-04-16
-NW-100855,Was the sweetness level right for you?,Far too sweet.,DISLIKE,2026-04-16
-NW-100855,Would you buy this flavor in addition to the original?,Definitely not,DISLIKE,2026-04-16
-NW-100855,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-16
-NW-100862,How did this creamer taste in your usual coffee?,Thin and watery.,DISLIKE,2026-04-04
-NW-100862,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-04
-NW-100862,Would you buy this flavor in addition to the original?,"No, I'll stick with my usual",DISLIKE,2026-04-04
-NW-100869,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-06
-NW-100869,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-06
-NW-100869,Would you buy this flavor in addition to the original?,Yes,LIKE,2026-04-06
-NW-100869,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-06
-NW-100876,How did this creamer taste in your usual coffee?,Thin and watery.,DISLIKE,2026-04-10
-NW-100876,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-10
-NW-100876,Would you buy this flavor in addition to the original?,No thanks,DISLIKE,2026-04-10
-NW-100876,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-10
-NW-100883,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-09
-NW-100883,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-09
-NW-100883,Would you buy this flavor in addition to the original?,No.,DISLIKE,2026-04-09
-NW-100883,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-09
-NW-100890,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-09
-NW-100890,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-09
-NW-100890,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-09
-NW-100897,How did this creamer taste in your usual coffee?,Overpoweringly sweet.,DISLIKE,2026-04-24
-NW-100897,Was the sweetness level right for you?,Far too sweet.,DISLIKE,2026-04-24
-NW-100897,Would you buy this flavor in addition to the original?,No,DISLIKE,2026-04-24
-NW-100897,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-24
-NW-100904,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-24
-NW-100904,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-24
-NW-100904,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-24
-NW-100904,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-24
-NW-100911,How did this creamer taste in your usual coffee?,Overpoweringly sweet.,DISLIKE,2026-04-08
-NW-100911,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-08
-NW-100911,Would you buy this flavor in addition to the original?,Absolutely,LIKE,2026-04-08
-NW-100911,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-08
-NW-100918,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless.",INDIFFERENT,2026-04-14
-NW-100918,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-14
-NW-100918,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-14
-NW-100918,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-14
-NW-100925,How did this creamer taste in your usual coffee?,Curdled in my coffee.,DISLIKE,2026-04-10
-NW-100925,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-10
-NW-100925,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-10
-NW-100925,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-10
-NW-100932,How did this creamer taste in your usual coffee?,Overpoweringly sweet.,DISLIKE,2026-04-01
-NW-100932,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-01
-NW-100932,Would you buy this flavor in addition to the original?,No thanks,DISLIKE,2026-04-01
-NW-100932,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-01
+NW-101478,How did this creamer taste in your usual coffee?,"Fine, does the job. I could see some people liking it more than I did.",INDIFFERENT,2026-04-21
+NW-101478,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-21
+NW-101478,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-21
+NW-101478,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-21
+NW-101485,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over. Worth the price in my opinion.,LIKE,2026-04-16
+NW-101485,Was the sweetness level right for you?,Perfect amount. My partner agreed with me.,LIKE,2026-04-16
+NW-101485,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-16
+NW-101485,"Would this replace your current creamer, or sit alongside it?",Replace it entirely. I would keep it stocked if it were easy to find.,LIKE,2026-04-16
+NW-101492,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive. It is hard to have an opinion on this one.",INDIFFERENT,2026-04-05
+NW-101492,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. I would use it if it were the only option.",INDIFFERENT,2026-04-05
+NW-101492,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-05
+NW-101492,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. Neither impressed nor annoyed.,INDIFFERENT,2026-04-05
+NW-101499,How did this creamer taste in your usual coffee?,Thin and watery.,DISLIKE,2026-04-10
+NW-101499,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely. I would happily pay a little more for this.,LIKE,2026-04-10
+NW-101499,Would you buy this flavor in addition to the original?,No thanks,DISLIKE,2026-04-10
+NW-101499,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-10
+NW-101506,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. I have already recommended it to a coworker.",LIKE,2026-04-03
+NW-101506,Was the sweetness level right for you?,Perfect amount. Better than what I use now.,LIKE,2026-04-03
+NW-101506,Would you buy this flavor in addition to the original?,Yes - already planning to,LIKE,2026-04-03
+NW-101506,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. I would buy it again.,LIKE,2026-04-03
+NW-101513,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-10
+NW-101513,Was the sweetness level right for you?,"Perfect amount. The kids liked it too, which is a high bar.",LIKE,2026-04-10
+NW-101513,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-10
+NW-101513,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. No complaints from anyone in the house.,LIKE,2026-04-10
+NW-101520,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance. Second time was no better than the first.",DISLIKE,2026-04-24
+NW-101520,Was the sweetness level right for you?,A bit sweet but fine. I would use it if it were the only option.,INDIFFERENT,2026-04-24
+NW-101520,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-24
+NW-101520,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing. About what I expected going in.,INDIFFERENT,2026-04-24
+NW-101527,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over. It held up over the whole test period.,LIKE,2026-04-24
+NW-101527,Was the sweetness level right for you?,Perfect amount. I would keep it stocked if it were easy to find.,LIKE,2026-04-24
+NW-101527,Would you buy this flavor in addition to the original?,Absolutely,LIKE,2026-04-24
+NW-101527,"Would this replace your current creamer, or sit alongside it?",Replace it entirely. I have already recommended it to a coworker.,LIKE,2026-04-24
+NW-101534,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-20
+NW-101534,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-20
+NW-101534,Would you buy this flavor in addition to the original?,Absolutely,LIKE,2026-04-20
+NW-101534,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have. I stopped using it before the test period ended.,DISLIKE,2026-04-20
+NW-101541,How did this creamer taste in your usual coffee?,"Curdled in my coffee. It went in the trash, honestly.",DISLIKE,2026-04-08
+NW-101541,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-08
+NW-101541,Would you buy this flavor in addition to the original?,"No, I'll stick with my usual",DISLIKE,2026-04-08
+NW-101541,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it.",DISLIKE,2026-04-08
+NW-101548,How did this creamer taste in your usual coffee?,Thin and watery. The packaging oversells what is inside.,DISLIKE,2026-04-22
+NW-101548,Was the sweetness level right for you?,Close to right. About what I expected going in.,INDIFFERENT,2026-04-22
+NW-101548,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-22
+NW-101548,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. I finished it without thinking about it much.,INDIFFERENT,2026-04-22
+NW-101555,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-07
+NW-101555,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-07
+NW-101555,Would you buy this flavor in addition to the original?,Yes I would,LIKE,2026-04-07
+NW-101555,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. I would buy it again.,LIKE,2026-04-07
+NW-101562,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-06
+NW-101562,Was the sweetness level right for you?,Close to right. Neither impressed nor annoyed.,INDIFFERENT,2026-04-06
+NW-101562,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-06
+NW-101562,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-06
+NW-101569,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-11
+NW-101569,Was the sweetness level right for you?,"Just right - sweet enough to skip sugar entirely. The kids liked it too, which is a high bar.",LIKE,2026-04-11
+NW-101569,Would you buy this flavor in addition to the original?,No thanks,DISLIKE,2026-04-11
+NW-101569,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-11
+NW-101576,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. Better than what I use now.",LIKE,2026-04-19
+NW-101576,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely. Good value compared to the name brand.,LIKE,2026-04-19
+NW-101576,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-19
+NW-101576,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-19
+NW-101583,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-24
+NW-101583,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-24
+NW-101583,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-24
+NW-101590,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-05
+NW-101590,Was the sweetness level right for you?,"Close to right. Fine, but not memorable.",INDIFFERENT,2026-04-05
+NW-101590,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-05
+NW-101590,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-05
+NW-101597,How did this creamer taste in your usual coffee?,"Really creamy, loved it. I would keep it stocked if it were easy to find.",LIKE,2026-04-16
+NW-101597,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely. I have already recommended it to a coworker.,LIKE,2026-04-16
+NW-101597,Would you buy this flavor in addition to the original?,"Yes, definitely",LIKE,2026-04-16
+NW-101597,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-16
+NW-101604,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless. I finished it without thinking about it much.",INDIFFERENT,2026-04-11
+NW-101604,Was the sweetness level right for you?,A bit sweet but fine. About what I expected going in.,INDIFFERENT,2026-04-11
+NW-101604,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-11
+NW-101604,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. I finished it without thinking about it much.,INDIFFERENT,2026-04-11
+NW-101611,How did this creamer taste in your usual coffee?,Curdled in my coffee.,DISLIKE,2026-04-24
+NW-101611,Was the sweetness level right for you?,Far too sweet.,DISLIKE,2026-04-24
+NW-101611,Would you buy this flavor in addition to the original?,No,DISLIKE,2026-04-24
+NW-101611,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-24
+NW-101618,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way. I finished it without thinking about it much.",INDIFFERENT,2026-04-17
+NW-101618,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-17
+NW-101618,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing. Neither impressed nor annoyed.,INDIFFERENT,2026-04-17
+NW-101625,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-16
+NW-101625,Was the sweetness level right for you?,Perfect amount. Better than what I use now.,LIKE,2026-04-16
+NW-101625,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-16
+NW-101625,"Would this replace your current creamer, or sit alongside it?",Replace it entirely. This is the first one of these I have actually finished.,LIKE,2026-04-16
+NW-101632,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-05
+NW-101632,Was the sweetness level right for you?,A bit sweet but fine. Not better or worse than my usual.,INDIFFERENT,2026-04-05
+NW-101632,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-05
+NW-101632,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. I would not go out of my way for it.",INDIFFERENT,2026-04-05
+NW-101639,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-14
+NW-101639,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. It is hard to have an opinion on this one.",INDIFFERENT,2026-04-14
+NW-101639,Would you buy this flavor in addition to the original?,"Yes, definitely",LIKE,2026-04-14
+NW-101639,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-14
+NW-101646,How did this creamer taste in your usual coffee?,Overpoweringly sweet. This needs to go back to development.,DISLIKE,2026-04-23
+NW-101646,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-23
+NW-101646,Would you buy this flavor in addition to the original?,Definitely not,DISLIKE,2026-04-23
+NW-101646,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have. I gave the rest away.,DISLIKE,2026-04-23
+NW-101653,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless. No strong feelings in either direction.",INDIFFERENT,2026-04-04
+NW-101653,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-04
+NW-101653,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-04
+NW-101660,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee. It is hard to have an opinion on this one.,INDIFFERENT,2026-04-01
+NW-101660,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. Not better or worse than my usual.",INDIFFERENT,2026-04-01
+NW-101660,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-01
+NW-101660,"Would this replace your current creamer, or sit alongside it?",Replace it entirely. I would keep it stocked if it were easy to find.,LIKE,2026-04-01
+NW-101667,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. I have already recommended it to a coworker.",LIKE,2026-04-10
+NW-101667,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-10
+NW-101667,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-10
+NW-101674,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-09
+NW-101674,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-09
+NW-101674,Would you buy this flavor in addition to the original?,Definitely not,DISLIKE,2026-04-09
+NW-101674,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-09
+NW-101681,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless. About what I expected going in.",INDIFFERENT,2026-04-13
+NW-101681,Was the sweetness level right for you?,Close to right. Price would decide it for me.,INDIFFERENT,2026-04-13
+NW-101681,Would you buy this flavor in addition to the original?,No thanks,DISLIKE,2026-04-13
+NW-101681,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. I would not go out of my way for it.",INDIFFERENT,2026-04-13
+NW-101688,How did this creamer taste in your usual coffee?,Curdled in my coffee. The packaging oversells what is inside.,DISLIKE,2026-04-12
+NW-101688,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore. This needs to go back to development.",DISLIKE,2026-04-12
+NW-101688,Would you buy this flavor in addition to the original?,No.,DISLIKE,2026-04-12
+NW-101688,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing. It is hard to have an opinion on this one.,INDIFFERENT,2026-04-12
+NW-101695,How did this creamer taste in your usual coffee?,Overpoweringly sweet. Not worth the price.,DISLIKE,2026-04-18
+NW-101695,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-18
+NW-101695,Would you buy this flavor in addition to the original?,No thanks,DISLIKE,2026-04-18
+NW-101695,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have. I gave the rest away.,DISLIKE,2026-04-18
+NW-101702,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee. I could see some people liking it more than I did.,INDIFFERENT,2026-04-15
+NW-101702,Was the sweetness level right for you?,Close to right. I would not go out of my way for it.,INDIFFERENT,2026-04-15
+NW-101702,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-15
+NW-101702,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. My partner agreed with me.,LIKE,2026-04-15
+NW-101709,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless.",INDIFFERENT,2026-04-10
+NW-101709,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-10
+NW-101709,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-10
+NW-101709,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-10
+NW-101716,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. The kids liked it too, which is a high bar.",LIKE,2026-04-04
+NW-101716,Was the sweetness level right for you?,Perfect amount. I would keep it stocked if it were easy to find.,LIKE,2026-04-04
+NW-101716,Would you buy this flavor in addition to the original?,Absolutely,LIKE,2026-04-04
+NW-101723,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. Good value compared to the name brand.",LIKE,2026-04-16
+NW-101723,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-16
+NW-101723,Would you buy this flavor in addition to the original?,Yes - already planning to,LIKE,2026-04-16
+NW-101723,"Would this replace your current creamer, or sit alongside it?","Replace it entirely. The kids liked it too, which is a high bar.",LIKE,2026-04-16
+NW-101730,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless. Fine, but not memorable.",INDIFFERENT,2026-04-10
+NW-101730,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore. This needs to go back to development.",DISLIKE,2026-04-10
+NW-101730,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-10
+NW-101730,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-10
+NW-101737,How did this creamer taste in your usual coffee?,Overpoweringly sweet. My usual brand does this better.,DISLIKE,2026-04-03
+NW-101737,Was the sweetness level right for you?,"Cloying, like dessert syrup. I stopped using it before the test period ended.",DISLIKE,2026-04-03
+NW-101737,Would you buy this flavor in addition to the original?,No.,DISLIKE,2026-04-03
+NW-101737,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. I would not go out of my way for it.,INDIFFERENT,2026-04-03
+NW-101744,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-18
+NW-101744,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-18
+NW-101744,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-18
+NW-101744,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-18
+NW-101751,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-20
+NW-101751,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-20
+NW-101751,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-20
+NW-101751,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-20
+NW-101758,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-09
+NW-101758,Was the sweetness level right for you?,Close to right. I would use it if it were the only option.,INDIFFERENT,2026-04-09
+NW-101758,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-09
+NW-101758,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. It is hard to have an opinion on this one.",INDIFFERENT,2026-04-09
+NW-101765,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance. Second time was no better than the first.",DISLIKE,2026-04-01
+NW-101765,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore. My usual brand does this better.",DISLIKE,2026-04-01
+NW-101765,Would you buy this flavor in addition to the original?,No thanks,DISLIKE,2026-04-01
+NW-101765,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have. My usual brand does this better.,DISLIKE,2026-04-01
+NW-101772,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-15
+NW-101772,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. No strong feelings in either direction.",INDIFFERENT,2026-04-15
+NW-101772,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-15
+NW-101772,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing. It is hard to have an opinion on this one.,INDIFFERENT,2026-04-15
+NW-101779,How did this creamer taste in your usual coffee?,Curdled in my coffee. Not worth the price.,DISLIKE,2026-04-17
+NW-101779,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-17
+NW-101779,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-17
+NW-101779,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-17
+NW-101786,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance.",DISLIKE,2026-04-14
+NW-101786,Was the sweetness level right for you?,"Cloying, like dessert syrup. The packaging oversells what is inside.",DISLIKE,2026-04-14
+NW-101786,Would you buy this flavor in addition to the original?,No.,DISLIKE,2026-04-14
+NW-101786,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have. The packaging oversells what is inside.,DISLIKE,2026-04-14
+NW-101793,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-08
+NW-101793,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-08
+NW-101793,Would you buy this flavor in addition to the original?,Yes I would,LIKE,2026-04-08
+NW-101793,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. Good value compared to the name brand.,LIKE,2026-04-08
+NW-101800,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-13
+NW-101800,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-13
+NW-101800,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-13
+NW-101800,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have. I stopped using it before the test period ended.,DISLIKE,2026-04-13
+NW-101807,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance. My usual brand does this better.",DISLIKE,2026-04-13
+NW-101807,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-13
+NW-101807,Would you buy this flavor in addition to the original?,No thanks,DISLIKE,2026-04-13
+NW-101807,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-13
+NW-101814,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive. I would use it if it were the only option.",INDIFFERENT,2026-04-24
+NW-101814,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. I finished it without thinking about it much.",INDIFFERENT,2026-04-24
+NW-101814,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-24
+NW-101814,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. Not better or worse than my usual.,INDIFFERENT,2026-04-24
+NW-101821,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-12
+NW-101821,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-12
+NW-101821,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-12
+NW-101821,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. No strong feelings in either direction.",INDIFFERENT,2026-04-12
+NW-101828,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-19
+NW-101828,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-19
+NW-101828,Would you buy this flavor in addition to the original?,"No, I would not",DISLIKE,2026-04-19
+NW-101828,"Would this replace your current creamer, or sit alongside it?","Sticking with what I have. It went in the trash, honestly.",DISLIKE,2026-04-19
+NW-101835,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless. I would use it if it were the only option.",INDIFFERENT,2026-04-10
+NW-101835,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. Neither impressed nor annoyed.",INDIFFERENT,2026-04-10
+NW-101835,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. Not better or worse than my usual.,INDIFFERENT,2026-04-10
+NW-101842,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-12
+NW-101842,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-12
+NW-101842,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-12
+NW-101842,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-12
+NW-101849,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive. About what I expected going in.",INDIFFERENT,2026-04-03
+NW-101849,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-03
+NW-101849,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-03
+NW-101849,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-03
+NW-101856,How did this creamer taste in your usual coffee?,"Really creamy, loved it. I would keep it stocked if it were easy to find.",LIKE,2026-04-21
+NW-101856,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-21
+NW-101856,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-21
+NW-101856,"Would this replace your current creamer, or sit alongside it?","Replace it entirely. The kids liked it too, which is a high bar.",LIKE,2026-04-21
+NW-101863,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-24
+NW-101863,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. I would not go out of my way for it.",INDIFFERENT,2026-04-24
+NW-101863,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-24
+NW-101863,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-24
+NW-101870,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-09
+NW-101870,Was the sweetness level right for you?,Perfect amount. I would happily pay a little more for this.,LIKE,2026-04-09
+NW-101870,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-09
+NW-101870,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-09
+NW-101877,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless.",INDIFFERENT,2026-04-12
+NW-101877,Was the sweetness level right for you?,A bit sweet but fine. Price would decide it for me.,INDIFFERENT,2026-04-12
+NW-101877,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-12
+NW-101877,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing. Not better or worse than my usual.,INDIFFERENT,2026-04-12
+NW-101884,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive. Neither impressed nor annoyed.",INDIFFERENT,2026-04-17
+NW-101884,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-17
+NW-101884,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-17
+NW-101884,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-17
+NW-101891,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee. About what I expected going in.,INDIFFERENT,2026-04-17
+NW-101891,Was the sweetness level right for you?,Close to right. I would not go out of my way for it.,INDIFFERENT,2026-04-17
+NW-101891,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-17
+NW-101891,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-17
+NW-101898,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive. Neither impressed nor annoyed.",INDIFFERENT,2026-04-10
+NW-101898,Was the sweetness level right for you?,A bit sweet but fine. Not better or worse than my usual.,INDIFFERENT,2026-04-10
+NW-101898,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-10
+NW-101898,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-10
+NW-101905,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. I would happily pay a little more for this.",LIKE,2026-04-21
+NW-101905,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-21
+NW-101905,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. Worth the price in my opinion.,LIKE,2026-04-21
+NW-101912,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-12
+NW-101912,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-12
+NW-101912,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-12
+NW-101912,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-12
+NW-101919,How did this creamer taste in your usual coffee?,"Fine, does the job. About what I expected going in.",INDIFFERENT,2026-04-03
+NW-101919,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-03
+NW-101919,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-03
+NW-101926,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-14
+NW-101926,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-14
+NW-101926,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-14
+NW-101926,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-14
+NW-101933,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless. I finished it without thinking about it much.",INDIFFERENT,2026-04-15
+NW-101933,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. Not better or worse than my usual.",INDIFFERENT,2026-04-15
+NW-101933,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-15
+NW-101933,"Would this replace your current creamer, or sit alongside it?","Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. Fine, but not memorable.",INDIFFERENT,2026-04-15
+NW-101940,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance.",DISLIKE,2026-04-24
+NW-101940,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-24
+NW-101940,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-24
+NW-101940,"Would this replace your current creamer, or sit alongside it?","Probably alongside - a change of pace but not an everyday thing. Fine, but not memorable.",INDIFFERENT,2026-04-24
+NW-101947,How did this creamer taste in your usual coffee?,"Really creamy, loved it. The kids liked it too, which is a high bar.",LIKE,2026-04-22
+NW-101947,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-22
+NW-101947,Would you buy this flavor in addition to the original?,Absolutely,LIKE,2026-04-22
+NW-101947,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. My partner agreed with me.,LIKE,2026-04-22
+NW-101954,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance.",DISLIKE,2026-04-10
+NW-101954,Would you buy this flavor in addition to the original?,"No, I'll stick with my usual",DISLIKE,2026-04-10
+NW-101954,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it. This needs to go back to development.",DISLIKE,2026-04-10
+NW-101961,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way. No strong feelings in either direction.",INDIFFERENT,2026-04-20
+NW-101961,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-20
+NW-101961,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-20
+NW-101961,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing. Price would decide it for me.,INDIFFERENT,2026-04-20
+NW-101968,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive. Fine, but not memorable.",INDIFFERENT,2026-04-22
+NW-101968,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. It is hard to have an opinion on this one.",INDIFFERENT,2026-04-22
+NW-101968,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-22
+NW-101968,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. Price would decide it for me.,INDIFFERENT,2026-04-22
+NW-101975,How did this creamer taste in your usual coffee?,"Really creamy, loved it. I would keep it stocked if it were easy to find.",LIKE,2026-04-12
+NW-101975,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-12
+NW-101975,Would you buy this flavor in addition to the original?,Yes,LIKE,2026-04-12
+NW-101975,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-12
+NW-101982,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-23
+NW-101982,Was the sweetness level right for you?,A bit sweet but fine. I would use it if it were the only option.,INDIFFERENT,2026-04-23
+NW-101982,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-23
+NW-101982,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-23
+NW-101989,How did this creamer taste in your usual coffee?,"Fine, does the job. About what I expected going in.",INDIFFERENT,2026-04-17
+NW-101989,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-17
+NW-101989,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-17
+NW-101989,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-17
+NW-101996,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-01
+NW-101996,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-01
+NW-101996,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-01
+NW-101996,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing. It is hard to have an opinion on this one.,INDIFFERENT,2026-04-01
+NW-102003,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee. No strong feelings in either direction.,INDIFFERENT,2026-04-22
+NW-102003,Was the sweetness level right for you?,Close to right. Not better or worse than my usual.,INDIFFERENT,2026-04-22
+NW-102003,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-22
+NW-102003,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. Price would decide it for me.",INDIFFERENT,2026-04-22
+NW-102010,How did this creamer taste in your usual coffee?,"Fine, does the job. I finished it without thinking about it much.",INDIFFERENT,2026-04-18
+NW-102010,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-18
+NW-102010,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-18
+NW-102010,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing. Neither impressed nor annoyed.,INDIFFERENT,2026-04-18
+NW-102017,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. I would keep it stocked if it were easy to find.",LIKE,2026-04-23
+NW-102017,Was the sweetness level right for you?,"Cloying, like dessert syrup. I stopped using it before the test period ended.",DISLIKE,2026-04-23
+NW-102017,Would you buy this flavor in addition to the original?,Yes,LIKE,2026-04-23
+NW-102017,"Would this replace your current creamer, or sit alongside it?",This becomes my main one.,LIKE,2026-04-23
+NW-102024,How did this creamer taste in your usual coffee?,Overpoweringly sweet. I would warn a friend off it.,DISLIKE,2026-04-16
+NW-102024,Was the sweetness level right for you?,"Far too sweet. It went in the trash, honestly.",DISLIKE,2026-04-16
+NW-102024,Would you buy this flavor in addition to the original?,"No, I would not",DISLIKE,2026-04-16
+NW-102024,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it. I expected more for what it costs.",DISLIKE,2026-04-16
+NW-102031,How did this creamer taste in your usual coffee?,"Really creamy, loved it. The kids liked it too, which is a high bar.",LIKE,2026-04-17
+NW-102031,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-17
+NW-102031,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-17
+NW-102031,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. I would buy it again.,LIKE,2026-04-17
+NW-102038,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over. My partner agreed with me.,LIKE,2026-04-17
+NW-102038,Was the sweetness level right for you?,Perfect amount. I would happily pay a little more for this.,LIKE,2026-04-17
+NW-102038,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. Better than what I use now.,LIKE,2026-04-17
+NW-102045,How did this creamer taste in your usual coffee?,Curdled in my coffee.,DISLIKE,2026-04-06
+NW-102045,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore. My usual brand does this better.",DISLIKE,2026-04-06
+NW-102045,Would you buy this flavor in addition to the original?,"No, I'll stick with my usual",DISLIKE,2026-04-06
+NW-102045,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-06
+NW-102052,How did this creamer taste in your usual coffee?,"Fine, does the job. About what I expected going in.",INDIFFERENT,2026-04-24
+NW-102052,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-24
+NW-102052,Would you buy this flavor in addition to the original?,No.,DISLIKE,2026-04-24
+NW-102052,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. Price would decide it for me.,INDIFFERENT,2026-04-24
+NW-102059,How did this creamer taste in your usual coffee?,Overpoweringly sweet.,DISLIKE,2026-04-23
+NW-102059,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-23
+NW-102059,Would you buy this flavor in addition to the original?,No.,DISLIKE,2026-04-23
+NW-102059,"Would this replace your current creamer, or sit alongside it?","Neither, I would not buy it. Nobody else in the house would touch it.",DISLIKE,2026-04-23
+NW-102066,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-03
+NW-102066,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-03
+NW-102066,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-03
+NW-102066,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. It is hard to have an opinion on this one.,INDIFFERENT,2026-04-03
+NW-102073,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-07
+NW-102073,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-07
+NW-102073,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-07
+NW-102073,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-07
+NW-102080,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. Worth the price in my opinion.",LIKE,2026-04-07
+NW-102080,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-07
+NW-102080,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-07
+NW-102080,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing. No strong feelings in either direction.,INDIFFERENT,2026-04-07
+NW-102087,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over. Good value compared to the name brand.,LIKE,2026-04-02
+NW-102087,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-02
+NW-102087,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-02
+NW-102087,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. I would keep it stocked if it were easy to find.,LIKE,2026-04-02
+NW-102094,How did this creamer taste in your usual coffee?,"Really creamy, loved it. I have already recommended it to a coworker.",LIKE,2026-04-04
+NW-102094,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-04
+NW-102094,Would you buy this flavor in addition to the original?,Yes.,LIKE,2026-04-04
+NW-102094,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-04
+NW-102101,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-12
+NW-102101,Was the sweetness level right for you?,"Close to right. Fine, but not memorable.",INDIFFERENT,2026-04-12
+NW-102101,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-12
+NW-102101,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. No strong feelings in either direction.",INDIFFERENT,2026-04-12
+NW-102108,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance. I gave the rest away.",DISLIKE,2026-04-21
+NW-102108,Was the sweetness level right for you?,Close to right. No strong feelings in either direction.,INDIFFERENT,2026-04-21
+NW-102108,Would you buy this flavor in addition to the original?,"No, I would not",DISLIKE,2026-04-21
+NW-102108,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-21
+NW-102115,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation.",LIKE,2026-04-24
+NW-102115,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely. I would happily pay a little more for this.,LIKE,2026-04-24
+NW-102115,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. I would not go out of my way for it.,INDIFFERENT,2026-04-24
+NW-102122,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-20
+NW-102122,Was the sweetness level right for you?,Perfect amount. My partner agreed with me.,LIKE,2026-04-20
+NW-102122,Would you buy this flavor in addition to the original?,Yes,LIKE,2026-04-20
+NW-102122,"Would this replace your current creamer, or sit alongside it?","This becomes my main one. The kids liked it too, which is a high bar.",LIKE,2026-04-20
+NW-102129,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-09
+NW-102129,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore. This needs to go back to development.",DISLIKE,2026-04-09
+NW-102129,Would you buy this flavor in addition to the original?,"No, I would not",DISLIKE,2026-04-09
+NW-102129,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have. Second time was no better than the first.,DISLIKE,2026-04-09
+NW-102136,How did this creamer taste in your usual coffee?,Overpoweringly sweet. My usual brand does this better.,DISLIKE,2026-04-17
+NW-102136,Was the sweetness level right for you?,Perfect amount. Worth the price in my opinion.,LIKE,2026-04-17
+NW-102136,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-17
+NW-102136,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. I would use it if it were the only option.",INDIFFERENT,2026-04-17
+NW-102143,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-02
+NW-102143,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-02
+NW-102143,Would you buy this flavor in addition to the original?,Yes I would,LIKE,2026-04-02
+NW-102143,"Would this replace your current creamer, or sit alongside it?",Replace it entirely. Good value compared to the name brand.,LIKE,2026-04-02
+NW-102150,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless.",INDIFFERENT,2026-04-10
+NW-102150,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. I would not go out of my way for it.",INDIFFERENT,2026-04-10
+NW-102150,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-10
+NW-102150,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. It is hard to have an opinion on this one.",INDIFFERENT,2026-04-10
+NW-102157,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive. Fine, but not memorable.",INDIFFERENT,2026-04-09
+NW-102157,Was the sweetness level right for you?,Close to right. Price would decide it for me.,INDIFFERENT,2026-04-09
+NW-102157,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-09
+NW-102157,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-09
+NW-102164,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way.",INDIFFERENT,2026-04-13
+NW-102164,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-13
+NW-102164,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-13
+NW-102164,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. Not better or worse than my usual.,INDIFFERENT,2026-04-13
+NW-102171,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-20
+NW-102171,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-20
+NW-102171,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-20
+NW-102171,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. Fine, but not memorable.",INDIFFERENT,2026-04-20
+NW-102178,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way. Neither impressed nor annoyed.",INDIFFERENT,2026-04-20
+NW-102178,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-20
+NW-102178,Would you buy this flavor in addition to the original?,"Yes, definitely",LIKE,2026-04-20
+NW-102185,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-17
+NW-102185,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore. This needs to go back to development.",DISLIKE,2026-04-17
+NW-102185,Would you buy this flavor in addition to the original?,"No, I would not",DISLIKE,2026-04-17
+NW-102192,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. Good value compared to the name brand.",LIKE,2026-04-16
+NW-102192,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely. Better than what I use now.,LIKE,2026-04-16
+NW-102192,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-16
+NW-102192,"Would this replace your current creamer, or sit alongside it?",Replace it entirely. Worth the price in my opinion.,LIKE,2026-04-16
+NW-102199,How did this creamer taste in your usual coffee?,Overpoweringly sweet. This needs to go back to development.,DISLIKE,2026-04-05
+NW-102199,Was the sweetness level right for you?,A bit sweet but fine. Price would decide it for me.,INDIFFERENT,2026-04-05
+NW-102199,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-05
+NW-102199,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-05
+NW-102206,How did this creamer taste in your usual coffee?,"Really creamy, loved it. I would keep it stocked if it were easy to find.",LIKE,2026-04-15
+NW-102206,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely. I would happily pay a little more for this.,LIKE,2026-04-15
+NW-102206,Would you buy this flavor in addition to the original?,Absolutely,LIKE,2026-04-15
+NW-102213,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-03
+NW-102213,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-03
+NW-102213,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-03
+NW-102213,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. I would use it if it were the only option.",INDIFFERENT,2026-04-03
+NW-102220,How did this creamer taste in your usual coffee?,"It separated almost immediately and floated in little clumps on top. Whatever the taste might have been, I could not get past the appearance.",DISLIKE,2026-04-23
+NW-102220,Was the sweetness level right for you?,Close to right. Not better or worse than my usual.,INDIFFERENT,2026-04-23
+NW-102220,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-23
+NW-102220,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-23
+NW-102227,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee. I could see some people liking it more than I did.,INDIFFERENT,2026-04-17
+NW-102227,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-17
+NW-102227,Would you buy this flavor in addition to the original?,Not sure,INDIFFERENT,2026-04-17
+NW-102227,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. Not better or worse than my usual.",INDIFFERENT,2026-04-17
+NW-102234,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive. About what I expected going in.",INDIFFERENT,2026-04-22
+NW-102234,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-22
+NW-102234,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-22
+NW-102234,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. Neither impressed nor annoyed.",INDIFFERENT,2026-04-22
+NW-102241,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive.",INDIFFERENT,2026-04-20
+NW-102241,Was the sweetness level right for you?,Close to right. About what I expected going in.,INDIFFERENT,2026-04-20
+NW-102241,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-20
+NW-102241,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. Not better or worse than my usual.,INDIFFERENT,2026-04-20
+NW-102248,How did this creamer taste in your usual coffee?,Curdled in my coffee. I stopped using it before the test period ended.,DISLIKE,2026-04-15
+NW-102248,Was the sweetness level right for you?,"Much too sweet for coffee. Two tablespoons and my cup tasted like a milkshake, and I could not taste the coffee at all anymore.",DISLIKE,2026-04-15
+NW-102248,Would you buy this flavor in addition to the original?,No,DISLIKE,2026-04-15
+NW-102248,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have.,DISLIKE,2026-04-15
+NW-102255,How did this creamer taste in your usual coffee?,It made my regular drip coffee taste like something from a cafe. Genuinely creamy without the oat flavor taking over.,LIKE,2026-04-15
+NW-102255,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-15
+NW-102255,Would you buy this flavor in addition to the original?,Yes - already planning to,LIKE,2026-04-15
+NW-102255,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. I would keep it stocked if it were easy to find.,LIKE,2026-04-15
+NW-102262,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless.",INDIFFERENT,2026-04-17
+NW-102262,Was the sweetness level right for you?,Close to right. It is hard to have an opinion on this one.,INDIFFERENT,2026-04-17
+NW-102262,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-17
+NW-102262,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. Neither impressed nor annoyed.,INDIFFERENT,2026-04-17
+NW-102269,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-21
+NW-102269,Was the sweetness level right for you?,Just right - sweet enough to skip sugar entirely.,LIKE,2026-04-21
+NW-102269,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-21
+NW-102269,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-21
+NW-102276,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless. I would not go out of my way for it.",INDIFFERENT,2026-04-06
+NW-102276,Was the sweetness level right for you?,"Cloying, like dessert syrup.",DISLIKE,2026-04-06
+NW-102276,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-06
+NW-102276,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-06
+NW-102283,How did this creamer taste in your usual coffee?,"Fine, does the job. I could see some people liking it more than I did.",INDIFFERENT,2026-04-16
+NW-102283,Was the sweetness level right for you?,A bit sweet but fine. I could see some people liking it more than I did.,INDIFFERENT,2026-04-16
+NW-102283,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-16
+NW-102283,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-16
+NW-102290,How did this creamer taste in your usual coffee?,"Perfectly serviceable. It lightened the coffee, added a little sweetness, and otherwise did not make much of an impression on me either way. It is hard to have an opinion on this one.",INDIFFERENT,2026-04-19
+NW-102290,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-19
+NW-102290,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-19
+NW-102297,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. No complaints from anyone in the house.",LIKE,2026-04-05
+NW-102297,Would you buy this flavor in addition to the original?,"Yes, definitely",LIKE,2026-04-05
+NW-102297,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally.",INDIFFERENT,2026-04-05
+NW-102304,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. I would buy it again.",LIKE,2026-04-17
+NW-102304,Was the sweetness level right for you?,Perfect amount. Good value compared to the name brand.,LIKE,2026-04-17
+NW-102304,Would you buy this flavor in addition to the original?,Yes,LIKE,2026-04-17
+NW-102304,"Would this replace your current creamer, or sit alongside it?",Replace it entirely.,LIKE,2026-04-17
+NW-102311,How did this creamer taste in your usual coffee?,"Really creamy, loved it. I have already recommended it to a coworker.",LIKE,2026-04-19
+NW-102311,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-19
+NW-102311,Would you buy this flavor in addition to the original?,Yes - already planning to,LIKE,2026-04-19
+NW-102311,"Would this replace your current creamer, or sit alongside it?",Replace it entirely. I would buy it again.,LIKE,2026-04-19
+NW-102318,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee. Price would decide it for me.,INDIFFERENT,2026-04-18
+NW-102318,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-18
+NW-102318,Would you buy this flavor in addition to the original?,Yes I would,LIKE,2026-04-18
+NW-102318,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. I would use it if it were the only option.,INDIFFERENT,2026-04-18
+NW-102325,How did this creamer taste in your usual coffee?,"Fine, does the job.",INDIFFERENT,2026-04-02
+NW-102325,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-02
+NW-102325,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-02
+NW-102325,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-02
+NW-102332,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless.",INDIFFERENT,2026-04-14
+NW-102332,Was the sweetness level right for you?,Close to right. It is hard to have an opinion on this one.,INDIFFERENT,2026-04-14
+NW-102332,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-14
+NW-102332,"Would this replace your current creamer, or sit alongside it?",Probably alongside - a change of pace but not an everyday thing.,INDIFFERENT,2026-04-14
+NW-102339,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee.,INDIFFERENT,2026-04-02
+NW-102339,Was the sweetness level right for you?,A bit sweet but fine. I would not go out of my way for it.,INDIFFERENT,2026-04-02
+NW-102339,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-02
+NW-102339,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. I would not go out of my way for it.",INDIFFERENT,2026-04-02
+NW-102346,How did this creamer taste in your usual coffee?,Tastes like oat milk in coffee. It is hard to have an opinion on this one.,INDIFFERENT,2026-04-16
+NW-102346,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with.",INDIFFERENT,2026-04-16
+NW-102346,Would you buy this flavor in addition to the original?,Hard to say,INDIFFERENT,2026-04-16
+NW-102346,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge.,INDIFFERENT,2026-04-16
+NW-102353,How did this creamer taste in your usual coffee?,"Really creamy, loved it.",LIKE,2026-04-20
+NW-102353,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. Price would decide it for me.",INDIFFERENT,2026-04-20
+NW-102353,Would you buy this flavor in addition to the original?,"No, I would not",DISLIKE,2026-04-20
+NW-102353,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have. Second time was no better than the first.,DISLIKE,2026-04-20
+NW-102360,How did this creamer taste in your usual coffee?,"Fine, does the job. It is hard to have an opinion on this one.",INDIFFERENT,2026-04-08
+NW-102360,Was the sweetness level right for you?,Close to right.,INDIFFERENT,2026-04-08
+NW-102360,Would you buy this flavor in addition to the original?,It depends on the price,INDIFFERENT,2026-04-08
+NW-102360,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. I could see some people liking it more than I did.",INDIFFERENT,2026-04-08
+NW-102367,How did this creamer taste in your usual coffee?,"It was okay. Slightly thinner than dairy creamer, a bit of oat flavor coming through, nothing offensive. No strong feelings in either direction.",INDIFFERENT,2026-04-09
+NW-102367,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-09
+NW-102367,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-09
+NW-102367,"Would this replace your current creamer, or sit alongside it?",Honestly neither. It is fine but not different enough from the original for me to make room for it in the fridge. Price would decide it for me.,INDIFFERENT,2026-04-09
+NW-102374,How did this creamer taste in your usual coffee?,Overpoweringly sweet. Second time was no better than the first.,DISLIKE,2026-04-13
+NW-102374,Was the sweetness level right for you?,Far too sweet. I stopped using it before the test period ended.,DISLIKE,2026-04-13
+NW-102374,Would you buy this flavor in addition to the original?,No,DISLIKE,2026-04-13
+NW-102374,"Would this replace your current creamer, or sit alongside it?",Sticking with what I have. Nobody else in the house would touch it.,DISLIKE,2026-04-13
+NW-102381,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. It held up over the whole test period.",LIKE,2026-04-09
+NW-102381,Was the sweetness level right for you?,"Slightly sweeter than I would make it myself, but within a range I can live with. Fine, but not memorable.",INDIFFERENT,2026-04-09
+NW-102381,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. I would not go out of my way for it.",INDIFFERENT,2026-04-09
+NW-102388,How did this creamer taste in your usual coffee?,"Neutral overall. I finished the bottle over the week and my honest assessment is that it is neither better nor worse than the original flavor I already buy, which makes the flavor extension feel a bit pointless. I would not go out of my way for it.",INDIFFERENT,2026-04-12
+NW-102388,Was the sweetness level right for you?,A bit sweet but fine. I could see some people liking it more than I did.,INDIFFERENT,2026-04-12
+NW-102388,Would you buy this flavor in addition to the original?,Possibly,INDIFFERENT,2026-04-12
+NW-102388,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. Neither impressed nor annoyed.",INDIFFERENT,2026-04-12
+NW-102395,How did this creamer taste in your usual coffee?,"Fine, does the job. It is hard to have an opinion on this one.",INDIFFERENT,2026-04-09
+NW-102395,Was the sweetness level right for you?,A bit sweet but fine.,INDIFFERENT,2026-04-09
+NW-102395,Would you buy this flavor in addition to the original?,Only if it were on sale,INDIFFERENT,2026-04-09
+NW-102395,"Would this replace your current creamer, or sit alongside it?","Alongside, occasionally. Price would decide it for me.",INDIFFERENT,2026-04-09
+NW-102402,How did this creamer taste in your usual coffee?,"Blended beautifully, no separation. This is the first one of these I have actually finished.",LIKE,2026-04-09
+NW-102402,Was the sweetness level right for you?,Perfect amount.,LIKE,2026-04-09
+NW-102402,Would you buy this flavor in addition to the original?,Maybe,INDIFFERENT,2026-04-09
+NW-102402,"Would this replace your current creamer, or sit alongside it?",This becomes my main one. Worth the price in my opinion.,LIKE,2026-04-09

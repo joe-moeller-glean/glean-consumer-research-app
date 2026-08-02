@@ -50,19 +50,22 @@ Loads the committed fixtures in [`src/db/seed/`](src/db/seed):
 | `studies.ts` | Study and leg metadata |
 | `seed.ts` | Loader that turns the above into database rows |
 
-Five studies for a fictional consumer goods manufacturer, 3,875 responses total
-(500-1,000 per study), each landing on a deliberate overall sentiment:
+Five studies for a fictional consumer goods manufacturer, 8,043 responses total
+(1,300-1,800 per study) from 1,251 participating panelists, each landing on a
+deliberate overall sentiment:
 
-| Study | Product | Legs | Outcome |
-|---|---|---|---|
-| Sparkling water citrus reformulation | Cascade Sparkling Water | 3 | **Like** (56%) |
-| Plant protein bar launch readiness | Summit Plant Protein Bar | 2 | **Like** (55%) |
-| Concentrated laundry sheet concept test | PureFold Detergent Sheets | 1 | **Dislike** (56%) |
-| Oat creamer flavor extension | Meadow Oat Coffee Creamer | 3 | **Indifferent** (49%) |
-| Bamboo paper towel durability study | Everleaf Bamboo Paper Towels | 2 | **Indifferent** (51%) |
+| Study | Product | Legs | Responses | Outcome |
+|---|---|---|---|---|
+| Sparkling water citrus reformulation | Cascade Sparkling Water | 3 | 1,763 | **Like** 56% |
+| Plant protein bar launch readiness | Summit Plant Protein Bar | 2 | 1,667 | **Like** 61% |
+| Concentrated laundry sheet concept test | PureFold Detergent Sheets | 1 | 1,687 | **Dislike** 59% |
+| Oat creamer flavor extension | Meadow Oat Coffee Creamer | 3 | 1,550 | **Indifferent** 53% |
+| Bamboo paper towel durability study | Everleaf Bamboo Paper Towels | 2 | 1,376 | **Indifferent** 58% |
 
 Each study has its own question set, mixing open-ended questions with yes/no
-questions, and answers range from two words to full paragraphs.
+questions, and answers range from two words to full paragraphs. Open-ended
+answers combine a core opinion with an optional supporting clause, giving 1,522
+distinct verbatims across the corpus.
 
 The CSVs carry a `coded_sentiment` column representing the research vendor's
 human coding. The seed uses it to pre-populate sentiment so the dashboard has

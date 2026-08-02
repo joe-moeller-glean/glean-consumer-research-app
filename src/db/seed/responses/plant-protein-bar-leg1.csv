@@ -1,434 +1,827 @@
 panelist_id,question,feedback,coded_sentiment,responded_at
-NW-103326,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite.",DISLIKE,2026-03-24
-NW-103326,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-24
-NW-103326,Would you pay $2.99 for this bar?,Definitely not,DISLIKE,2026-03-24
-NW-103326,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-24
-NW-103326,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long.",DISLIKE,2026-03-24
-NW-103333,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-14
-NW-103333,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-14
-NW-103333,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-14
-NW-103333,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-14
-NW-103333,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-14
-NW-103340,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-08
-NW-103340,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-08
-NW-103340,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-08
-NW-103340,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-08
-NW-103340,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-08
-NW-103347,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-07
-NW-103347,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-07
-NW-103347,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-07
-NW-103347,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-07
-NW-103347,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-07
-NW-103354,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite.",DISLIKE,2026-03-24
-NW-103354,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-24
-NW-103354,Would you pay $2.99 for this bar?,No thanks,DISLIKE,2026-03-24
-NW-103354,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-24
-NW-103354,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar.",DISLIKE,2026-03-24
-NW-103361,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-15
-NW-103361,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-15
-NW-103361,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-15
-NW-103361,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-15
-NW-103361,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-15
-NW-103368,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-13
-NW-103368,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-13
-NW-103368,Would you pay $2.99 for this bar?,Only if it were on sale,INDIFFERENT,2026-03-13
-NW-103368,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-13
-NW-103368,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-13
-NW-103375,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-20
-NW-103375,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-20
-NW-103375,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-20
-NW-103375,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-20
-NW-103375,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-20
-NW-103382,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-09
-NW-103382,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-09
-NW-103382,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-09
-NW-103382,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-09
-NW-103382,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-09
-NW-103389,Describe the taste and texture of the bar.,"Way too dense, hurt my jaw.",DISLIKE,2026-03-14
-NW-103389,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-14
-NW-103389,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-14
-NW-103389,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-14
-NW-103389,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-14
-NW-103396,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-20
-NW-103396,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-20
-NW-103396,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-20
-NW-103396,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-20
-NW-103396,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-20
-NW-103403,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-13
-NW-103403,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-13
-NW-103403,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-13
-NW-103403,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-13
-NW-103403,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-13
-NW-103410,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-07
-NW-103410,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-07
-NW-103410,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-07
-NW-103410,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-07
-NW-103410,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-07
-NW-103417,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-11
-NW-103417,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-11
-NW-103417,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-11
-NW-103417,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added.",DISLIKE,2026-03-11
-NW-103424,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-12
-NW-103424,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-12
-NW-103424,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-12
-NW-103424,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-12
-NW-103424,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-12
-NW-103431,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-01
-NW-103431,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-01
-NW-103431,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-01
-NW-103431,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-01
-NW-103431,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-01
-NW-103438,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-01
-NW-103438,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-01
-NW-103438,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-01
-NW-103438,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-01
-NW-103445,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-22
-NW-103445,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-22
-NW-103445,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-22
-NW-103445,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-22
-NW-103445,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-22
-NW-103452,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-02
-NW-103452,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-02
-NW-103452,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-02
-NW-103452,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-02
-NW-103452,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-02
-NW-103459,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-14
-NW-103459,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-14
-NW-103459,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-14
-NW-103459,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-14
-NW-103459,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-14
-NW-103466,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-03
-NW-103466,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-03
-NW-103466,Would you pay $2.99 for this bar?,No.,DISLIKE,2026-03-03
-NW-103466,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-03
-NW-103466,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-03
-NW-103473,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-13
-NW-103473,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-13
-NW-103473,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-13
-NW-103473,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-13
-NW-103473,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added.",DISLIKE,2026-03-13
-NW-103480,Describe the taste and texture of the bar.,Like eating cardboard.,DISLIKE,2026-03-03
-NW-103480,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-03
-NW-103480,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-03
-NW-103480,Would you recommend this bar to a friend?,No thanks,DISLIKE,2026-03-03
-NW-103480,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar.",DISLIKE,2026-03-03
-NW-103487,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-23
-NW-103487,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-23
-NW-103487,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-23
-NW-103487,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-23
-NW-103487,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-23
-NW-103494,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me.",DISLIKE,2026-03-15
-NW-103494,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-15
-NW-103494,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-15
-NW-103494,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-15
-NW-103494,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-15
-NW-103501,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-09
-NW-103501,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-09
-NW-103501,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-09
-NW-103501,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-09
-NW-103501,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-09
-NW-103508,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting.",INDIFFERENT,2026-03-03
-NW-103508,"How full did you feel after eating the bar, and for how long?",Not filling at all.,DISLIKE,2026-03-03
-NW-103508,Would you pay $2.99 for this bar?,Possibly,INDIFFERENT,2026-03-03
-NW-103508,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-03
-NW-103508,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar.",DISLIKE,2026-03-03
-NW-103515,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-22
-NW-103515,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-22
-NW-103515,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-22
-NW-103515,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-22
-NW-103515,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-22
-NW-103522,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me.",DISLIKE,2026-03-24
-NW-103522,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-24
-NW-103522,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-24
-NW-103522,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-24
-NW-103529,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-07
-NW-103529,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-07
-NW-103529,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-07
-NW-103529,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-07
-NW-103529,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-07
-NW-103536,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-23
-NW-103536,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-23
-NW-103536,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-23
-NW-103536,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-23
-NW-103536,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-23
-NW-103543,Describe the taste and texture of the bar.,Like eating cardboard.,DISLIKE,2026-03-18
-NW-103543,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-18
-NW-103543,Would you pay $2.99 for this bar?,Definitely not,DISLIKE,2026-03-18
-NW-103543,Would you recommend this bar to a friend?,No thanks,DISLIKE,2026-03-18
-NW-103543,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long.",DISLIKE,2026-03-18
-NW-103550,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-01
-NW-103550,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-01
-NW-103550,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-01
-NW-103550,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-01
-NW-103557,Describe the taste and texture of the bar.,"Way too dense, hurt my jaw.",DISLIKE,2026-03-13
-NW-103557,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-13
-NW-103557,Would you pay $2.99 for this bar?,No,DISLIKE,2026-03-13
-NW-103557,Would you recommend this bar to a friend?,"No, I'll stick with my usual",DISLIKE,2026-03-13
-NW-103557,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added.",DISLIKE,2026-03-13
-NW-103564,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-17
-NW-103564,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-17
-NW-103564,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-17
-NW-103564,Would you recommend this bar to a friend?,"No, I would not",DISLIKE,2026-03-17
-NW-103564,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-17
-NW-103571,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-18
-NW-103571,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-18
-NW-103571,Would you pay $2.99 for this bar?,Hard to say,INDIFFERENT,2026-03-18
-NW-103571,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-18
-NW-103571,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-18
-NW-103578,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-02
-NW-103578,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-02
-NW-103578,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-02
-NW-103578,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-02
-NW-103578,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-02
-NW-103585,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-12
-NW-103585,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-12
-NW-103585,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-12
-NW-103585,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-12
-NW-103585,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-12
-NW-103592,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-02
-NW-103592,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-02
-NW-103592,Would you pay $2.99 for this bar?,Only if it were on sale,INDIFFERENT,2026-03-02
-NW-103592,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-02
-NW-103592,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-02
-NW-103599,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-06
-NW-103599,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-06
-NW-103599,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-06
-NW-103599,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-06
-NW-103599,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-06
-NW-103606,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-11
-NW-103606,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-11
-NW-103606,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-11
-NW-103606,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-11
-NW-103606,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-11
-NW-103613,Describe the taste and texture of the bar.,Dry and chalky.,DISLIKE,2026-03-21
-NW-103613,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-21
-NW-103613,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-21
-NW-103613,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-21
-NW-103613,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-21
-NW-103620,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-24
-NW-103620,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-24
-NW-103620,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-24
-NW-103620,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-24
-NW-103620,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-24
-NW-103627,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-06
-NW-103627,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-06
-NW-103627,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-06
-NW-103627,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-06
-NW-103634,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting.",INDIFFERENT,2026-03-21
-NW-103634,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-21
-NW-103634,Would you pay $2.99 for this bar?,Possibly,INDIFFERENT,2026-03-21
-NW-103634,Would you recommend this bar to a friend?,Only if it were on sale,INDIFFERENT,2026-03-21
-NW-103634,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-21
-NW-103641,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-12
-NW-103641,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-12
-NW-103641,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-12
-NW-103641,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-12
-NW-103641,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-12
-NW-103648,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-21
-NW-103648,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-21
-NW-103648,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-21
-NW-103648,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-21
-NW-103655,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-18
-NW-103655,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-18
-NW-103655,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-18
-NW-103655,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-18
-NW-103655,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-18
-NW-103662,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-19
-NW-103662,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-19
-NW-103662,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-19
-NW-103662,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-19
-NW-103662,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-19
-NW-103669,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-18
-NW-103669,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-18
-NW-103669,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-18
-NW-103669,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-18
-NW-103669,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-18
-NW-103676,Describe the taste and texture of the bar.,"Way too dense, hurt my jaw.",DISLIKE,2026-03-01
-NW-103676,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-01
-NW-103676,Would you pay $2.99 for this bar?,No thanks,DISLIKE,2026-03-01
-NW-103676,Would you recommend this bar to a friend?,No,DISLIKE,2026-03-01
-NW-103676,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar.",DISLIKE,2026-03-01
-NW-103683,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-04
-NW-103683,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-04
-NW-103683,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-04
-NW-103683,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-04
-NW-103683,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-04
-NW-103690,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-13
-NW-103690,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-13
-NW-103690,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-13
-NW-103690,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-13
-NW-103690,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-13
-NW-103697,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite.",DISLIKE,2026-03-07
-NW-103697,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-07
-NW-103697,Would you pay $2.99 for this bar?,No thanks,DISLIKE,2026-03-07
-NW-103697,Would you recommend this bar to a friend?,No,DISLIKE,2026-03-07
-NW-103697,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long.",DISLIKE,2026-03-07
-NW-103704,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-10
-NW-103704,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-10
-NW-103704,Would you pay $2.99 for this bar?,"No, I would not",DISLIKE,2026-03-10
-NW-103704,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-10
-NW-103704,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar.",DISLIKE,2026-03-10
-NW-103711,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-21
-NW-103711,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-21
-NW-103711,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-21
-NW-103711,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-21
-NW-103711,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-21
-NW-103718,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-08
-NW-103718,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-08
-NW-103718,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-08
-NW-103718,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-08
-NW-103718,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-08
-NW-103725,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-23
-NW-103725,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-23
-NW-103725,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-23
-NW-103725,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-23
-NW-103725,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-23
-NW-103732,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-18
-NW-103732,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-18
-NW-103732,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-18
-NW-103732,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-18
-NW-103732,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-18
-NW-103739,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting.",INDIFFERENT,2026-03-23
-NW-103739,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-23
-NW-103739,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-23
-NW-103739,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-23
-NW-103739,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-23
-NW-103746,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-18
-NW-103746,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-18
-NW-103746,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-18
-NW-103746,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-18
-NW-103746,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-18
-NW-103753,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-09
-NW-103753,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-09
-NW-103753,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-09
-NW-103753,Would you recommend this bar to a friend?,Only if it were on sale,INDIFFERENT,2026-03-09
-NW-103753,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar.",DISLIKE,2026-03-09
-NW-103760,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-15
-NW-103760,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-15
-NW-103760,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-15
-NW-103760,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-15
-NW-103760,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-15
-NW-103767,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting.",INDIFFERENT,2026-03-18
-NW-103767,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-18
-NW-103767,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-18
-NW-103767,Would you recommend this bar to a friend?,Not sure,INDIFFERENT,2026-03-18
-NW-103767,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-18
-NW-103774,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-05
-NW-103774,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-05
-NW-103774,Would you pay $2.99 for this bar?,Only if it were on sale,INDIFFERENT,2026-03-05
-NW-103774,Would you recommend this bar to a friend?,Not sure,INDIFFERENT,2026-03-05
-NW-103774,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-05
-NW-103781,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite.",DISLIKE,2026-03-18
-NW-103781,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-18
-NW-103781,Would you pay $2.99 for this bar?,No.,DISLIKE,2026-03-18
-NW-103781,Would you recommend this bar to a friend?,Definitely not,DISLIKE,2026-03-18
-NW-103781,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added.",DISLIKE,2026-03-18
-NW-103788,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting.",INDIFFERENT,2026-03-16
-NW-103788,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-16
-NW-103788,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-16
-NW-103788,Would you recommend this bar to a friend?,Only if it were on sale,INDIFFERENT,2026-03-16
-NW-103788,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-16
-NW-103795,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-24
-NW-103795,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-24
-NW-103795,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-24
-NW-103795,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-24
-NW-103802,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting.",INDIFFERENT,2026-03-10
-NW-103802,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-10
-NW-103802,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-10
-NW-103802,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-10
-NW-103802,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-10
-NW-103809,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-14
-NW-103809,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-14
-NW-103809,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-14
-NW-103809,Would you recommend this bar to a friend?,Only if it were on sale,INDIFFERENT,2026-03-14
-NW-103809,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-14
-NW-103816,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-01
-NW-103816,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-01
-NW-103816,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-01
-NW-103816,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-01
-NW-103816,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-01
-NW-103823,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite.",DISLIKE,2026-03-16
-NW-103823,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-16
-NW-103823,Would you pay $2.99 for this bar?,No,DISLIKE,2026-03-16
-NW-103823,Would you recommend this bar to a friend?,No thanks,DISLIKE,2026-03-16
-NW-103830,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-11
-NW-103830,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-11
-NW-103830,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-11
-NW-103830,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-11
-NW-103830,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-11
-NW-103837,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-02
-NW-103837,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-02
-NW-103837,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-02
-NW-103837,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-02
-NW-103837,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-02
-NW-103844,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite.",DISLIKE,2026-03-01
-NW-103844,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-01
-NW-103844,Would you pay $2.99 for this bar?,"No, I'll stick with my usual",DISLIKE,2026-03-01
-NW-103844,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-01
-NW-103844,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added.",DISLIKE,2026-03-01
-NW-103851,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting.",INDIFFERENT,2026-03-15
-NW-103851,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-15
-NW-103851,Would you pay $2.99 for this bar?,Only if it were on sale,INDIFFERENT,2026-03-15
-NW-103851,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-15
-NW-103851,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-15
-NW-103858,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-09
-NW-103858,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-09
-NW-103858,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-09
-NW-103858,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-09
-NW-103858,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added.",DISLIKE,2026-03-09
-NW-103865,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-08
-NW-103865,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-08
-NW-103865,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-08
-NW-103865,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-08
-NW-103865,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-08
-NW-103872,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-07
-NW-103872,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-07
-NW-103872,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-07
-NW-103872,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-07
-NW-103879,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-04
-NW-103879,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-04
-NW-103879,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-04
-NW-103879,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-04
-NW-103879,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-04
-NW-103886,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-24
-NW-103886,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-24
-NW-103886,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-24
-NW-103893,Describe the taste and texture of the bar.,"Way too dense, hurt my jaw.",DISLIKE,2026-03-05
-NW-103893,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-05
-NW-103893,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-05
-NW-103893,Would you recommend this bar to a friend?,No,DISLIKE,2026-03-05
-NW-103900,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-10
-NW-103900,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-10
-NW-103900,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-10
-NW-103900,Would you recommend this bar to a friend?,No,DISLIKE,2026-03-10
-NW-103900,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-10
-NW-103907,Describe the taste and texture of the bar.,It's an okay bar.,INDIFFERENT,2026-03-01
-NW-103907,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-01
-NW-103907,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-01
-NW-103907,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-01
-NW-103907,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-01
-NW-103914,Describe the taste and texture of the bar.,It's an okay bar.,INDIFFERENT,2026-03-11
-NW-103914,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-11
-NW-103914,Would you pay $2.99 for this bar?,Possibly,INDIFFERENT,2026-03-11
-NW-103914,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-11
-NW-103914,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-11
-NW-103921,Describe the taste and texture of the bar.,Dry and chalky.,DISLIKE,2026-03-18
-NW-103921,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-18
-NW-103921,Would you pay $2.99 for this bar?,Hard to say,INDIFFERENT,2026-03-18
-NW-103921,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-18
-NW-103921,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-18
-NW-103928,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-23
-NW-103928,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-23
-NW-103928,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-23
-NW-103928,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-23
-NW-103928,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-23
-NW-103935,Describe the taste and texture of the bar.,It's an okay bar.,INDIFFERENT,2026-03-18
-NW-103935,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-18
-NW-103935,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-18
-NW-103935,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-18
-NW-103935,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-18
-NW-103942,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-08
-NW-103942,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-08
-NW-103942,Would you pay $2.99 for this bar?,Possibly,INDIFFERENT,2026-03-08
-NW-103942,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-08
-NW-103942,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-08
+NW-102372,Describe the taste and texture of the bar.,"Chewy and rich, really good. This is the first one of these I have actually finished.",LIKE,2026-03-01
+NW-102372,"How full did you feel after eating the bar, and for how long?",Full for hours. I would happily pay a little more for this.,LIKE,2026-03-01
+NW-102372,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-01
+NW-102372,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-01
+NW-102372,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. It held up over the whole test period.",LIKE,2026-03-01
+NW-102379,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. Worth the price in my opinion.,LIKE,2026-03-14
+NW-102379,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. My partner agreed with me.,LIKE,2026-03-14
+NW-102379,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-14
+NW-102379,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-14
+NW-102386,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. I would buy it again.,LIKE,2026-03-15
+NW-102386,"How full did you feel after eating the bar, and for how long?",Full for hours. Better than what I use now.,LIKE,2026-03-15
+NW-102386,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-15
+NW-102386,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-15
+NW-102386,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-15
+NW-102393,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-24
+NW-102393,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-24
+NW-102393,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-24
+NW-102393,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-24
+NW-102393,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. No complaints from anyone in the house.",LIKE,2026-03-24
+NW-102400,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-11
+NW-102400,"How full did you feel after eating the bar, and for how long?",Full for hours. Good value compared to the name brand.,LIKE,2026-03-11
+NW-102400,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-11
+NW-102400,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-11
+NW-102400,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-11
+NW-102407,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting.",INDIFFERENT,2026-03-22
+NW-102407,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. Better than what I use now.,LIKE,2026-03-22
+NW-102407,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-22
+NW-102407,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food. I could see some people liking it more than I did.",INDIFFERENT,2026-03-22
+NW-102414,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-06
+NW-102414,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. Better than what I use now.,LIKE,2026-03-06
+NW-102414,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-06
+NW-102414,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-06
+NW-102414,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. The kids liked it too, which is a high bar.",LIKE,2026-03-06
+NW-102421,Describe the taste and texture of the bar.,"The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. The kids liked it too, which is a high bar.",LIKE,2026-03-15
+NW-102421,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour. The packaging oversells what is inside.,DISLIKE,2026-03-15
+NW-102421,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-15
+NW-102421,Would you recommend this bar to a friend?,"No, I'll stick with my usual",DISLIKE,2026-03-15
+NW-102421,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added. I stopped using it before the test period ended.",DISLIKE,2026-03-15
+NW-102428,Describe the taste and texture of the bar.,"Fine texture, average flavor. Not better or worse than my usual.",INDIFFERENT,2026-03-10
+NW-102428,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-10
+NW-102428,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-10
+NW-102428,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-10
+NW-102428,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food. Not better or worse than my usual.",INDIFFERENT,2026-03-10
+NW-102435,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. I would happily pay a little more for this.,LIKE,2026-03-01
+NW-102435,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. I would buy it again.,LIKE,2026-03-01
+NW-102435,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-01
+NW-102435,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-01
+NW-102435,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. Better than what I use now.",LIKE,2026-03-01
+NW-102442,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-05
+NW-102442,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-05
+NW-102442,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-05
+NW-102442,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-05
+NW-102449,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. My partner agreed with me.,LIKE,2026-03-15
+NW-102449,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. I would buy it again.,LIKE,2026-03-15
+NW-102449,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-15
+NW-102449,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-15
+NW-102449,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I would happily pay a little more for this.",LIKE,2026-03-15
+NW-102456,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot. Worth the price in my opinion.",LIKE,2026-03-01
+NW-102456,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-01
+NW-102456,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-01
+NW-102456,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-01
+NW-102456,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-01
+NW-102463,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me. Not worth the price.",DISLIKE,2026-03-07
+NW-102463,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-07
+NW-102463,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-07
+NW-102463,Would you recommend this bar to a friend?,Definitely not,DISLIKE,2026-03-07
+NW-102463,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar. Not worth the price.",DISLIKE,2026-03-07
+NW-102470,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me. I expected more for what it costs.",DISLIKE,2026-03-13
+NW-102470,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes. The packaging oversells what is inside.,DISLIKE,2026-03-13
+NW-102470,Would you pay $2.99 for this bar?,No.,DISLIKE,2026-03-13
+NW-102470,Would you recommend this bar to a friend?,No,DISLIKE,2026-03-13
+NW-102477,Describe the taste and texture of the bar.,Dry and chalky. My usual brand does this better.,DISLIKE,2026-03-07
+NW-102477,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes. My usual brand does this better.,DISLIKE,2026-03-07
+NW-102477,Would you pay $2.99 for this bar?,No thanks,DISLIKE,2026-03-07
+NW-102477,Would you recommend this bar to a friend?,"No, I would not",DISLIKE,2026-03-07
+NW-102484,Describe the taste and texture of the bar.,"Way too dense, hurt my jaw.",DISLIKE,2026-03-08
+NW-102484,"How full did you feel after eating the bar, and for how long?",Not filling at all.,DISLIKE,2026-03-08
+NW-102484,Would you pay $2.99 for this bar?,"No, I would not",DISLIKE,2026-03-08
+NW-102484,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-08
+NW-102484,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. I would happily pay a little more for this.",LIKE,2026-03-08
+NW-102491,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-09
+NW-102491,"How full did you feel after eating the bar, and for how long?",Full for hours. My partner agreed with me.,LIKE,2026-03-09
+NW-102491,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-09
+NW-102491,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-09
+NW-102491,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food. Neither impressed nor annoyed.",INDIFFERENT,2026-03-09
+NW-102498,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-10
+NW-102498,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. Worth the price in my opinion.,LIKE,2026-03-10
+NW-102498,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-10
+NW-102498,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-10
+NW-102498,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-10
+NW-102505,Describe the taste and texture of the bar.,It's an okay bar. It is hard to have an opinion on this one.,INDIFFERENT,2026-03-19
+NW-102505,"How full did you feel after eating the bar, and for how long?",Not filling at all. This needs to go back to development.,DISLIKE,2026-03-19
+NW-102505,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-19
+NW-102505,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-19
+NW-102505,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food. I would not go out of my way for it.",INDIFFERENT,2026-03-19
+NW-102512,Describe the taste and texture of the bar.,Dry and chalky.,DISLIKE,2026-03-22
+NW-102512,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-22
+NW-102512,Would you pay $2.99 for this bar?,No,DISLIKE,2026-03-22
+NW-102512,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-22
+NW-102512,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long. This needs to go back to development.",DISLIKE,2026-03-22
+NW-102519,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. It held up over the whole test period.",LIKE,2026-03-12
+NW-102519,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. Worth the price in my opinion.,LIKE,2026-03-12
+NW-102519,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-12
+NW-102519,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-12
+NW-102519,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I would keep it stocked if it were easy to find.",LIKE,2026-03-12
+NW-102526,Describe the taste and texture of the bar.,Standard protein bar taste. I would not go out of my way for it.,INDIFFERENT,2026-03-05
+NW-102526,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-05
+NW-102526,Would you pay $2.99 for this bar?,Hard to say,INDIFFERENT,2026-03-05
+NW-102526,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-05
+NW-102526,Does this feel like a healthy product to you? Why or why not?,Somewhat. I would use it if it were the only option.,INDIFFERENT,2026-03-05
+NW-102533,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-08
+NW-102533,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-08
+NW-102533,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-08
+NW-102533,Would you recommend this bar to a friend?,Not sure,INDIFFERENT,2026-03-08
+NW-102540,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. This is the first one of these I have actually finished.,LIKE,2026-03-17
+NW-102540,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-17
+NW-102540,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-17
+NW-102540,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-17
+NW-102540,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I would keep it stocked if it were easy to find.",LIKE,2026-03-17
+NW-102547,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting. Neither impressed nor annoyed.",INDIFFERENT,2026-03-18
+NW-102547,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-18
+NW-102547,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-18
+NW-102547,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-18
+NW-102547,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long. I gave the rest away.",DISLIKE,2026-03-18
+NW-102554,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. Good value compared to the name brand.,LIKE,2026-03-10
+NW-102554,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. No complaints from anyone in the house.,LIKE,2026-03-10
+NW-102554,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-10
+NW-102554,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. I would keep it stocked if it were easy to find.",LIKE,2026-03-10
+NW-102561,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me. Second time was no better than the first.",DISLIKE,2026-03-14
+NW-102561,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour. My usual brand does this better.,DISLIKE,2026-03-14
+NW-102561,Would you recommend this bar to a friend?,"No, I would not",DISLIKE,2026-03-14
+NW-102561,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option. About what I expected going in.",INDIFFERENT,2026-03-14
+NW-102568,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-14
+NW-102568,"How full did you feel after eating the bar, and for how long?",Full for hours. I would buy it again.,LIKE,2026-03-14
+NW-102568,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-14
+NW-102568,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-14
+NW-102568,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-14
+NW-102575,Describe the taste and texture of the bar.,It's an okay bar. Price would decide it for me.,INDIFFERENT,2026-03-13
+NW-102575,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. Price would decide it for me.",INDIFFERENT,2026-03-13
+NW-102575,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-13
+NW-102575,Would you recommend this bar to a friend?,Only if it were on sale,INDIFFERENT,2026-03-13
+NW-102575,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-13
+NW-102582,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-24
+NW-102582,Would you pay $2.99 for this bar?,No thanks,DISLIKE,2026-03-24
+NW-102582,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-24
+NW-102582,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar.",DISLIKE,2026-03-24
+NW-102589,Describe the taste and texture of the bar.,Like eating cardboard. The packaging oversells what is inside.,DISLIKE,2026-03-15
+NW-102589,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. I would happily pay a little more for this.,LIKE,2026-03-15
+NW-102589,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-15
+NW-102589,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-15
+NW-102589,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. The kids liked it too, which is a high bar.",LIKE,2026-03-15
+NW-102596,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. This is the first one of these I have actually finished.,LIKE,2026-03-13
+NW-102596,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-13
+NW-102596,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-13
+NW-102596,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-13
+NW-102596,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. Better than what I use now.",LIKE,2026-03-13
+NW-102603,Describe the taste and texture of the bar.,"Way too dense, hurt my jaw.",DISLIKE,2026-03-24
+NW-102603,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes. I expected more for what it costs.,DISLIKE,2026-03-24
+NW-102603,Would you pay $2.99 for this bar?,Definitely not,DISLIKE,2026-03-24
+NW-102603,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-24
+NW-102603,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long.",DISLIKE,2026-03-24
+NW-102610,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-18
+NW-102610,"How full did you feel after eating the bar, and for how long?",Full for hours. My partner agreed with me.,LIKE,2026-03-18
+NW-102610,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-18
+NW-102610,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-18
+NW-102610,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-18
+NW-102617,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. Good value compared to the name brand.,LIKE,2026-03-21
+NW-102617,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours. I would keep it stocked if it were easy to find.",LIKE,2026-03-21
+NW-102617,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-21
+NW-102617,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-21
+NW-102617,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. I would happily pay a little more for this.",LIKE,2026-03-21
+NW-102624,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting. It is hard to have an opinion on this one.",INDIFFERENT,2026-03-06
+NW-102624,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar. Neither impressed nor annoyed.",INDIFFERENT,2026-03-06
+NW-102624,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-06
+NW-102624,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-06
+NW-102624,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. My partner agreed with me.",LIKE,2026-03-06
+NW-102631,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-20
+NW-102631,"How full did you feel after eating the bar, and for how long?",Full for hours. Good value compared to the name brand.,LIKE,2026-03-20
+NW-102631,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-20
+NW-102631,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-20
+NW-102631,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. My partner agreed with me.",LIKE,2026-03-20
+NW-102638,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-23
+NW-102638,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. Not better or worse than my usual.",INDIFFERENT,2026-03-23
+NW-102638,Would you pay $2.99 for this bar?,Only if it were on sale,INDIFFERENT,2026-03-23
+NW-102638,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-23
+NW-102638,Does this feel like a healthy product to you? Why or why not?,Somewhat. Neither impressed nor annoyed.,INDIFFERENT,2026-03-23
+NW-102645,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. No complaints from anyone in the house.",LIKE,2026-03-18
+NW-102645,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-18
+NW-102645,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-18
+NW-102645,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-18
+NW-102645,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-18
+NW-102652,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-06
+NW-102652,"How full did you feel after eating the bar, and for how long?","Full for hours. The kids liked it too, which is a high bar.",LIKE,2026-03-06
+NW-102652,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-06
+NW-102652,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-06
+NW-102652,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-06
+NW-102659,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting.",INDIFFERENT,2026-03-04
+NW-102659,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. It is hard to have an opinion on this one.",INDIFFERENT,2026-03-04
+NW-102659,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-04
+NW-102659,Would you recommend this bar to a friend?,Only if it were on sale,INDIFFERENT,2026-03-04
+NW-102659,Does this feel like a healthy product to you? Why or why not?,Somewhat. I could see some people liking it more than I did.,INDIFFERENT,2026-03-04
+NW-102666,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-04
+NW-102666,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar. It is hard to have an opinion on this one.",INDIFFERENT,2026-03-04
+NW-102666,Would you pay $2.99 for this bar?,Only if it were on sale,INDIFFERENT,2026-03-04
+NW-102666,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-04
+NW-102666,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option. Not better or worse than my usual.",INDIFFERENT,2026-03-04
+NW-102673,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. Better than what I use now.,LIKE,2026-03-15
+NW-102673,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-15
+NW-102673,Would you pay $2.99 for this bar?,No.,DISLIKE,2026-03-15
+NW-102673,Would you recommend this bar to a friend?,Definitely not,DISLIKE,2026-03-15
+NW-102673,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I would happily pay a little more for this.",LIKE,2026-03-15
+NW-102680,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me.",DISLIKE,2026-03-01
+NW-102680,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. I have already recommended it to a coworker.,LIKE,2026-03-01
+NW-102680,Would you pay $2.99 for this bar?,"No, I would not",DISLIKE,2026-03-01
+NW-102680,Would you recommend this bar to a friend?,"No, I would not",DISLIKE,2026-03-01
+NW-102680,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar. Not worth the price.",DISLIKE,2026-03-01
+NW-102687,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. Good value compared to the name brand.,LIKE,2026-03-13
+NW-102687,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-13
+NW-102687,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-13
+NW-102687,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-13
+NW-102694,Describe the taste and texture of the bar.,"Fine texture, average flavor. Neither impressed nor annoyed.",INDIFFERENT,2026-03-19
+NW-102694,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-19
+NW-102694,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-19
+NW-102694,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-19
+NW-102694,Does this feel like a healthy product to you? Why or why not?,Somewhat. I would use it if it were the only option.,INDIFFERENT,2026-03-19
+NW-102701,Describe the taste and texture of the bar.,"Chewy and rich, really good. I would happily pay a little more for this.",LIKE,2026-03-13
+NW-102701,"How full did you feel after eating the bar, and for how long?",Not filling at all.,DISLIKE,2026-03-13
+NW-102701,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-13
+NW-102701,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-13
+NW-102701,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. I would happily pay a little more for this.",LIKE,2026-03-13
+NW-102708,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-20
+NW-102708,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-20
+NW-102708,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-20
+NW-102708,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. It held up over the whole test period.",LIKE,2026-03-20
+NW-102715,Describe the taste and texture of the bar.,It's an okay bar. Neither impressed nor annoyed.,INDIFFERENT,2026-03-16
+NW-102715,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. I could see some people liking it more than I did.",INDIFFERENT,2026-03-16
+NW-102715,Would you pay $2.99 for this bar?,Only if it were on sale,INDIFFERENT,2026-03-16
+NW-102715,Would you recommend this bar to a friend?,Only if it were on sale,INDIFFERENT,2026-03-16
+NW-102715,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-16
+NW-102722,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-01
+NW-102722,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-01
+NW-102722,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-01
+NW-102722,Would you recommend this bar to a friend?,No,DISLIKE,2026-03-01
+NW-102722,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar.",DISLIKE,2026-03-01
+NW-102729,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite. It went in the trash, honestly.",DISLIKE,2026-03-11
+NW-102729,"How full did you feel after eating the bar, and for how long?",Not filling at all.,DISLIKE,2026-03-11
+NW-102729,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-11
+NW-102729,Would you recommend this bar to a friend?,No thanks,DISLIKE,2026-03-11
+NW-102729,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added. This needs to go back to development.",DISLIKE,2026-03-11
+NW-102736,Describe the taste and texture of the bar.,Standard protein bar taste. About what I expected going in.,INDIFFERENT,2026-03-16
+NW-102736,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-16
+NW-102736,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-16
+NW-102736,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-16
+NW-102736,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. I would buy it again.",LIKE,2026-03-16
+NW-102743,Describe the taste and texture of the bar.,"Fine texture, average flavor. I would not go out of my way for it.",INDIFFERENT,2026-03-11
+NW-102743,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. It is hard to have an opinion on this one.",INDIFFERENT,2026-03-11
+NW-102743,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-11
+NW-102743,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food. Fine, but not memorable.",INDIFFERENT,2026-03-11
+NW-102750,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-01
+NW-102750,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-01
+NW-102750,Would you pay $2.99 for this bar?,Only if it were on sale,INDIFFERENT,2026-03-01
+NW-102750,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-01
+NW-102750,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-01
+NW-102757,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-06
+NW-102757,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-06
+NW-102757,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-06
+NW-102757,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-06
+NW-102764,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. I would keep it stocked if it were easy to find.",LIKE,2026-03-23
+NW-102764,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-23
+NW-102764,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-23
+NW-102764,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-23
+NW-102764,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-23
+NW-102771,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. I would buy it again.",LIKE,2026-03-12
+NW-102771,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-12
+NW-102771,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-12
+NW-102771,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-12
+NW-102771,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-12
+NW-102778,Describe the taste and texture of the bar.,It's an okay bar.,INDIFFERENT,2026-03-24
+NW-102778,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-24
+NW-102778,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-24
+NW-102778,Would you recommend this bar to a friend?,Only if it were on sale,INDIFFERENT,2026-03-24
+NW-102778,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food. No strong feelings in either direction.",INDIFFERENT,2026-03-24
+NW-102785,Describe the taste and texture of the bar.,"Fine texture, average flavor. I would not go out of my way for it.",INDIFFERENT,2026-03-07
+NW-102785,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour. The packaging oversells what is inside.,DISLIKE,2026-03-07
+NW-102785,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-07
+NW-102785,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-07
+NW-102785,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. I would happily pay a little more for this.",LIKE,2026-03-07
+NW-102792,Describe the taste and texture of the bar.,"Way too dense, hurt my jaw.",DISLIKE,2026-03-22
+NW-102792,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-22
+NW-102792,Would you pay $2.99 for this bar?,"No, I would not",DISLIKE,2026-03-22
+NW-102792,Would you recommend this bar to a friend?,Definitely not,DISLIKE,2026-03-22
+NW-102792,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long. It went in the trash, honestly.",DISLIKE,2026-03-22
+NW-102799,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite. I stopped using it before the test period ended.",DISLIKE,2026-03-07
+NW-102799,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-07
+NW-102799,Would you pay $2.99 for this bar?,"No, I would not",DISLIKE,2026-03-07
+NW-102799,Would you recommend this bar to a friend?,No,DISLIKE,2026-03-07
+NW-102799,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long. It went in the trash, honestly.",DISLIKE,2026-03-07
+NW-102806,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. Good value compared to the name brand.,LIKE,2026-03-07
+NW-102806,"How full did you feel after eating the bar, and for how long?",Full for hours. Good value compared to the name brand.,LIKE,2026-03-07
+NW-102806,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-07
+NW-102806,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-07
+NW-102806,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. No complaints from anyone in the house.",LIKE,2026-03-07
+NW-102813,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. Worth the price in my opinion.,LIKE,2026-03-11
+NW-102813,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-11
+NW-102813,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-11
+NW-102813,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-11
+NW-102820,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-12
+NW-102820,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-12
+NW-102820,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-12
+NW-102820,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-12
+NW-102820,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-12
+NW-102827,Describe the taste and texture of the bar.,"Fine texture, average flavor. Neither impressed nor annoyed.",INDIFFERENT,2026-03-14
+NW-102827,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar. I finished it without thinking about it much.",INDIFFERENT,2026-03-14
+NW-102827,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-14
+NW-102827,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-14
+NW-102827,Does this feel like a healthy product to you? Why or why not?,Somewhat. Neither impressed nor annoyed.,INDIFFERENT,2026-03-14
+NW-102834,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite. Not worth the price.",DISLIKE,2026-03-02
+NW-102834,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-02
+NW-102834,Would you pay $2.99 for this bar?,"No, I'll stick with my usual",DISLIKE,2026-03-02
+NW-102834,Would you recommend this bar to a friend?,"No, I would not",DISLIKE,2026-03-02
+NW-102834,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long. I would warn a friend off it.",DISLIKE,2026-03-02
+NW-102841,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite. I gave the rest away.",DISLIKE,2026-03-19
+NW-102841,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes. Nobody else in the house would touch it.,DISLIKE,2026-03-19
+NW-102841,Would you pay $2.99 for this bar?,No.,DISLIKE,2026-03-19
+NW-102841,Would you recommend this bar to a friend?,"No, I would not",DISLIKE,2026-03-19
+NW-102841,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added. The packaging oversells what is inside.",DISLIKE,2026-03-19
+NW-102848,Describe the taste and texture of the bar.,"Chewy and rich, really good. This is the first one of these I have actually finished.",LIKE,2026-03-13
+NW-102848,"How full did you feel after eating the bar, and for how long?",Full for hours. I would keep it stocked if it were easy to find.,LIKE,2026-03-13
+NW-102848,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-13
+NW-102848,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-13
+NW-102848,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I have already recommended it to a coworker.",LIKE,2026-03-13
+NW-102855,Describe the taste and texture of the bar.,It's an okay bar.,INDIFFERENT,2026-03-04
+NW-102855,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours. I have already recommended it to a coworker.",LIKE,2026-03-04
+NW-102855,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-04
+NW-102855,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-04
+NW-102855,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-04
+NW-102862,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. This is the first one of these I have actually finished.",LIKE,2026-03-18
+NW-102862,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour. Nobody else in the house would touch it.,DISLIKE,2026-03-18
+NW-102862,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-18
+NW-102862,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-18
+NW-102862,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I would happily pay a little more for this.",LIKE,2026-03-18
+NW-102869,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-01
+NW-102869,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-01
+NW-102869,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-01
+NW-102869,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-01
+NW-102869,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. This is the first one of these I have actually finished.",LIKE,2026-03-01
+NW-102876,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-17
+NW-102876,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-17
+NW-102876,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-17
+NW-102876,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-17
+NW-102876,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-17
+NW-102883,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. I would keep it stocked if it were easy to find.,LIKE,2026-03-22
+NW-102883,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar. I would use it if it were the only option.",INDIFFERENT,2026-03-22
+NW-102883,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-22
+NW-102883,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-22
+NW-102890,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. This is the first one of these I have actually finished.,LIKE,2026-03-12
+NW-102890,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours. This is the first one of these I have actually finished.",LIKE,2026-03-12
+NW-102890,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-12
+NW-102890,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-12
+NW-102890,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. I have already recommended it to a coworker.",LIKE,2026-03-12
+NW-102897,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-24
+NW-102897,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-24
+NW-102897,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-24
+NW-102897,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-24
+NW-102897,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. I would buy it again.",LIKE,2026-03-24
+NW-102904,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot. I would happily pay a little more for this.",LIKE,2026-03-16
+NW-102904,"How full did you feel after eating the bar, and for how long?",Full for hours. I would buy it again.,LIKE,2026-03-16
+NW-102904,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-16
+NW-102904,Would you recommend this bar to a friend?,Not sure,INDIFFERENT,2026-03-16
+NW-102904,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-16
+NW-102911,Describe the taste and texture of the bar.,"Chewy and rich, really good. I would buy it again.",LIKE,2026-03-24
+NW-102911,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. Worth the price in my opinion.,LIKE,2026-03-24
+NW-102911,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-24
+NW-102911,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-24
+NW-102911,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. Better than what I use now.",LIKE,2026-03-24
+NW-102918,Describe the taste and texture of the bar.,Standard protein bar taste. Price would decide it for me.,INDIFFERENT,2026-03-15
+NW-102918,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-15
+NW-102918,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-15
+NW-102918,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-15
+NW-102918,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-15
+NW-102925,Describe the taste and texture of the bar.,It's an okay bar. Price would decide it for me.,INDIFFERENT,2026-03-14
+NW-102925,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. I would not go out of my way for it.",INDIFFERENT,2026-03-14
+NW-102925,Would you pay $2.99 for this bar?,Only if it were on sale,INDIFFERENT,2026-03-14
+NW-102925,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-14
+NW-102932,Describe the taste and texture of the bar.,"Chewy and rich, really good. It held up over the whole test period.",LIKE,2026-03-20
+NW-102932,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. This is the first one of these I have actually finished.,LIKE,2026-03-20
+NW-102932,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-20
+NW-102932,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-20
+NW-102932,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-20
+NW-102939,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot. It held up over the whole test period.",LIKE,2026-03-15
+NW-102939,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours. I would happily pay a little more for this.",LIKE,2026-03-15
+NW-102939,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-15
+NW-102939,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-15
+NW-102939,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. It held up over the whole test period.",LIKE,2026-03-15
+NW-102946,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. No complaints from anyone in the house.,LIKE,2026-03-13
+NW-102946,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-13
+NW-102946,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-13
+NW-102946,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-13
+NW-102953,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. I would buy it again.,LIKE,2026-03-07
+NW-102953,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-07
+NW-102953,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-07
+NW-102953,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-07
+NW-102953,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I have already recommended it to a coworker.",LIKE,2026-03-07
+NW-102960,Describe the taste and texture of the bar.,"Fine texture, average flavor. Neither impressed nor annoyed.",INDIFFERENT,2026-03-22
+NW-102960,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-22
+NW-102960,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-22
+NW-102960,Would you recommend this bar to a friend?,Not sure,INDIFFERENT,2026-03-22
+NW-102960,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I would keep it stocked if it were easy to find.",LIKE,2026-03-22
+NW-102967,Describe the taste and texture of the bar.,It's an okay bar. Not better or worse than my usual.,INDIFFERENT,2026-03-15
+NW-102967,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-15
+NW-102967,Would you pay $2.99 for this bar?,Possibly,INDIFFERENT,2026-03-15
+NW-102967,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option. I would not go out of my way for it.",INDIFFERENT,2026-03-15
+NW-102974,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-05
+NW-102974,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours. Better than what I use now.",LIKE,2026-03-05
+NW-102974,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-05
+NW-102974,Would you recommend this bar to a friend?,No thanks,DISLIKE,2026-03-05
+NW-102974,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. I have already recommended it to a coworker.",LIKE,2026-03-05
+NW-102981,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. I would keep it stocked if it were easy to find.,LIKE,2026-03-16
+NW-102981,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-16
+NW-102981,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-16
+NW-102981,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. Worth the price in my opinion.",LIKE,2026-03-16
+NW-102988,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. I would keep it stocked if it were easy to find.,LIKE,2026-03-12
+NW-102988,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours. The kids liked it too, which is a high bar.",LIKE,2026-03-12
+NW-102988,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-12
+NW-102988,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-12
+NW-102988,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. My partner agreed with me.",LIKE,2026-03-12
+NW-102995,Describe the taste and texture of the bar.,"Fine texture, average flavor. I could see some people liking it more than I did.",INDIFFERENT,2026-03-01
+NW-102995,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-01
+NW-102995,Would you recommend this bar to a friend?,Only if it were on sale,INDIFFERENT,2026-03-01
+NW-102995,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-01
+NW-103002,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. I would happily pay a little more for this.,LIKE,2026-03-07
+NW-103002,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-07
+NW-103002,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-07
+NW-103002,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-07
+NW-103002,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. This is the first one of these I have actually finished.",LIKE,2026-03-07
+NW-103009,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. It held up over the whole test period.,LIKE,2026-03-03
+NW-103009,"How full did you feel after eating the bar, and for how long?",Full for hours. Good value compared to the name brand.,LIKE,2026-03-03
+NW-103009,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-03
+NW-103009,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-03
+NW-103009,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-03
+NW-103016,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. My partner agreed with me.",LIKE,2026-03-13
+NW-103016,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-13
+NW-103016,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-13
+NW-103016,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-13
+NW-103016,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-13
+NW-103023,Describe the taste and texture of the bar.,"Chewy and rich, really good. I would keep it stocked if it were easy to find.",LIKE,2026-03-10
+NW-103023,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-10
+NW-103023,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-10
+NW-103023,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-10
+NW-103023,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-10
+NW-103030,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness. Worth the price in my opinion.,LIKE,2026-03-02
+NW-103030,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-02
+NW-103030,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-02
+NW-103030,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-02
+NW-103030,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. My partner agreed with me.",LIKE,2026-03-02
+NW-103037,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-13
+NW-103037,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. Worth the price in my opinion.,LIKE,2026-03-13
+NW-103037,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-13
+NW-103037,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-13
+NW-103037,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I would happily pay a little more for this.",LIKE,2026-03-13
+NW-103044,Describe the taste and texture of the bar.,It's an okay bar.,INDIFFERENT,2026-03-04
+NW-103044,"How full did you feel after eating the bar, and for how long?",About an hour or two. Price would decide it for me.,INDIFFERENT,2026-03-04
+NW-103044,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-04
+NW-103044,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-04
+NW-103044,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-04
+NW-103051,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot. I would keep it stocked if it were easy to find.",LIKE,2026-03-02
+NW-103051,"How full did you feel after eating the bar, and for how long?",Not filling at all. Second time was no better than the first.,DISLIKE,2026-03-02
+NW-103051,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-02
+NW-103051,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-02
+NW-103051,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. This is the first one of these I have actually finished.",LIKE,2026-03-02
+NW-103058,Describe the taste and texture of the bar.,"Way too dense, hurt my jaw. My usual brand does this better.",DISLIKE,2026-03-10
+NW-103058,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-10
+NW-103058,Would you pay $2.99 for this bar?,"No, I'll stick with my usual",DISLIKE,2026-03-10
+NW-103058,Would you recommend this bar to a friend?,"No, I'll stick with my usual",DISLIKE,2026-03-10
+NW-103058,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added. I expected more for what it costs.",DISLIKE,2026-03-10
+NW-103065,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. It held up over the whole test period.",LIKE,2026-03-12
+NW-103065,"How full did you feel after eating the bar, and for how long?",Not filling at all. I stopped using it before the test period ended.,DISLIKE,2026-03-12
+NW-103065,Would you pay $2.99 for this bar?,"No, I would not",DISLIKE,2026-03-12
+NW-103065,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-12
+NW-103065,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long.",DISLIKE,2026-03-12
+NW-103072,Describe the taste and texture of the bar.,"Chewy and rich, really good. I would happily pay a little more for this.",LIKE,2026-03-06
+NW-103072,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-06
+NW-103072,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-06
+NW-103072,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-06
+NW-103072,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. The kids liked it too, which is a high bar.",LIKE,2026-03-06
+NW-103079,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-06
+NW-103079,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-06
+NW-103079,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-06
+NW-103079,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-06
+NW-103079,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-06
+NW-103086,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-07
+NW-103086,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-07
+NW-103086,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-07
+NW-103086,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-07
+NW-103086,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food. I would use it if it were the only option.",INDIFFERENT,2026-03-07
+NW-103093,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-19
+NW-103093,"How full did you feel after eating the bar, and for how long?",About an hour or two. Not better or worse than my usual.,INDIFFERENT,2026-03-19
+NW-103093,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-19
+NW-103093,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-19
+NW-103093,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. I would happily pay a little more for this.",LIKE,2026-03-19
+NW-103100,Describe the taste and texture of the bar.,"Chewy and rich, really good. No complaints from anyone in the house.",LIKE,2026-03-06
+NW-103100,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours. Better than what I use now.",LIKE,2026-03-06
+NW-103100,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-06
+NW-103107,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-19
+NW-103107,"How full did you feel after eating the bar, and for how long?",Full for hours. I would happily pay a little more for this.,LIKE,2026-03-19
+NW-103107,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-19
+NW-103107,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-19
+NW-103107,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. I would keep it stocked if it were easy to find.",LIKE,2026-03-19
+NW-103114,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch.,LIKE,2026-03-11
+NW-103114,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. Better than what I use now.,LIKE,2026-03-11
+NW-103114,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-11
+NW-103114,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-11
+NW-103114,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-11
+NW-103121,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting. I would not go out of my way for it.",INDIFFERENT,2026-03-18
+NW-103121,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable.",INDIFFERENT,2026-03-18
+NW-103121,Would you pay $2.99 for this bar?,Possibly,INDIFFERENT,2026-03-18
+NW-103121,Would you recommend this bar to a friend?,Not sure,INDIFFERENT,2026-03-18
+NW-103121,Does this feel like a healthy product to you? Why or why not?,Somewhat. It is hard to have an opinion on this one.,INDIFFERENT,2026-03-18
+NW-103128,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite.",DISLIKE,2026-03-13
+NW-103128,"How full did you feel after eating the bar, and for how long?",Full for hours. Worth the price in my opinion.,LIKE,2026-03-13
+NW-103128,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added. I would not buy it again.",DISLIKE,2026-03-13
+NW-103135,Describe the taste and texture of the bar.,Like eating cardboard. Nobody else in the house would touch it.,DISLIKE,2026-03-24
+NW-103135,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes. I stopped using it before the test period ended.,DISLIKE,2026-03-24
+NW-103135,Would you pay $2.99 for this bar?,No,DISLIKE,2026-03-24
+NW-103135,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-24
+NW-103135,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long. This needs to go back to development.",DISLIKE,2026-03-24
+NW-103142,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me.",DISLIKE,2026-03-02
+NW-103142,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-02
+NW-103142,Would you pay $2.99 for this bar?,No thanks,DISLIKE,2026-03-02
+NW-103142,Would you recommend this bar to a friend?,"No, I'll stick with my usual",DISLIKE,2026-03-02
+NW-103142,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long. Not worth the price.",DISLIKE,2026-03-02
+NW-103149,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. I would keep it stocked if it were easy to find.,LIKE,2026-03-09
+NW-103149,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-09
+NW-103149,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-09
+NW-103149,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-09
+NW-103149,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. This is the first one of these I have actually finished.",LIKE,2026-03-09
+NW-103156,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me.",DISLIKE,2026-03-09
+NW-103156,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour. I would not buy it again.,DISLIKE,2026-03-09
+NW-103156,Would you pay $2.99 for this bar?,No.,DISLIKE,2026-03-09
+NW-103156,Would you recommend this bar to a friend?,"No, I'll stick with my usual",DISLIKE,2026-03-09
+NW-103163,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-15
+NW-103163,"How full did you feel after eating the bar, and for how long?","Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. The kids liked it too, which is a high bar.",LIKE,2026-03-15
+NW-103163,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-15
+NW-103163,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-15
+NW-103163,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. Better than what I use now.",LIKE,2026-03-15
+NW-103170,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-19
+NW-103170,"How full did you feel after eating the bar, and for how long?","This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. The kids liked it too, which is a high bar.",LIKE,2026-03-19
+NW-103170,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-19
+NW-103170,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-19
+NW-103177,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me.",DISLIKE,2026-03-01
+NW-103177,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-01
+NW-103177,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-01
+NW-103184,Describe the taste and texture of the bar.,Standard protein bar taste. It is hard to have an opinion on this one.,INDIFFERENT,2026-03-14
+NW-103184,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-14
+NW-103184,Would you pay $2.99 for this bar?,Yes,LIKE,2026-03-14
+NW-103184,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-14
+NW-103184,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-14
+NW-103191,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. This is the first one of these I have actually finished.",LIKE,2026-03-20
+NW-103191,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. Good value compared to the name brand.,LIKE,2026-03-20
+NW-103191,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-20
+NW-103191,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-20
+NW-103191,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-20
+NW-103198,Describe the taste and texture of the bar.,Standard protein bar taste. I would not go out of my way for it.,INDIFFERENT,2026-03-10
+NW-103198,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes. Not worth the price.,DISLIKE,2026-03-10
+NW-103198,Would you pay $2.99 for this bar?,No.,DISLIKE,2026-03-10
+NW-103198,Would you recommend this bar to a friend?,No thanks,DISLIKE,2026-03-10
+NW-103198,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added. This needs to go back to development.",DISLIKE,2026-03-10
+NW-103205,Describe the taste and texture of the bar.,Great cocoa flavor and the almond pieces give it a nice crunch. This is the first one of these I have actually finished.,LIKE,2026-03-01
+NW-103205,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. My partner agreed with me.,LIKE,2026-03-01
+NW-103205,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-01
+NW-103205,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-01
+NW-103205,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-01
+NW-103212,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-16
+NW-103212,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-16
+NW-103212,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-16
+NW-103212,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-16
+NW-103212,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I have already recommended it to a coworker.",LIKE,2026-03-16
+NW-103219,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me. This needs to go back to development.",DISLIKE,2026-03-03
+NW-103219,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-03
+NW-103219,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-03
+NW-103219,Would you recommend this bar to a friend?,"No, I'll stick with my usual",DISLIKE,2026-03-03
+NW-103219,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-03
+NW-103226,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-16
+NW-103226,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar. Price would decide it for me.",INDIFFERENT,2026-03-16
+NW-103226,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-16
+NW-103226,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-16
+NW-103226,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-16
+NW-103233,Describe the taste and texture of the bar.,It's an okay bar.,INDIFFERENT,2026-03-14
+NW-103233,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-14
+NW-103233,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-14
+NW-103233,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-14
+NW-103233,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option. No strong feelings in either direction.",INDIFFERENT,2026-03-14
+NW-103240,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-09
+NW-103240,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar. It is hard to have an opinion on this one.",INDIFFERENT,2026-03-09
+NW-103240,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-09
+NW-103240,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-09
+NW-103240,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-09
+NW-103247,Describe the taste and texture of the bar.,Standard protein bar taste. I would not go out of my way for it.,INDIFFERENT,2026-03-16
+NW-103247,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. This is the first one of these I have actually finished.,LIKE,2026-03-16
+NW-103247,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-16
+NW-103247,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-16
+NW-103254,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk.",LIKE,2026-03-08
+NW-103254,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-08
+NW-103254,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-08
+NW-103254,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-08
+NW-103254,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. I would buy it again.",LIKE,2026-03-08
+NW-103261,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-11
+NW-103261,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. No complaints from anyone in the house.,LIKE,2026-03-11
+NW-103261,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-11
+NW-103261,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. No complaints from anyone in the house.",LIKE,2026-03-11
+NW-103268,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-17
+NW-103268,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. Good value compared to the name brand.,LIKE,2026-03-17
+NW-103268,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-17
+NW-103268,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-17
+NW-103268,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. Good value compared to the name brand.",LIKE,2026-03-17
+NW-103275,Describe the taste and texture of the bar.,"Way too dense, hurt my jaw.",DISLIKE,2026-03-13
+NW-103275,"How full did you feel after eating the bar, and for how long?","Not filling at all. It went in the trash, honestly.",DISLIKE,2026-03-13
+NW-103275,Would you pay $2.99 for this bar?,"No, I'll stick with my usual",DISLIKE,2026-03-13
+NW-103275,Would you recommend this bar to a friend?,"No, I would not",DISLIKE,2026-03-13
+NW-103275,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added. I expected more for what it costs.",DISLIKE,2026-03-13
+NW-103282,Describe the taste and texture of the bar.,Standard protein bar taste.,INDIFFERENT,2026-03-11
+NW-103282,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar.",INDIFFERENT,2026-03-11
+NW-103282,Would you pay $2.99 for this bar?,Hard to say,INDIFFERENT,2026-03-11
+NW-103282,Would you recommend this bar to a friend?,Not sure,INDIFFERENT,2026-03-11
+NW-103282,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-11
+NW-103289,Describe the taste and texture of the bar.,Dry and chalky.,DISLIKE,2026-03-10
+NW-103289,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. I would not go out of my way for it.",INDIFFERENT,2026-03-10
+NW-103289,Would you pay $2.99 for this bar?,Only if it were on sale,INDIFFERENT,2026-03-10
+NW-103289,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-10
+NW-103289,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food. Price would decide it for me.",INDIFFERENT,2026-03-10
+NW-103296,Describe the taste and texture of the bar.,Like eating cardboard. I would warn a friend off it.,DISLIKE,2026-03-02
+NW-103296,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-02
+NW-103296,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-02
+NW-103296,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-02
+NW-103296,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-02
+NW-103303,Describe the taste and texture of the bar.,Standard protein bar taste. No strong feelings in either direction.,INDIFFERENT,2026-03-02
+NW-103303,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-02
+NW-103303,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-02
+NW-103303,Would you recommend this bar to a friend?,Not sure,INDIFFERENT,2026-03-02
+NW-103303,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-02
+NW-103310,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-04
+NW-103310,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours. Better than what I use now.",LIKE,2026-03-04
+NW-103310,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-04
+NW-103310,Would you recommend this bar to a friend?,Absolutely,LIKE,2026-03-04
+NW-103310,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. I would keep it stocked if it were easy to find.",LIKE,2026-03-04
+NW-103317,Describe the taste and texture of the bar.,"Chewy and rich, really good.",LIKE,2026-03-17
+NW-103317,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. Not better or worse than my usual.",INDIFFERENT,2026-03-17
+NW-103317,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-17
+NW-103317,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-17
+NW-103317,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. I have already recommended it to a coworker.",LIKE,2026-03-17
+NW-103324,Describe the taste and texture of the bar.,Standard protein bar taste. I finished it without thinking about it much.,INDIFFERENT,2026-03-23
+NW-103324,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-23
+NW-103324,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-23
+NW-103324,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-23
+NW-103324,Does this feel like a healthy product to you? Why or why not?,Somewhat. Not better or worse than my usual.,INDIFFERENT,2026-03-23
+NW-103331,Describe the taste and texture of the bar.,"Chewy and rich, really good. It held up over the whole test period.",LIKE,2026-03-07
+NW-103331,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-07
+NW-103331,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-07
+NW-103331,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-07
+NW-103331,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. My partner agreed with me.",LIKE,2026-03-07
+NW-103338,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-02
+NW-103338,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes. This needs to go back to development.,DISLIKE,2026-03-02
+NW-103338,Would you pay $2.99 for this bar?,Possibly,INDIFFERENT,2026-03-02
+NW-103338,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-02
+NW-103338,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option.",INDIFFERENT,2026-03-02
+NW-103345,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. I would happily pay a little more for this.",LIKE,2026-03-17
+NW-103345,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-17
+NW-103345,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-17
+NW-103345,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-17
+NW-103345,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-17
+NW-103352,Describe the taste and texture of the bar.,"Standard protein bar taste. Fine, but not memorable.",INDIFFERENT,2026-03-13
+NW-103352,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. I could see some people liking it more than I did.",INDIFFERENT,2026-03-13
+NW-103352,Would you pay $2.99 for this bar?,Possibly,INDIFFERENT,2026-03-13
+NW-103352,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-13
+NW-103352,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option. Fine, but not memorable.",INDIFFERENT,2026-03-13
+NW-103359,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot. The kids liked it too, which is a high bar.",LIKE,2026-03-10
+NW-103359,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon. My partner agreed with me.,LIKE,2026-03-10
+NW-103359,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-10
+NW-103359,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-10
+NW-103366,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting.",INDIFFERENT,2026-03-20
+NW-103366,"How full did you feel after eating the bar, and for how long?",About an hour or two.,INDIFFERENT,2026-03-20
+NW-103366,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-20
+NW-103366,Would you recommend this bar to a friend?,Not sure,INDIFFERENT,2026-03-20
+NW-103366,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-20
+NW-103373,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-20
+NW-103373,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. I would keep it stocked if it were easy to find.,LIKE,2026-03-20
+NW-103373,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-20
+NW-103373,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-20
+NW-103373,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. It held up over the whole test period.",LIKE,2026-03-20
+NW-103380,Describe the taste and texture of the bar.,Like eating cardboard.,DISLIKE,2026-03-22
+NW-103380,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-22
+NW-103380,Would you pay $2.99 for this bar?,No,DISLIKE,2026-03-22
+NW-103380,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-22
+NW-103380,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-22
+NW-103387,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot. I would keep it stocked if it were easy to find.",LIKE,2026-03-08
+NW-103387,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar. About what I expected going in.",INDIFFERENT,2026-03-08
+NW-103387,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-08
+NW-103387,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-08
+NW-103394,Describe the taste and texture of the bar.,It's an okay bar.,INDIFFERENT,2026-03-13
+NW-103394,"How full did you feel after eating the bar, and for how long?","Full for hours. The kids liked it too, which is a high bar.",LIKE,2026-03-13
+NW-103394,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-13
+NW-103394,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-13
+NW-103394,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-13
+NW-103401,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-17
+NW-103401,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-17
+NW-103401,Would you pay $2.99 for this bar?,No,DISLIKE,2026-03-17
+NW-103401,Would you recommend this bar to a friend?,Yes,LIKE,2026-03-17
+NW-103401,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. My partner agreed with me.",LIKE,2026-03-17
+NW-103408,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting. Not better or worse than my usual.",INDIFFERENT,2026-03-04
+NW-103408,Would you pay $2.99 for this bar?,Possibly,INDIFFERENT,2026-03-04
+NW-103408,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-04
+NW-103408,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food.",INDIFFERENT,2026-03-04
+NW-103415,Describe the taste and texture of the bar.,Like eating cardboard. The packaging oversells what is inside.,DISLIKE,2026-03-12
+NW-103415,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes. I would warn a friend off it.,DISLIKE,2026-03-12
+NW-103415,Would you pay $2.99 for this bar?,No,DISLIKE,2026-03-12
+NW-103415,Would you recommend this bar to a friend?,"No, I'll stick with my usual",DISLIKE,2026-03-12
+NW-103415,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added.",DISLIKE,2026-03-12
+NW-103422,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite.",DISLIKE,2026-03-21
+NW-103422,"How full did you feel after eating the bar, and for how long?",Not filling at all. I expected more for what it costs.,DISLIKE,2026-03-21
+NW-103422,Would you pay $2.99 for this bar?,Definitely not,DISLIKE,2026-03-21
+NW-103422,Would you recommend this bar to a friend?,"No, I would not",DISLIKE,2026-03-21
+NW-103422,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long. The packaging oversells what is inside.",DISLIKE,2026-03-21
+NW-103429,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. The kids liked it too, which is a high bar.",LIKE,2026-03-18
+NW-103429,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours.,LIKE,2026-03-18
+NW-103429,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-18
+NW-103429,Would you recommend this bar to a friend?,"Yes, definitely",LIKE,2026-03-18
+NW-103429,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. Good value compared to the name brand.",LIKE,2026-03-18
+NW-103436,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot. I would keep it stocked if it were easy to find.",LIKE,2026-03-21
+NW-103436,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-21
+NW-103436,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-21
+NW-103436,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-21
+NW-103436,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-21
+NW-103443,Describe the taste and texture of the bar.,Dry and chalky.,DISLIKE,2026-03-23
+NW-103443,"How full did you feel after eating the bar, and for how long?",Not filling at all. I would not buy it again.,DISLIKE,2026-03-23
+NW-103443,Would you pay $2.99 for this bar?,No,DISLIKE,2026-03-23
+NW-103443,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-23
+NW-103443,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar. I would warn a friend off it.",DISLIKE,2026-03-23
+NW-103450,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite. This needs to go back to development.",DISLIKE,2026-03-20
+NW-103450,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-20
+NW-103450,Would you pay $2.99 for this bar?,"No, I'll stick with my usual",DISLIKE,2026-03-20
+NW-103450,Would you recommend this bar to a friend?,"No, I would not",DISLIKE,2026-03-20
+NW-103450,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar. I would warn a friend off it.",DISLIKE,2026-03-20
+NW-103457,Describe the taste and texture of the bar.,It's an okay bar.,INDIFFERENT,2026-03-09
+NW-103457,"How full did you feel after eating the bar, and for how long?",About an hour or two. Not better or worse than my usual.,INDIFFERENT,2026-03-09
+NW-103457,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-09
+NW-103457,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-09
+NW-103457,Does this feel like a healthy product to you? Why or why not?,"Healthier than a candy bar, less healthy than actual food. No strong feelings in either direction.",INDIFFERENT,2026-03-09
+NW-103464,Describe the taste and texture of the bar.,Standard protein bar taste. I would use it if it were the only option.,INDIFFERENT,2026-03-03
+NW-103464,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. Fine, but not memorable.",INDIFFERENT,2026-03-03
+NW-103464,Would you pay $2.99 for this bar?,Hard to say,INDIFFERENT,2026-03-03
+NW-103464,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-03
+NW-103464,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option. I finished it without thinking about it much.",INDIFFERENT,2026-03-03
+NW-103471,Describe the taste and texture of the bar.,"Fine texture, average flavor. Fine, but not memorable.",INDIFFERENT,2026-03-02
+NW-103471,Would you pay $2.99 for this bar?,Maybe,INDIFFERENT,2026-03-02
+NW-103471,Would you recommend this bar to a friend?,Hard to say,INDIFFERENT,2026-03-02
+NW-103471,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-02
+NW-103478,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-23
+NW-103478,"How full did you feel after eating the bar, and for how long?","Reasonably full, nothing remarkable. I would not go out of my way for it.",INDIFFERENT,2026-03-23
+NW-103478,Would you pay $2.99 for this bar?,It depends on the price,INDIFFERENT,2026-03-23
+NW-103478,Would you recommend this bar to a friend?,Only if it were on sale,INDIFFERENT,2026-03-23
+NW-103478,Does this feel like a healthy product to you? Why or why not?,Somewhat.,INDIFFERENT,2026-03-23
+NW-103485,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting. Fine, but not memorable.",INDIFFERENT,2026-03-13
+NW-103485,"How full did you feel after eating the bar, and for how long?",Very satisfying - I had it at 9am after a workout and did not think about food again until well past noon.,LIKE,2026-03-13
+NW-103485,Would you recommend this bar to a friend?,It depends on the price,INDIFFERENT,2026-03-13
+NW-103485,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives.",LIKE,2026-03-13
+NW-103492,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-23
+NW-103492,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours.",LIKE,2026-03-23
+NW-103492,Would you pay $2.99 for this bar?,Yes - already planning to,LIKE,2026-03-23
+NW-103492,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. My partner agreed with me.",LIKE,2026-03-23
+NW-103499,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-18
+NW-103499,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. I would buy it again.,LIKE,2026-03-18
+NW-103499,Would you pay $2.99 for this bar?,Yes.,LIKE,2026-03-18
+NW-103499,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-18
+NW-103499,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable.",LIKE,2026-03-18
+NW-103506,Describe the taste and texture of the bar.,"Bad. Gritty texture, and the cocoa tastes burnt rather than rich. I ate half and gave up, which is unusual for me. Not worth the price.",DISLIKE,2026-03-08
+NW-103506,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes. Second time was no better than the first.,DISLIKE,2026-03-08
+NW-103506,Would you pay $2.99 for this bar?,No thanks,DISLIKE,2026-03-08
+NW-103506,Would you recommend this bar to a friend?,No.,DISLIKE,2026-03-08
+NW-103506,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added.",DISLIKE,2026-03-08
+NW-103513,Describe the taste and texture of the bar.,"It tastes like most protein bars. Slightly chalky but not badly so, and the chocolate is present without being interesting. I finished it without thinking about it much.",INDIFFERENT,2026-03-02
+NW-103513,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours. I would keep it stocked if it were easy to find.",LIKE,2026-03-02
+NW-103513,Would you pay $2.99 for this bar?,Absolutely,LIKE,2026-03-02
+NW-103513,Would you recommend this bar to a friend?,Yes I would,LIKE,2026-03-02
+NW-103520,Describe the taste and texture of the bar.,"Tastes like a brownie, not chalk. It held up over the whole test period.",LIKE,2026-03-24
+NW-103520,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-24
+NW-103520,Would you pay $2.99 for this bar?,Yes I would,LIKE,2026-03-24
+NW-103520,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt. Worth the price in my opinion.",LIKE,2026-03-24
+NW-103527,Describe the taste and texture of the bar.,It's an okay bar.,INDIFFERENT,2026-03-06
+NW-103527,"How full did you feel after eating the bar, and for how long?","Kept me satisfied for a normal amount of time - maybe two hours, same as any other bar. About what I expected going in.",INDIFFERENT,2026-03-06
+NW-103527,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-06
+NW-103527,Would you recommend this bar to a friend?,Maybe,INDIFFERENT,2026-03-06
+NW-103527,Does this feel like a healthy product to you? Why or why not?,Somewhat. No strong feelings in either direction.,INDIFFERENT,2026-03-06
+NW-103534,Describe the taste and texture of the bar.,"Genuinely impressed. Most plant bars I have tried are gritty and taste like sand, and this one is smooth with actual chocolate character. The almonds are toasted properly, which adds a lot.",LIKE,2026-03-22
+NW-103534,"How full did you feel after eating the bar, and for how long?","Kept me going until lunch, about three hours. My partner agreed with me.",LIKE,2026-03-22
+NW-103534,Would you pay $2.99 for this bar?,"No, I would not",DISLIKE,2026-03-22
+NW-103534,Would you recommend this bar to a friend?,Yes - already planning to,LIKE,2026-03-22
+NW-103534,Does this feel like a healthy product to you? Why or why not?,"Yes, the ingredient list is short and recognizable. Better than what I use now.",LIKE,2026-03-22
+NW-103541,Describe the taste and texture of the bar.,Dry and chalky.,DISLIKE,2026-03-14
+NW-103541,"How full did you feel after eating the bar, and for how long?","Not filling at all. It went in the trash, honestly.",DISLIKE,2026-03-14
+NW-103541,Would you pay $2.99 for this bar?,No.,DISLIKE,2026-03-14
+NW-103541,Would you recommend this bar to a friend?,"No, I would not",DISLIKE,2026-03-14
+NW-103541,Does this feel like a healthy product to you? Why or why not?,"No. Sixteen grams of sugar is dessert territory no matter how much protein you put next to it, and the ingredient list is long. I would not buy it again.",DISLIKE,2026-03-14
+NW-103548,Describe the taste and texture of the bar.,The texture is exactly right for me - dense enough to feel substantial but not so hard that it hurts to chew. Real cocoa flavor rather than the fake protein-powder sweetness.,LIKE,2026-03-19
+NW-103548,"How full did you feel after eating the bar, and for how long?",This is where it really delivered. I usually need a snack ninety minutes after a bar and I made it almost four hours. Worth the price in my opinion.,LIKE,2026-03-19
+NW-103548,Would you pay $2.99 for this bar?,No thanks,DISLIKE,2026-03-19
+NW-103548,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-19
+NW-103548,Does this feel like a healthy product to you? Why or why not?,"Yes - it feels like real food rather than a supplement pretending to be a snack, and the fiber content shows in how full I felt.",LIKE,2026-03-19
+NW-103555,Describe the taste and texture of the bar.,Dry and chalky. I would not buy it again.,DISLIKE,2026-03-15
+NW-103555,"How full did you feel after eating the bar, and for how long?",Hungry again in 30 minutes.,DISLIKE,2026-03-15
+NW-103555,Would you pay $2.99 for this bar?,No thanks,DISLIKE,2026-03-15
+NW-103555,Would you recommend this bar to a friend?,"No, I'll stick with my usual",DISLIKE,2026-03-15
+NW-103555,Does this feel like a healthy product to you? Why or why not?,"No, too much sugar. I would not buy it again.",DISLIKE,2026-03-15
+NW-103562,Describe the taste and texture of the bar.,"Way too dense, hurt my jaw.",DISLIKE,2026-03-09
+NW-103562,"How full did you feel after eating the bar, and for how long?",It did not hold me at all. For the calorie count I expected far more staying power than about half an hour.,DISLIKE,2026-03-09
+NW-103562,Would you pay $2.99 for this bar?,No.,DISLIKE,2026-03-09
+NW-103562,Would you recommend this bar to a friend?,No thanks,DISLIKE,2026-03-09
+NW-103562,Does this feel like a healthy product to you? Why or why not?,"Not really, it is a candy bar with protein added.",DISLIKE,2026-03-09
+NW-103569,Describe the taste and texture of the bar.,"Fine texture, average flavor.",INDIFFERENT,2026-03-08
+NW-103569,Would you pay $2.99 for this bar?,Not sure,INDIFFERENT,2026-03-08
+NW-103569,Would you recommend this bar to a friend?,Possibly,INDIFFERENT,2026-03-08
+NW-103569,Does this feel like a healthy product to you? Why or why not?,"It is middle of the road. Decent protein, more sugar than I would like, so I would call it a fine occasional option. I would use it if it were the only option.",INDIFFERENT,2026-03-08
+NW-103576,Describe the taste and texture of the bar.,"The texture is the problem. It is crumbly and dry, and it sucks all the moisture out of your mouth so you need water with every bite. It went in the trash, honestly.",DISLIKE,2026-03-03
+NW-103576,"How full did you feel after eating the bar, and for how long?",Full for hours.,LIKE,2026-03-03
+NW-103576,Would you pay $2.99 for this bar?,"Yes, definitely",LIKE,2026-03-03
+NW-103576,Would you recommend this bar to a friend?,Yes.,LIKE,2026-03-03
+NW-103576,Does this feel like a healthy product to you? Why or why not?,"It does. Real nuts, plant protein, and not a mile-long list of additives. The kids liked it too, which is a high bar.",LIKE,2026-03-03

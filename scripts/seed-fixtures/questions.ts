@@ -424,3 +424,52 @@ export const QUESTION_BANKS: Record<string, QuestionDef[]> = {
   "oat-creamer": OAT_CREAMER,
   "bamboo-paper-towel": BAMBOO_PAPER_TOWEL,
 };
+
+/**
+ * Generic follow-on clauses, appended to a minority of open-ended answers so the
+ * corpus is not just the core pools repeated. Written to be product-agnostic and
+ * order-independent so any clause reads naturally after any same-sentiment core.
+ */
+export const SUPPORT: Record<Sentiment, string[]> = {
+  LIKE: [
+    "I would buy it again.",
+    "Better than what I use now.",
+    "My partner agreed with me.",
+    "Worth the price in my opinion.",
+    "I have already recommended it to a coworker.",
+    "It held up over the whole test period.",
+    "No complaints from anyone in the house.",
+    "This is the first one of these I have actually finished.",
+    "I would keep it stocked if it were easy to find.",
+    "Good value compared to the name brand.",
+    "The kids liked it too, which is a high bar.",
+    "I would happily pay a little more for this.",
+  ],
+  DISLIKE: [
+    "I would not buy it again.",
+    "My usual brand does this better.",
+    "Not worth the price.",
+    "I gave the rest away.",
+    "Nobody else in the house would touch it.",
+    "I stopped using it before the test period ended.",
+    "It went in the trash, honestly.",
+    "I expected more for what it costs.",
+    "This needs to go back to development.",
+    "I would warn a friend off it.",
+    "Second time was no better than the first.",
+    "The packaging oversells what is inside.",
+  ],
+  INDIFFERENT: [
+    "I would use it if it were the only option.",
+    "Not better or worse than my usual.",
+    "I would not go out of my way for it.",
+    "Fine, but not memorable.",
+    "Price would decide it for me.",
+    "I finished it without thinking about it much.",
+    "It is hard to have an opinion on this one.",
+    "Neither impressed nor annoyed.",
+    "I could see some people liking it more than I did.",
+    "No strong feelings in either direction.",
+    "About what I expected going in.",
+  ],
+};

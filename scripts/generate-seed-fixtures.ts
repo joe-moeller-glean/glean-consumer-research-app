@@ -15,7 +15,7 @@
 import fs from "fs";
 import path from "path";
 import { CITIES, COUNTRIES, SEXES, RACES, INCOMES, FAMILIES } from "./seed-fixtures/demographics";
-import { QUESTION_BANKS, type QuestionDef, type Sentiment } from "./seed-fixtures/questions";
+import { QUESTION_BANKS, SUPPORT, type QuestionDef, type Sentiment } from "./seed-fixtures/questions";
 import { STUDIES } from "../src/db/seed/studies";
 import { sexEnum, raceEnum, incomeBandEnum, familyMakeupEnum } from "../src/db/schema";
 
@@ -145,7 +145,15 @@ function csvEscape(value: string): string {
 
 function answerFor(q: QuestionDef, sentiment: Sentiment): string {
   const pool = q.answers[sentiment];
-  return pick(pool.length > 0 ? pool : q.answers.INDIFFERENT);
+  const core = pick(pool.length > 0 ? pool : q.answers.INDIFFERENT);
+
+  // Yes/no answers stay terse. Open answers pick up a supporting clause about
+  // half the time, which multiplies the distinct verbatims in the corpus.
+  if (q.kind !== "open" || rnd() < 0.45) return core;
+
+  const clause = pick(SUPPORT[sentiment]);
+  const joined = /[.!?]$/.test(core) ? `${core} ${clause}` : `${core}. ${clause}`;
+  return joined;
 }
 
 /** Fail fast if a pool value is not a member of the matching database enum. */
@@ -183,13 +191,13 @@ function main() {
     const bank = QUESTION_BANKS[study.slug];
     if (!bank) throw new Error(`No question bank for study ${study.slug}`);
 
-    // 500-1000 responses per study, split across its legs.
-    const studyTarget = int(540, 960);
+    // 1,000-2,000 responses per study, split across its legs.
+    const studyTarget = int(1080, 1920);
     const perLeg = Math.floor(studyTarget / study.legs.length);
 
     // Each study draws from a random slice of the panel, so participation varies.
-    const poolStart = int(0, panelists.length - 1200);
-    const pool = panelists.slice(poolStart, poolStart + 1100);
+    const poolStart = int(0, panelists.length - 1700);
+    const pool = panelists.slice(poolStart, poolStart + 1600);
 
     let studyRows = 0;
     const tally: Record<Sentiment, number> = { LIKE: 0, DISLIKE: 0, INDIFFERENT: 0 };
