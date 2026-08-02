@@ -1,0 +1,9 @@
+node_modules
+.next
+dist-worker
+.env
+*.tsbuildinfo
+/data
+uploads
+.DS_Store
+coverage
