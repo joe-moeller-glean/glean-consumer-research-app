@@ -41,8 +41,44 @@ Compose runs migrations first (`migrate`), then starts `web` and `worker`.
 docker compose exec web npm run db:seed
 ```
 
-Seeds 3 users, 40 panelists, and a two-leg study with pre-classified responses so every chart is
-populated immediately.
+Loads the committed fixtures in [`src/db/seed/`](src/db/seed):
+
+| File | Contents |
+|---|---|
+| `panelists.json` | 5,000 panelists spanning every tracked demographic, unevenly distributed with occasional missing fields |
+| `responses/<study>-leg<N>.csv` | One collected-response file per study leg (11 files), as a study export would arrive |
+| `studies.ts` | Study and leg metadata |
+| `seed.ts` | Loader that turns the above into database rows |
+
+Five studies for a fictional consumer goods manufacturer, 3,875 responses total
+(500-1,000 per study), each landing on a deliberate overall sentiment:
+
+| Study | Product | Legs | Outcome |
+|---|---|---|---|
+| Sparkling water citrus reformulation | Cascade Sparkling Water | 3 | **Like** (56%) |
+| Plant protein bar launch readiness | Summit Plant Protein Bar | 2 | **Like** (55%) |
+| Concentrated laundry sheet concept test | PureFold Detergent Sheets | 1 | **Dislike** (56%) |
+| Oat creamer flavor extension | Meadow Oat Coffee Creamer | 3 | **Indifferent** (49%) |
+| Bamboo paper towel durability study | Everleaf Bamboo Paper Towels | 2 | **Indifferent** (51%) |
+
+Each study has its own question set, mixing open-ended questions with yes/no
+questions, and answers range from two words to full paragraphs.
+
+The CSVs carry a `coded_sentiment` column representing the research vendor's
+human coding. The seed uses it to pre-populate sentiment so the dashboard has
+data immediately. Real uploads have no such column — the Fireworks model
+supplies the sentiment. This also makes the fixtures usable as labelled
+training data for fine-tuning.
+
+To regenerate the fixtures from scratch (deterministic, fixed PRNG seed):
+
+```bash
+npm run seed:generate
+```
+
+The generator lives in [`scripts/`](scripts) and is a development tool only:
+neither the app nor the seed loader imports it. It validates every demographic
+value against the database enums before writing.
 
 ## Local development
 
@@ -63,7 +99,8 @@ npm run worker                # terminal 2: background pipeline
 | `npm run worker` | Background job worker (required for uploads and analysis) |
 | `npm run db:generate` | Generate a migration after editing `src/db/schema.ts` |
 | `npm run db:migrate` | Apply migrations, bootstrap the admin user |
-| `npm run db:seed` | Load demo data |
+| `npm run db:seed` | Load the demo fixtures |
+| `npm run seed:generate` | Regenerate the seed fixtures (dev tool) |
 | `npm test` | Unit tests |
 | `npm run typecheck` | Full TypeScript check |
 
