@@ -21,10 +21,22 @@ const ANALYSIS_INSTRUCTIONS = `Analyze this consumer research sentiment dataset 
 Be specific and cite percentages from the data. Keep it under 600 words.`;
 
 /** Call the hosted Glean agent and return its written analysis. */
+/** Build an absolute Glean API URL from the configured backend host. */
+export function gleanApiUrl(pathname: string): string {
+  if (!env.gleanBeUrl) {
+    throw new Error(
+      "GLEAN_BE_URL is not set. Set it to your Glean backend host, e.g. https://<instance>-be.glean.com"
+    );
+  }
+  return `${env.gleanBeUrl}${pathname.startsWith("/") ? pathname : `/${pathname}`}`;
+}
+
 async function callGleanAgent(payload: Record<string, unknown>): Promise<string> {
   const message = `${ANALYSIS_INSTRUCTIONS}\n\nDATA (JSON):\n${JSON.stringify(payload, null, 2)}`;
 
-  const res = await fetch(`${env.gleanBaseUrl}/rest/api/v1/agents/runs/wait`, {
+  // All Glean API requests go to the instance backend host (serverURL in the
+  // Glean developer docs), never a shared api.glean.com domain.
+  const res = await fetch(gleanApiUrl("/rest/api/v1/agents/runs/wait"), {
     method: "POST",
     headers: {
       Authorization: `Bearer ${env.gleanApiToken}`,

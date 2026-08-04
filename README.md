@@ -138,7 +138,7 @@ submitted once and the result is fanned back out.
 |---|---|
 | `GLEAN_API_TOKEN` | Glean API token |
 | `GLEAN_AGENT_ID` | Id of the hosted agent that writes the analysis |
-| `GLEAN_BASE_URL` | Glean API base URL |
+| `GLEAN_BE_URL` | **Glean backend host for all API requests**, e.g. `https://<instance>-be.glean.com`. The Glean developer docs call this `serverURL` / `server_url`. Instance specific: there is no shared `api.glean.com` host |
 | `GLEAN_MOCK` | `true` produces a deterministic local analysis instead of calling Glean |
 
 Create the agent once in Glean's agent builder with instructions along the lines of:

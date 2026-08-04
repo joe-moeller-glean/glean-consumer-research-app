@@ -52,7 +52,13 @@ export const env = {
   // Glean hosted agent used for the written overall analysis.
   gleanApiToken: optional("GLEAN_API_TOKEN"),
   gleanAgentId: optional("GLEAN_AGENT_ID"),
-  gleanBaseUrl: req("GLEAN_BASE_URL", "https://api.glean.com"),
+  /**
+   * Glean backend host for every Glean API request, e.g.
+   * https://<instance>-be.glean.com. This is the value the Glean developer
+   * docs call serverURL / server_url. It is instance specific: there is no
+   * shared api.glean.com host, so this must be set to reach a real agent.
+   */
+  gleanBeUrl: optional("GLEAN_BE_URL").replace(/\/+$/, ""),
   gleanMock: bool("GLEAN_MOCK", false),
 
   uploadsDir: req("UPLOADS_DIR", "./data/uploads"),
@@ -71,4 +77,4 @@ export const fireworksConfigured = (): boolean =>
 
 /** True when a real hosted Glean agent is configured. */
 export const gleanConfigured = (): boolean =>
-  Boolean(env.gleanApiToken && env.gleanAgentId) && !env.gleanMock;
+  Boolean(env.gleanApiToken && env.gleanAgentId && env.gleanBeUrl) && !env.gleanMock;
