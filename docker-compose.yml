@@ -1,3 +1,11 @@
+# web, worker, and migrate are the same image running different commands.
+# Pinning one explicit image name means a single build updates all three and they
+# can never drift apart.
+x-app: &app
+  build: .
+  image: glean-consumer-research:local
+  env_file: .env
+
 services:
   postgres:
     image: postgres:16-alpine
@@ -27,19 +35,17 @@ services:
 
   # Applies Drizzle migrations, then creates the bootstrap admin if no users exist.
   migrate:
-    build: .
+    <<: *app
     command: npm run db:migrate
-    env_file: .env
     depends_on:
       postgres:
         condition: service_healthy
     restart: "no"
 
   web:
-    build: .
+    <<: *app
     ports:
       - "3000:3000"
-    env_file: .env
     volumes:
       - uploads:/data/uploads
     depends_on:
@@ -50,9 +56,8 @@ services:
 
   # Runs the parse -> sentiment -> finalize pipeline and Glean analysis jobs.
   worker:
-    build: .
+    <<: *app
     command: npm run worker
-    env_file: .env
     volumes:
       - uploads:/data/uploads
     depends_on:

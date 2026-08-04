@@ -83,6 +83,20 @@ The generator lives in [`scripts/`](scripts) and is a development tool only:
 neither the app nor the seed loader imports it. It validates every demographic
 value against the database enums before writing.
 
+### Applying changes
+
+`web`, `worker`, and `migrate` are one image (`glean-consumer-research:local`)
+running three different commands, so a single build updates all of them.
+
+| Changed | Command |
+|---|---|
+| `.env` | `docker compose up -d --force-recreate` — `env_file` is read when a container is **created**, so `restart` keeps the old values |
+| App code or seed fixtures | `docker compose build && docker compose up -d --force-recreate` |
+
+Build the whole project, not a single service: `docker compose build web` would
+leave `worker` on an older image, and the pipeline and Glean analysis both run in
+the worker.
+
 ## Local development
 
 ```bash
